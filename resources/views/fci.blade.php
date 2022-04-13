@@ -1,469 +1,4192 @@
-
 <!DOCTYPE html>
-<!--[if IE 7]>
-<html class="ie ie7" lang="en-US">
-<![endif]-->
-<!--[if IE 8]>
-<html class="ie ie8" lang="en-US">
-<![endif]-->
-<!--[if !(IE 7) | !(IE 8)  ]><!-->
-<html lang="en-US"class="tcb">
-	<!--<![endif]-->
-	<head>
-				<meta charset="UTF-8"/>
-								
-						<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<html lang="en-US">
 
-		<title>Foreign Copywriting Initiative</title>
-<meta name='robots' content='max-image-preview:large' />
-<link rel='dns-prefetch' href='//analytics.aweber.com' />
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://andymukolo.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://andymukolo.com/comments/feed/" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/andymukolo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.4"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel='stylesheet' id='tve_landing_page_base_css-css'  href='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/landing-page/templates/css/base.css?ver=3.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='tve_style_family_tve_flt-css'  href='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_flat.css?ver=3.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='pt-cv-public-style-css'  href='https://andymukolo.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=2.4.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://andymukolo.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4' type='text/css' media='all' />
-<link rel='stylesheet' id='themezee-magazine-blocks-css'  href='https://andymukolo.com/wp-content/plugins/themezee-magazine-blocks/assets/css/themezee-magazine-blocks.css?ver=1.1.3' type='text/css' media='all' />
-<link rel='stylesheet' id='optinforms-stylesheet-css'  href='https://andymukolo.com/wp-content/plugins/optin-forms/css/optinforms.css?ver=1.2.9.8' type='text/css' media='all' />
-<link rel='stylesheet' id='optinforms-googleFont-css'  href='//fonts.googleapis.com/css?family=Droid+Serif&#038;ver=5.8.4' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='https://andymukolo.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
-<link rel='stylesheet' id='salient-wpbakery-addons-css'  href='https://andymukolo.com/wp-content/plugins/salient-core/css/salient-wpbakery-addons-basic.css?ver=1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='nectar-slider-fonts-css'  href='https://andymukolo.com/wp-content/plugins/salient-nectar-slider/css/nectar-slider-fonts.css?ver=1.2' type='text/css' media='all' />
-<link rel='stylesheet' id='nectar-portfolio-grid-css'  href='https://andymukolo.com/wp-content/plugins/salient-portfolio/css/portfolio-grid.css?ver=1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='salient-social-css'  href='https://andymukolo.com/wp-content/plugins/salient-social/css/style.css?ver=1.0' type='text/css' media='all' />
+<head>
+    <meta charset="UTF-8">
 
-<link rel='stylesheet' id='salient-social-icons-css'  href='https://andymukolo.com/wp-content/plugins/salient-social/css/icons.css?ver=1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='salient-widgets-css'  href='https://andymukolo.com/wp-content/plugins/salient-widgets/css/widget-nectar-posts.css?ver=1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='the_editor_no_theme-css'  href='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/css/no-theme.css?ver=3.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='wpos-slick-style-css'  href='https://andymukolo.com/wp-content/plugins/wp-responsive-recent-post-slider/assets/css/slick.css?ver=3.0.1' type='text/css' media='all' />
-<link rel='stylesheet' id='wppsac-public-style-css'  href='https://andymukolo.com/wp-content/plugins/wp-responsive-recent-post-slider/assets/css/recent-post-style.css?ver=3.0.1' type='text/css' media='all' />
-<link rel='stylesheet' id='generate-blog-css'  href='https://andymukolo.com/wp-content/plugins/gp-premium/blog/functions/css/style-min.css?ver=1.8.2' type='text/css' media='all' />
-<link rel='stylesheet' id='srpw-style-css'  href='https://andymukolo.com/wp-content/plugins/smart-recent-posts-widget/assets/css/srpw-frontend.css?ver=5.8.4' type='text/css' media='all' />
-<link rel='stylesheet' id='generate-offside-css'  href='https://andymukolo.com/wp-content/plugins/gp-premium/menu-plus/functions/css/offside.min.css?ver=1.8.2' type='text/css' media='all' />
-<link rel='stylesheet' id='gp-premium-icons-css'  href='https://andymukolo.com/wp-content/plugins/gp-premium/general/icons/icons.min.css?ver=1.8.2' type='text/css' media='all' />
-<script type='text/javascript' src='//analytics.aweber.com/js/awt_analytics.js?id=iAtU' id='script-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/optin-forms/js/placeholder.js?ver=1.2.9.8' id='placeholder-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/salient-core/js/third-party/jquery.easing.js?ver=1.1' id='jquery-easing-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/salient-core/js/third-party/imagesLoaded.min.js?ver=1.1' id='imagesLoaded-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/salient-core/js/init.js?ver=1.1' id='salient-wpbakery-addons-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
-<script type='text/javascript' id='tve_frontend-js-extra'>
-/* <![CDATA[ */
-var tve_frontend_options = {"ajaxurl":"https:\/\/andymukolo.com\/wp-admin\/admin-ajax.php","is_editor_page":"","page_events":[],"is_single":"1","social_fb_app_id":"","dash_url":"https:\/\/andymukolo.com\/wp-content\/plugins\/thrive-visual-editor\/thrive-dashboard","queried_object":{"ID":1218,"post_author":"1"},"translations":{"Copy":"Copy","empty_username":"ERROR: The username field is empty.","empty_password":"ERROR: The password field is empty.","empty_login":"ERROR: Enter a username or email address.","min_chars":"At least %s characters are needed","no_headings":"No headings found","registration_err":{"required_field":"<strong>Error<\/strong>: This field is required","required_email":"<strong>Error<\/strong>: Please type your email address.","invalid_email":"<strong>Error<\/strong>: The email address isn&#8217;t correct.","passwordmismatch":"<strong>Error<\/strong>: Password mismatch"}},"routes":{"posts":"https:\/\/andymukolo.com\/wp-json\/tcb\/v1\/posts"},"nonce":"b30bd44a25","allow_video_src":"","post_request_data":[],"ip":"197.211.52.33","current_user":[],"post_id":"1218","post_title":"Foreign Copywriting Initiative","post_type":"page","post_url":"https:\/\/andymukolo.com\/foreign-copywriting-initiative\/","is_lp":"tcb2-copy-2-0-hybrid-sales-page-image-version"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/general.min.js?ver=3.0.2' id='tve_frontend-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-includes/js/plupload/moxie.min.js?ver=1.3.5' id='moxiejs-js'></script>
-<script type='text/javascript' id='chronus-jquery-navigation-js-extra'>
-/* <![CDATA[ */
-var chronus_menu_title = "<svg class=\"icon icon-menu\" aria-hidden=\"true\" role=\"img\"> <use xlink:href=\"https:\/\/andymukolo.com\/wp-content\/themes\/chronus\/assets\/icons\/genericons-neue.svg#menu\"><\/use> <\/svg>Menu";
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/themes/chronus/assets/js/navigation.min.js?ver=20170725' id='chronus-jquery-navigation-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/themes/chronus/assets/js/svgxuse.min.js?ver=1.2.4' id='svgxuse-js'></script>
-<link rel="https://api.w.org/" href="https://andymukolo.com/wp-json/" /><link rel="alternate" type="application/json" href="https://andymukolo.com/wp-json/wp/v2/pages/1218" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://andymukolo.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://andymukolo.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.8.4" />
-<link rel="canonical" href="https://andymukolo.com/foreign-copywriting-initiative/" />
-<link rel='shortlink' href='https://andymukolo.com/?p=1218' />
-<link rel="alternate" type="application/json+oembed" href="https://andymukolo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fandymukolo.com%2Fforeign-copywriting-initiative%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://andymukolo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fandymukolo.com%2Fforeign-copywriting-initiative%2F&#038;format=xml" />
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-N8FF9BQ');</script>
-<!-- End Google Tag Manager -->    <style type="text/css" id="tve_global_variables">:root{--tcb-background-author-image:url(https://secure.gravatar.com/avatar/be837a1f9e242b3f551c4e46a2d27744?s=256&d=mm&r=g);--tcb-background-user-image:url();--tcb-background-featured-image-thumbnail:url(https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/css/images/featured_image.png);}</style>		<!-- HappyForms global container -->
-		<script type="text/javascript">HappyForms = {};</script>
-		<!-- End of HappyForms global container -->
-		<!-- Analytics by WP-Statistics v13.1 - https://wp-statistics.com/ -->
 
-<!-- Facebook Pixel Code -->
-<script type='text/javascript'>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-</script>
-<!-- End Facebook Pixel Code -->
-<script type='text/javascript'>
-  fbq('init', '405846196987030', {}, {
-    "agent": "wordpress-5.8.4-3.0.5"
-});
-</script><script type='text/javascript'>
-  fbq('track', 'PageView', []);
-</script>
-<!-- Facebook Pixel Code -->
-<noscript>
-<img height="1" width="1" style="display:none" alt="fbpx"
-src="https://www.facebook.com/tr?id=405846196987030&ev=PageView&noscript=1" />
-</noscript>
-<!-- End Facebook Pixel Code -->
-<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://andymukolo.com/wp-content/plugins/js_composer_salient/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://andymukolo.com/wp-content/uploads/2020/01/cropped-AM-3-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://andymukolo.com/wp-content/uploads/2020/01/cropped-AM-3-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://andymukolo.com/wp-content/uploads/2020/01/cropped-AM-3-180x180.png" />
-<meta name="msapplication-TileImage" content="https://andymukolo.com/wp-content/uploads/2020/01/cropped-AM-3-270x270.png" />
-			<style class="tve_custom_style">@import url("//fonts.googleapis.com/css?family=Playfair+Display:400,700,900,&subset=latin");@import url("//fonts.googleapis.com/css?family=Hind:400,600,300,500,700&subset=latin");@import url("//fonts.googleapis.com/css?family=Palanquin:400,600,200,300&subset=latin");@import url("//fonts.googleapis.com/css?family=Montserrat:400,700,300&subset=latin");@import url("//fonts.googleapis.com/css?family=Gentium+Basic:400,700&subset=latin");@import url("//fonts.googleapis.com/css?family=Lato:400,700,100,900,300&subset=latin");@media (min-width:300px){#tcb_landing_page h3{font-family:Lato;color:rgb(12,129,191);font-size:40px;line-height:73px;font-weight:400;}#tcb_landing_page h1 strong{font-weight:700;}#tcb_landing_page h1{font-family:Lato;font-weight:400;color:rgb(255,255,255);font-size:70px;line-height:90px;}#tcb_landing_page p strong,#tcb_landing_page li strong{font-weight:700;}#tcb_landing_page p,#tcb_landing_page li{font-family:"Gentium Basic";font-weight:400;font-size:22px;line-height:36px;}[data-css="tve-u-15dd1d44b82"]{background-color:rgb(249,249,249) !important;}[data-css="tve-u-15de99116ec"]{margin-top:0px !important;margin-bottom:0px !important;padding:0px !important;}[data-css="tve-u-15e3474ceb7"]{max-width:855px;float:none;display:block;padding:5px 20px !important;margin:0px auto !important;}#tcb_landing_page .thrv_text_element a,#tcb_landing_page .tcb-styled-list a,#tcb_landing_page .tcb-numbered-list a{font-size:22px;color:rgb(12,129,191);}#tcb_landing_page h2{font-family:Lato;font-weight:400;font-size:70px;line-height:90px;color:rgb(255,255,255);background-color:rgba(0,0,0,0);font-style:normal;margin:0px;padding:0px;text-decoration:none solid rgb(255,255,255);text-transform:none;border-left:0px none rgb(255,255,255);}#tcb_landing_page h2 strong{font-weight:700;}[data-css="tve-u-16edb934aa1"] .tcb-button-link{border-radius:200px;padding:18px 30px;background-image:none !important;background-color:rgb(10,10,10) !important;}:not(#tve) [data-css="tve-u-16edb934aa1"]:hover .tcb-button-link{background-color:rgb(0,0,0) !important;}:not(#tve) [data-css="tve-u-16edb934aa1"] .tcb-button-link{line-height:1.2em;font-size:32px;}[data-css="tve-u-16edb934aa1"]{display:block;max-width:50%;width:50%;float:none;margin-left:auto !important;margin-right:auto !important;}:not(#tve) [data-css="tve-u-16edbba2c7c"]{--tcb-applied-color:rgb(255,253,253);--g-regular-weight:400;--g-bold-weight:700;color:rgb(255,253,253) !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] p,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] li,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] blockquote,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] address,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] .tcb-plain-text,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] label,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] h1,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] h2,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] h3,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] h4,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] h5,:not(#tve) .thrv-content-box [data-css="tve-u-16edd3a6f53"] h6{color:rgb(0,0,0);--tcb-applied-color:rgb(0,0,0);}[data-css="tve-u-16edd3a6f56"]{border-radius:20px 20px 0px 0px;box-shadow:rgba(0,152,231,0.4) 0px 8px 27px 0px,rgb(0,152,231) 0px 8px 0px 0px;background-color:rgba(0,0,0,0) !important;}[data-css="tve-u-16edd5c8954"]{max-width:1080px;min-height:1000px !important;}.tve_post_lp > div >:not(#tve){--page-section-max-width:825px;}[data-css="tve-u-16edd3a6f53"]{text-align:center;}[data-css="tve-u-170c93ea5e2"] .tve-page-section-in{display:block;}[data-css="tve-u-170c93ea5e2"]{display:block;z-index:10 !important;}[data-css="tve-u-170c964f3a3"]{width:611px;float:none;margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-170c964f3b4"]{margin-top:0px;margin-left:0px;}:not(#tve) [data-css="tve-u-1710d099bb2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:30px !important;background-color:rgb(200,228,239) !important;}:not(#tve) [data-css="tve-u-1710d099bb7"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:30px !important;background-color:rgb(200,228,239) !important;}:not(#tve) [data-css="tve-u-1710d099bbb"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:30px !important;background-color:rgb(200,228,239) !important;}:not(#tve) [data-css="tve-u-1710d099bbe"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:30px !important;background-color:rgb(200,228,239) !important;}:not(#tve) [data-css="tve-u-1710d099bb2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d099bb7"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d099bbb"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d099bbe"] strong{font-weight:700 !important;}[data-css="tve-u-1710d0c5534"]{display:inline-block !important;text-decoration:underline !important;color:rgb(0,0,0) !important;}[data-css="tve-u-1710d0c553d"]{background-color:rgb(181,216,230) !important;color:rgb(255,1,1) !important;}[data-css="tve-u-1710d0dfae9"]{color:rgb(255,1,1) !important;}:not(#tve) [data-css="tve-u-1710d0e5216"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:35px !important;background-color:rgb(200,228,239) !important;}:not(#tve) [data-css="tve-u-1710d1239ad"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:30px !important;background-color:rgb(200,228,239) !important;line-height:1.7em !important;}:not(#tve) [data-css="tve-u-1710d1239ad"] strong{font-weight:700 !important;}[data-css="tve-u-1710d15253a"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d15253d"]{font-size:30px !important;}[data-css="tve-u-1710d18ee4a"]{font-size:30px !important;}[data-css="tve-u-1710d196266"]{font-size:30px !important;}[data-css="tve-u-1710d1b011f"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d1b0121"]{font-size:30px !important;}[data-css="tve-u-1710d1b8a63"]{font-size:30px !important;}[data-css="tve-u-1710d1fe95d"]{font-size:30px !important;}[data-css="tve-u-1710d20e180"]{font-size:30px !important;}[data-css="tve-u-1710d20e185"]{font-size:30px !important;}[data-css="tve-u-1710d2240d4"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d2240d5"]{font-size:30px !important;}[data-css="tve-u-1710d22ac83"]{font-size:30px !important;}:not(#tve) [data-css="tve-u-1710d2335d5"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1710d26a893"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d26a895"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d2871a6"]{font-size:20px !important;}:not(#tve) [data-css="tve-u-1710d28e764"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d2947d5"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1710d299b55"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d299b57"]{text-decoration:underline !important;}[data-css="tve-u-1710d299b5a"]{display:inline-block !important;}[data-css="tve-u-1710d299b5f"]{font-size:20px !important;}:not(#tve) [data-css="tve-u-1710d2a2d03"]{--g-regular-weight:400;--g-bold-weight:700;line-height:0.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d2a2d07"]{--g-regular-weight:400;--g-bold-weight:700;line-height:0.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d2a2d09"]{--g-regular-weight:400;--g-bold-weight:700;line-height:0.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d2a2d0c"]{--g-regular-weight:400;--g-bold-weight:700;line-height:0.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d2c5368"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1710d2d0d56"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d2e0241"]{display:inline-block !important;text-decoration:underline !important;}:not(#tve) [data-css="tve-u-1710d2ede8f"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1710d2fdaa9"]{display:inline-block !important;text-decoration:underline !important;font-size:30px !important;}:not(#tve) [data-css="tve-u-1710d31aa95"]{--g-regular-weight:400;--g-bold-weight:700;font-weight:var(--g-regular-weight,normal)!important;font-family:Montserrat !important;}:not(#tve) [data-css="tve-u-1710d31aa98"]{--g-regular-weight:400;--g-bold-weight:700;font-weight:var(--g-regular-weight,normal)!important;font-family:Montserrat !important;}:not(#tve) [data-css="tve-u-1710d31aa9a"]{--g-regular-weight:400;--g-bold-weight:700;font-weight:var(--g-regular-weight,normal)!important;font-family:Montserrat !important;}[data-css="tve-u-1710d31c09d"]{font-size:30px !important;font-family:Montserrat !important;font-weight:400 !important;display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d31ccc7"]{font-size:30px !important;}[data-css="tve-u-1710d355177"]{font-size:30px !important;display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d355f82"]{font-size:30px !important;}:not(#tve) [data-css="tve-u-1710d3ac34f"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;font-weight:var(--g-regular-weight,normal)!important;text-transform:none !important;line-height:1.2em !important;font-family:Montserrat !important;}[data-css="tve-u-1710d3ac421"]{display:inline-block !important;text-decoration:underline !important;}:not(#tve) [data-css="tve-u-1710d3c199b"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1710d3c1a7c"]{display:inline-block !important;text-decoration:underline !important;}:not(#tve) [data-css="tve-u-1710d3d26db"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d446157"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d45920e"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d4aa266"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d4aa271"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d4aa273"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d4d7619"]{--g-regular-weight:400;--g-bold-weight:700;line-height:0.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1710d4ede5b"]{font-size:20px !important;}[data-css="tve-u-1710d4ede7c"]{font-size:20px !important;}[data-css="tve-u-1710d4ede96"]{font-size:20px !important;}[data-css="tve-u-1710d4edeaf"]{font-size:20px !important;}[data-css="tve-u-1710d4edec1"]{font-size:20px !important;}[data-css="tve-u-1710d525930"]{font-size:22px !important;background-color:rgb(255,188,9) !important;}[data-css="tve-u-1710d54c894"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d54c898"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d54c8a2"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d5519ac"]{font-size:22px !important;}[data-css="tve-u-1710d552774"]{font-size:22px !important;}:not(#tve) [data-css="tve-u-1710d55312a"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d55312d"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1710d58b696"]{font-size:50px !important;}[data-css="tve-u-1710d58b69a"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d6f4192"]{font-size:20px !important;}[data-css="tve-u-1710d6f419c"]{font-size:22px !important;}:not(#tve) [data-css="tve-u-1710d720782"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1710d758a79"]{font-size:50px !important;color:rgb(2,118,2) !important;}[data-css="tve-u-1710d758a8d"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d760fd2"]{color:rgb(2,118,2) !important;}:not(#tve) [data-css="tve-u-1710e52a438"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710e536be1"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.5em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710e536be9"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.5em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710e5409b3"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1710e54cd15"]{font-size:30px !important;display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710e54cd31"]{font-size:22px !important;background-color:rgb(255,188,9) !important;}[data-css="tve-u-1710e54cd41"]{background-color:rgb(255,188,9) !important;}[data-css="tve-u-1710e54cd44"]{background-color:rgb(255,188,9) !important;}[data-css="tve-u-1710e54cd46"]{background-color:rgb(255,188,9) !important;}[data-css="tve-u-1710e5aac61"]{float:none;z-index:3;position:relative;margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-17110627f3d"]{font-size:30px !important;}[data-css="tve-u-17110627f4b"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-17110627f5b"]{font-size:30px !important;}[data-css="tve-u-17110627f64"]{font-size:22px !important;display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-17110627fc3"]{font-size:22px !important;}[data-css="tve-u-1711063b16d"] .tcb-button-link{border-radius:200px;padding:18px 30px;background-image:none !important;background-color:rgb(10,10,10) !important;}:not(#tve) [data-css="tve-u-1711063b16d"]:hover .tcb-button-link{background-color:rgb(0,0,0) !important;}:not(#tve) [data-css="tve-u-1711063b16d"] .tcb-button-link{line-height:1.2em;font-size:32px;}[data-css="tve-u-1711063b16d"]{display:block;max-width:50%;width:50%;float:none;margin-left:auto !important;margin-right:auto !important;}:not(#tve) [data-css="tve-u-171108d9e01"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;line-height:1.5em !important;}:not(#tve) [data-css="tve-u-171108d9e01"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-171108d9e08"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;line-height:1.5em !important;}:not(#tve) [data-css="tve-u-171108d9e08"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d586e67"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:30px !important;background-color:rgb(200,228,239) !important;}:not(#tve) [data-css="tve-u-1712d586e67"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d586e7c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:30px !important;background-color:rgb(200,228,239) !important;}:not(#tve) [data-css="tve-u-1712d586e7c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d586e90"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:30px !important;background-color:rgb(200,228,239) !important;line-height:1.7em !important;}:not(#tve) [data-css="tve-u-1712d586e90"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d586ea3"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;font-size:30px !important;background-color:rgb(200,228,239) !important;}:not(#tve) [data-css="tve-u-1712d586ea3"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d0e5216"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d01"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d1a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d1c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d1e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d25"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d27"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d29"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d2b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d2d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d2f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d31"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d33"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d35"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d37"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d39"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d3c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d3e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d4a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d4f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d51"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d57"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d5a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d5d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d5f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d61"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d63"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d65"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d67"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d69"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d6b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d6d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d70"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d83"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d85"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d87"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d89"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d8b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d8e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d90"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d93"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d95"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d97"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d99"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d9b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d9d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d9f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597da1"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597da3"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597da6"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597da8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597daa"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dac"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dae"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597db0"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597db2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597db4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597db9"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dbb"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dbd"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dbf"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dc1"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dc3"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dc5"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dc7"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dca"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dcc"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dd4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dd9"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ddb"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ddd"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597de2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597de6"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597de8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dea"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dec"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dee"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597df1"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597df3"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597df6"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597df8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dfa"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597dfc"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e00"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e0e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e10"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e12"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e15"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e17"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e19"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e1b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e29"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e2d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e30"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e32"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e34"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e37"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e39"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e3b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e3d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e3f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e42"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e44"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e46"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e49"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e4b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e4d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e4f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e51"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e54"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e56"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e59"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e5b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e5d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e5f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e61"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e63"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e66"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e68"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e6b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e6d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e6f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e71"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e73"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e76"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e7a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;line-height:1.7em !important;}:not(#tve) [data-css="tve-u-1712d597e7d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e84"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e86"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e88"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e8b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e8d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e8f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e91"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e94"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e96"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e98"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e9a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e9d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597e9f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ea1"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ea4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ea6"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597eaa"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597eaf"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597eb4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597eb6"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ebf"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ec2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ec5"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ec7"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ec9"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ed1"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ed3"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ed6"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ed8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597eda"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597edd"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ee0"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ee2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ee4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ee6"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ee9"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597eeb"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597eed"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597eef"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ef2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ef4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ef7"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ef9"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597efc"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597efe"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f00"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f05"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f07"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f09"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f0b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f0d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f10"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f12"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f14"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f1b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f1d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f20"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f3e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f40"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f4c"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f5a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;line-height:1.2em !important;}:not(#tve) [data-css="tve-u-1712d597f5c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f5e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f61"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f63"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f65"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f68"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f6a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f6c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f6e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f71"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f73"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f76"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f78"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f7a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f7d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f7f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f81"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f84"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f86"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f88"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f8a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f8d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f8f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f91"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f94"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f97"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f99"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f9b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597f9d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597fa0"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597fa2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597fa4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597fd2"]{--g-regular-weight:400;--g-bold-weight:700;line-height:0.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597fdd"]{--g-regular-weight:400;--g-bold-weight:700;line-height:0.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597fe7"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597ffc"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598002"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598009"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598010"]{--g-regular-weight:400;--g-bold-weight:700;line-height:1.3em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d59802c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598034"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598037"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d59803e"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d59804b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d59804d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598050"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598053"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598055"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598057"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598059"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d59805c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d59805e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598061"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598068"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d59806f"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598075"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598077"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d59807c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598081"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598083"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d598085"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d59808b"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;line-height:1.2em !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d597d01"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d1a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d1c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d1e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d25"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d27"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d29"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d2b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d2d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d2f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d31"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d33"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d35"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d37"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d39"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d3c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d3e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d4a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d4f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d51"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d57"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d5a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d5d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d5f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d61"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d63"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d65"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d67"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d69"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d6b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d6d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d70"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d83"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d85"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d87"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d89"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d8b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d8e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d90"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d93"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d95"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d97"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d99"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d9b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d9d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597d9f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597da1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597da3"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597da6"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597da8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597daa"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dac"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dae"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597db0"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597db2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597db4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597db9"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dbb"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dbd"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dbf"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dc1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dc3"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dc5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dc7"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dca"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dcc"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dd4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dd9"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ddb"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ddd"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597de2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597de6"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597de8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dea"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dec"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dee"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597df1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597df3"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597df6"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597df8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dfa"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597dfc"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e00"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e0e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e10"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e12"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e15"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e17"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e19"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e1b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710e536be1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710e536be9"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e29"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e2d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e30"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e32"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e34"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e37"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e39"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e3b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e3d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e3f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e42"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e44"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e46"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e49"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e4b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e4d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e4f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e51"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e54"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e56"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e59"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e5b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e5d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e5f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e61"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e63"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e66"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e68"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e6b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e6d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e6f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e71"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e73"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e76"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e7a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e7d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e84"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e86"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e88"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e8b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e8d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e8f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e91"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e94"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e96"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e98"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e9a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e9d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597e9f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ea1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ea4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ea6"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597eaa"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597eaf"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597eb4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597eb6"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ebf"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ec2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ec5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ec7"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ec9"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ed1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ed3"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ed6"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ed8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597eda"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597edd"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ee0"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ee2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ee4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ee6"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ee9"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597eeb"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597eed"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597eef"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ef2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ef4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ef7"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ef9"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597efc"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597efe"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f00"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f05"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f07"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f09"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f0b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f0d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f10"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f12"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f14"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d2335d5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f1b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f1d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f20"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f3e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f40"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d55312a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710e5409b3"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f4c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d55312d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710e52a438"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f5a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f5c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f5e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f61"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f63"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f65"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f68"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f6a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f6c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f6e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f71"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f73"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f76"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f78"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f7a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f7d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f7f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f81"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f84"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f86"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f88"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f8a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f8d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f8f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f91"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f94"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f97"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f99"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f9b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597f9d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597fa0"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597fa2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597fa4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d2a2d03"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597fd2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d2a2d07"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597fdd"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d2a2d0c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597fe7"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d4d7619"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d2947d5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d28e764"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d720782"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d597ffc"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598002"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598009"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598010"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d446157"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d45920e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d4aa266"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d4aa271"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d2a2d09"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d59802c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d4aa273"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598034"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598037"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d59803e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d2c5368"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d59804b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d59804d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598050"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598053"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598055"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598057"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598059"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d59805c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d59805e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598061"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598068"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d59806f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598075"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598077"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d59807c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598081"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598083"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d598085"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d59808b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d2ede8f"] strong{font-weight:700 !important;}[data-css="tve-u-1712d598b9b"]{font-size:22px !important;}[data-css="tve-u-1712d598ba4"]{background-color:rgb(255,188,9) !important;}[data-css="tve-u-1712d598c9b"]{display:inline-block !important;text-decoration:underline !important;}:not(#tve) [data-css="tve-u-1712d5cb3ff"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5cb3ff"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5ec9a4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5ec9a8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5ec9ab"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1710d3d26db"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5ec9a4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5ec9a8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5ec9ab"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f17d1"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f184f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1852"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f188f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1891"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1894"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1898"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f189b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f189e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18a2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18a5"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18a8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18ab"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18af"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;font-weight:var(--g-regular-weight,normal)!important;text-transform:none !important;line-height:1.2em !important;font-family:Montserrat !important;}:not(#tve) [data-css="tve-u-1712d5f18c1"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18c4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18c7"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18cb"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18ce"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18d1"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18d4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18d8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18de"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18e2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18e5"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18e8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18eb"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18ee"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18f2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18f5"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18f8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18fb"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f18fe"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1901"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f190c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f190f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1912"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1915"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1918"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f191d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1921"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1924"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1927"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f192a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f192d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1930"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1933"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1937"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f193a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f193d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f1940"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712d5f17d1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d31aa95"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d31aa98"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d31aa9a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f184f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1852"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f188f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1891"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1894"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1898"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f189b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f189e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18a2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18a5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18a8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18ab"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18af"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d3ac34f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18c1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18c4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18c7"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18cb"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18ce"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18d1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18d4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18d8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18de"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18e2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18e5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18e8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18eb"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18ee"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18f2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18f5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18f8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18fb"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f18fe"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1901"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1710d3c199b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f190c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f190f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1912"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1915"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1918"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f191d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1921"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1924"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1927"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f192a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f192d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1930"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1933"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1937"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f193a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f193d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712d5f1940"] strong{font-weight:700 !important;}[data-css="tve-u-1712d5f1d70"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712d5f1d73"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712d7c805c"]::after{clear:both;}:not(#tve) [data-css="tve-u-1712d7c805d"] >:first-child{color:rgba(255,255,255,0.3);}[data-css="tve-u-1712d7c805d"]{font-size:25px;width:25px;height:25px;float:right;z-index:3;position:relative;margin-bottom:0px !important;margin-top:-15px !important;}[data-css="tve-u-1712d7c805a"]{margin-bottom:0px !important;}[data-css="tve-u-1712d7c8058"]{margin-top:5px !important;margin-bottom:5px !important;}[data-css="tve-u-1712d7c8059"]{line-height:30px !important;}:not(#tve) [data-css="tve-u-1712d7c8059"]{font-weight:300;font-family:Lato !important;color:rgb(52,52,52) !important;font-size:20px !important;}[data-css="tve-u-1712d7c8055"]{margin-top:1px !important;padding:60px 40px 40px !important;margin-bottom:0px !important;}[data-css="tve-u-1712d7c8056"]{border:3px solid rgb(229,55,43) !important;}[data-css="tve-u-1712d7c8054"]{float:none;width:562px;border:3px solid rgb(229,55,43);border-radius:90px;overflow:hidden;z-index:5;position:relative;margin:1px auto -50px !important;}[data-css="tve-u-1712d7c8052"] h3{margin:0px !important;padding:0px !important;}[data-css="tve-u-1712d7c8052"] h2{margin:0px !important;padding:0px !important;}[data-css="tve-u-1712d7c8052"] h1{margin:0px !important;padding:0px !important;}[data-css="tve-u-1712d7c8052"] p{margin:0px !important;padding:0px !important;}[data-css="tve-u-1712d7c8057"]{line-height:30px !important;}:not(#tve) [data-css="tve-u-1712d7c8057"]{font-weight:400;font-family:Lato !important;color:rgb(52,52,52) !important;font-size:26px !important;}[data-css="tve-u-1712d7dde04"]{margin-top:0px;margin-left:0px;}[data-css="tve-u-1712d85ef6d"]{font-size:30px !important;}:not(#tve) [data-css="tve-u-1712da60b66"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;line-height:1.7em !important;}:not(#tve) [data-css="tve-u-1712da60b66"] strong{font-weight:700 !important;}[data-css="tve-u-1712dada559"]{font-size:30px !important;}[data-css="tve-u-1712dada5aa"]{font-size:30px !important;}[data-css="tve-u-1712dada611"]{font-family:Montserrat !important;font-weight:400 !important;font-size:22px !important;}[data-css="tve-u-1712dada61c"]{font-weight:400 !important;}[data-css="tve-u-1712dada621"]{font-family:Montserrat !important;}[data-css="tve-u-1712dada611"] strong{font-weight:700 !important;}[data-css="tve-u-1712dae3d39"]{font-size:22px !important;}[data-css="tve-u-1712db35705"]{font-family:Montserrat !important;font-weight:400 !important;font-size:22px !important;}[data-css="tve-u-1712db35705"] strong{font-weight:700 !important;}[data-css="tve-u-1712db35714"]{font-family:Montserrat !important;font-weight:400 !important;font-size:22px !important;}[data-css="tve-u-1712db35714"] strong{font-weight:700 !important;}[data-css="tve-u-1712db35749"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712db3574d"]{font-weight:400 !important;}[data-css="tve-u-1712db35750"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35754"]{font-weight:400 !important;}[data-css="tve-u-1712db35757"]{font-family:Montserrat !important;}[data-css="tve-u-1712db3575b"]{font-weight:400 !important;}[data-css="tve-u-1712db3575f"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35762"]{font-weight:400 !important;}[data-css="tve-u-1712db35765"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35769"]{font-weight:400 !important;}[data-css="tve-u-1712db3576c"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35770"]{font-weight:400 !important;}[data-css="tve-u-1712db35774"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35777"]{font-weight:400 !important;}[data-css="tve-u-1712db3577b"]{font-family:Montserrat !important;}[data-css="tve-u-1712db3577e"]{font-weight:400 !important;}[data-css="tve-u-1712db35782"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35785"]{font-weight:400 !important;}[data-css="tve-u-1712db35789"]{font-family:Montserrat !important;}[data-css="tve-u-1712db3578d"]{font-weight:400 !important;}[data-css="tve-u-1712db35790"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35794"]{font-weight:400 !important;}[data-css="tve-u-1712db35797"]{font-family:Montserrat !important;}[data-css="tve-u-1712db3579b"]{font-weight:400 !important;}[data-css="tve-u-1712db3579e"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357a2"]{font-weight:400 !important;}[data-css="tve-u-1712db357a6"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357a9"]{font-weight:400 !important;}[data-css="tve-u-1712db357ad"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357b0"]{font-weight:400 !important;}[data-css="tve-u-1712db357b4"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357b8"]{font-weight:400 !important;}[data-css="tve-u-1712db357bb"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357bf"]{font-weight:400 !important;}[data-css="tve-u-1712db357c2"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357c6"]{font-weight:400 !important;}[data-css="tve-u-1712db357ca"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357ce"]{font-weight:400 !important;}[data-css="tve-u-1712db357d1"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357d5"]{font-weight:400 !important;}[data-css="tve-u-1712db357d8"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357dc"]{font-weight:400 !important;}[data-css="tve-u-1712db357df"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357e3"]{font-weight:400 !important;}[data-css="tve-u-1712db357e6"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357ea"]{font-weight:400 !important;}[data-css="tve-u-1712db357ee"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357f8"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712db35749"] strong{font-weight:700 !important;}[data-css="tve-u-1712db76a0d"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712db76a67"]{font-weight:400 !important;}[data-css="tve-u-1712db76a75"]{font-family:Montserrat !important;}[data-css="tve-u-1712db76bbb"]{font-size:30px !important;}[data-css="tve-u-1712dc97841"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712dc97848"]{font-weight:400 !important;}[data-css="tve-u-1712dc9784d"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97851"]{font-weight:400 !important;}[data-css="tve-u-1712dc97855"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97859"]{font-weight:400 !important;}[data-css="tve-u-1712dc9785d"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97861"]{font-weight:400 !important;}[data-css="tve-u-1712dc97865"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97868"]{font-weight:400 !important;}[data-css="tve-u-1712dc9786c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97870"]{font-weight:400 !important;}[data-css="tve-u-1712dc97874"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97877"]{font-weight:400 !important;}[data-css="tve-u-1712dc9787b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9787f"]{font-weight:400 !important;}[data-css="tve-u-1712dc97883"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97886"]{font-weight:400 !important;}[data-css="tve-u-1712dc9788a"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9788e"]{font-weight:400 !important;}[data-css="tve-u-1712dc97892"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97895"]{font-weight:400 !important;}[data-css="tve-u-1712dc97899"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9789d"]{font-weight:400 !important;}[data-css="tve-u-1712dc978a0"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978a4"]{font-weight:400 !important;}[data-css="tve-u-1712dc978a8"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978ab"]{font-weight:400 !important;}[data-css="tve-u-1712dc978af"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978b3"]{font-weight:400 !important;}[data-css="tve-u-1712dc978b7"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978bb"]{font-weight:400 !important;}[data-css="tve-u-1712dc978be"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978ca"]{font-weight:400 !important;}[data-css="tve-u-1712dc978ce"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978d2"]{font-weight:400 !important;}[data-css="tve-u-1712dc978d5"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978d9"]{font-weight:400 !important;}[data-css="tve-u-1712dc978dd"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978e0"]{font-weight:400 !important;}[data-css="tve-u-1712dc978e4"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978e8"]{font-weight:400 !important;}[data-css="tve-u-1712dc978ec"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978ef"]{font-weight:400 !important;}[data-css="tve-u-1712dc978f3"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978f6"]{font-weight:400 !important;}[data-css="tve-u-1712dc978fa"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978fe"]{font-weight:400 !important;}[data-css="tve-u-1712dc97902"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97905"]{font-weight:400 !important;}[data-css="tve-u-1712dc97909"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9790d"]{font-weight:400 !important;}[data-css="tve-u-1712dc97911"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97915"]{font-weight:400 !important;}[data-css="tve-u-1712dc97918"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9791c"]{font-weight:400 !important;}[data-css="tve-u-1712dc97920"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97923"]{font-weight:400 !important;}[data-css="tve-u-1712dc97927"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9792b"]{font-weight:400 !important;}[data-css="tve-u-1712dc9792f"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97933"]{font-weight:400 !important;}[data-css="tve-u-1712dc97937"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9793a"]{font-weight:400 !important;}[data-css="tve-u-1712dc9793e"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97942"]{font-weight:400 !important;}[data-css="tve-u-1712dc97946"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9794a"]{font-weight:400 !important;}[data-css="tve-u-1712dc9794e"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97951"]{font-weight:400 !important;}[data-css="tve-u-1712dc97955"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97959"]{font-weight:400 !important;}[data-css="tve-u-1712dc9795d"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97960"]{font-weight:400 !important;}[data-css="tve-u-1712dc97964"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97968"]{font-weight:400 !important;}[data-css="tve-u-1712dc9796c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97970"]{font-weight:400 !important;}[data-css="tve-u-1712dc97974"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97978"]{font-weight:400 !important;}[data-css="tve-u-1712dc9797c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97980"]{font-weight:400 !important;}[data-css="tve-u-1712dc97984"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97988"]{font-weight:400 !important;}[data-css="tve-u-1712dc9798c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9798f"]{font-weight:400 !important;}[data-css="tve-u-1712dc97993"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97997"]{font-weight:400 !important;}[data-css="tve-u-1712dc9799b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9799f"]{font-weight:400 !important;}[data-css="tve-u-1712dc979a3"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97841"] strong{font-weight:700 !important;}[data-css="tve-u-1712dca5cb7"]{font-size:30px !important;}[data-css="tve-u-1712dca5cce"]{font-size:30px !important;}[data-css="tve-u-1712dcb6f5f"]{font-weight:400 !important;}[data-css="tve-u-1712dcb6f6e"]{font-family:Montserrat !important;}[data-css="tve-u-1712dcb6fed"]{font-size:20px !important;}[data-css="tve-u-1712dcb701c"]{font-size:20px !important;}[data-css="tve-u-1712dcb7a8e"]{font-size:20px !important;}:not(#tve) [data-css="tve-u-1712dcbf212"]{line-height:1em !important;}:not(#tve) [data-css="tve-u-1712dcbf21d"]{line-height:1em !important;}:not(#tve) [data-css="tve-u-1712dcbf226"]{line-height:1em !important;}:not(#tve) [data-css="tve-u-1712dcbf229"]{line-height:1em !important;}[data-css="tve-u-1712dcd11e0"]{font-family:Montserrat !important;}[data-css="tve-u-1712dcd11e8"]{font-family:Montserrat !important;}[data-css="tve-u-1710d31c09d"] strong{font-weight:700 !important;}[data-css="tve-u-1712dcd3b36"]{font-size:30px !important;}[data-css="tve-u-1712dcd3b4a"]{font-size:30px !important;}[data-css="tve-u-1712dce0b07"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712dce0b0b"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b0f"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b13"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b18"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b1c"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b21"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b25"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b29"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b2d"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b31"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b48"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b4c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b50"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b54"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b59"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b5d"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b61"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b65"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b6a"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b6f"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b73"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b77"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b84"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b88"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b07"] strong{font-weight:700 !important;}[data-css="tve-u-1712dd244e3"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712dd244e3"] strong{font-weight:700 !important;}[data-css="tve-u-1712dd245f4"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712dd245f8"]{font-weight:400 !important;}[data-css="tve-u-1712dd245fc"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24600"]{font-weight:400 !important;}[data-css="tve-u-1712dd24604"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24607"]{font-weight:400 !important;}[data-css="tve-u-1712dd2460b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2460f"]{font-weight:400 !important;}[data-css="tve-u-1712dd24613"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24617"]{font-weight:400 !important;}[data-css="tve-u-1712dd2461b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2461f"]{font-weight:400 !important;}[data-css="tve-u-1712dd24623"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24627"]{font-weight:400 !important;}[data-css="tve-u-1712dd2462b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2462f"]{font-weight:400 !important;}[data-css="tve-u-1712dd24632"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24636"]{font-weight:400 !important;}[data-css="tve-u-1712dd2463a"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2463e"]{font-weight:400 !important;}[data-css="tve-u-1712dd24642"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24646"]{font-weight:400 !important;}[data-css="tve-u-1712dd2464a"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2464e"]{font-weight:400 !important;}[data-css="tve-u-1712dd24652"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24656"]{font-weight:400 !important;}[data-css="tve-u-1712dd2465a"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2466e"]{font-weight:400 !important;}[data-css="tve-u-1712dd24672"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24676"]{font-weight:400 !important;}[data-css="tve-u-1712dd2467a"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2467e"]{font-weight:400 !important;}[data-css="tve-u-1712dd24682"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24686"]{font-weight:400 !important;}[data-css="tve-u-1712dd2468a"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd245f4"] strong{font-weight:700 !important;}[data-css="tve-u-1712dd370e4"]::after{clear:both;}:not(#tve) [data-css="tve-u-1712dd370e5"] >:first-child{color:rgba(255,255,255,0.3);}[data-css="tve-u-1712dd370e5"]{font-size:25px;width:25px;height:25px;float:right;z-index:3;position:relative;margin-bottom:0px !important;margin-top:-15px !important;}[data-css="tve-u-1712dd370e2"]{margin-bottom:0px !important;}[data-css="tve-u-1712dd370e0"]{margin-top:5px !important;margin-bottom:5px !important;}[data-css="tve-u-1712dd370e1"]{line-height:30px !important;}:not(#tve) [data-css="tve-u-1712dd370e1"]{--g-regular-weight:300;--g-bold-weight:700;--tcb-applied-color:rgb(0,0,0);font-weight:var(--g-regular-weight,normal)!important;font-family:Montserrat !important;color:rgb(0,0,0) !important;font-size:20px !important;}[data-css="tve-u-1712dd370dd"]{margin-top:1px !important;padding:60px 40px 40px !important;margin-bottom:0px !important;}[data-css="tve-u-1712dd370de"]{border:3px solid rgb(229,55,43) !important;}[data-css="tve-u-1712dd370dc"]{float:none;width:1500px;border:3px solid rgb(229,55,43);border-radius:90px;overflow:hidden;z-index:5;position:relative;margin:1px auto -50px !important;}[data-css="tve-u-160b1c0490f"]{max-width:800px;padding:1px 0px 0px !important;margin-top:0px !important;margin-bottom:0px !important;}[data-css="tve-u-1712dd370db"] h3{margin:0px !important;padding:0px !important;}[data-css="tve-u-1712dd370db"] h2{margin:0px !important;padding:0px !important;}[data-css="tve-u-1712dd370db"] h1{margin:0px !important;padding:0px !important;}[data-css="tve-u-1712dd370db"] p{margin:0px !important;padding:0px !important;}[data-css="tve-u-1712dd370df"]{line-height:30px !important;}:not(#tve) [data-css="tve-u-1712dd370df"]{--g-regular-weight:400;--g-bold-weight:700;--tcb-applied-color:rgb(0,0,0);font-weight:var(--g-regular-weight,normal)!important;font-family:Montserrat !important;color:rgb(0,0,0) !important;font-size:26px !important;}[data-css="tve-u-1712dd39b90"]{margin-top:0px;margin-left:0px;}:not(#tve) [data-css="tve-u-1712dd4d225"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712dd4d225"] strong{font-weight:700 !important;}[data-css="tve-u-1712dd4d25b"]{font-size:20px !important;}[data-css="tve-u-1712dd4d26c"]{font-size:20px !important;}:not(#tve) [data-css="tve-u-1712dd370df"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712dd370e1"] strong{font-weight:700 !important;}[data-css="tve-u-1712de59715"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712de59719"]{font-weight:400 !important;}[data-css="tve-u-1712de59720"]{font-family:Montserrat !important;}[data-css="tve-u-1712de59724"]{font-weight:400 !important;}[data-css="tve-u-1712de59729"]{font-family:Montserrat !important;}[data-css="tve-u-1712de59715"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712de62c07"]{--tcb-applied-color:rgb(255,253,253);--g-regular-weight:400;--g-bold-weight:700;color:rgb(255,253,253) !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-1712de62c07"] strong{font-weight:700 !important;}[data-css="tve-u-1712de89aae"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712de89abd"]{font-weight:400 !important;}[data-css="tve-u-1712de89ac2"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89ac6"]{font-weight:400 !important;}[data-css="tve-u-1712de89aca"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89acf"]{font-weight:400 !important;}[data-css="tve-u-1712de89ad3"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89ad7"]{font-weight:400 !important;}[data-css="tve-u-1712de89adb"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89adf"]{font-weight:400 !important;}[data-css="tve-u-1712de89ae3"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89ae8"]{font-weight:400 !important;}[data-css="tve-u-1712de89aec"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89af0"]{font-weight:400 !important;}[data-css="tve-u-1712de89af4"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89af9"]{font-weight:400 !important;}[data-css="tve-u-1712de89afd"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b01"]{font-weight:400 !important;}[data-css="tve-u-1712de89b05"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b09"]{font-weight:400 !important;}[data-css="tve-u-1712de89b0d"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b12"]{font-weight:400 !important;}[data-css="tve-u-1712de89b16"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b1a"]{font-weight:400 !important;}[data-css="tve-u-1712de89b1e"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b22"]{font-weight:400 !important;}[data-css="tve-u-1712de89b26"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b2b"]{font-weight:400 !important;}[data-css="tve-u-1712de89b2f"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b33"]{font-weight:400 !important;}[data-css="tve-u-1712de89b37"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b3c"]{font-weight:400 !important;}[data-css="tve-u-1712de89b40"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b44"]{font-weight:400 !important;}[data-css="tve-u-1712de89b48"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b4c"]{font-weight:400 !important;}[data-css="tve-u-1712de89b51"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b55"]{font-weight:400 !important;}[data-css="tve-u-1712de89b59"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b5d"]{font-weight:400 !important;}[data-css="tve-u-1712de89b61"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89aae"] strong{font-weight:700 !important;}[data-css="tve-u-16edbba2c7c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deba58b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deba599"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deba5a5"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deba58b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deba599"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deba5a5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef14e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef15c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef169"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef175"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef181"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef18d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef199"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef1a4"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef1b0"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef1bc"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef1c8"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef1d5"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef1e1"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef1ed"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef1f9"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef206"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef212"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef22c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef239"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef245"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef252"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef25e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef277"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef284"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef290"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef29d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef2a9"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef2b5"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef2c2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef2ce"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef2d9"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef2e6"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef2f2"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef2fd"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef309"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef30e"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef31d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef32b"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef346"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef366"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef375"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef38a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1712deef14e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef15c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef169"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef175"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef181"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef18d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef199"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef1a4"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef1b0"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef1bc"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef1c8"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef1d5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef1e1"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef1ed"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef1f9"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef206"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef212"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef22c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef239"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef245"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef252"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef25e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef277"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef284"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef290"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef29d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef2a9"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef2b5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef2c2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef2ce"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef2d9"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef2e6"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef2f2"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef2fd"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef309"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef30e"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef31d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef32b"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef346"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef366"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef375"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1712deef38a"] strong{font-weight:700 !important;}[data-css="tve-u-1712df1a8bd"]{font-size:30px !important;}[data-css="tve-u-1712df1adf7"]{font-size:30px !important;}[data-css="tve-u-1712df1adfd"]{font-size:30px !important;}[data-css="tve-u-1712e2c361d"]{width:426px;float:none;margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1712e2c3641"]{margin-top:0px;margin-left:0px;}[data-css="tve-u-1712e65c367"]{font-size:22px !important;font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712e65c6f1"]{font-size:20px !important;}[data-css="tve-u-1712e65e2af"]{font-size:22px !important;}[data-css="tve-u-1712e662684"]{font-weight:400 !important;}[data-css="tve-u-1712e662689"]{font-family:Montserrat !important;}[data-css="tve-u-1712e65c367"] strong{font-weight:700 !important;}[data-css="tve-u-1712e6af5f9"]{background-color:rgb(0,0,0) !important;}[data-css="tve-u-1714f63fd18"]{width:438px;margin-left:auto !important;margin-right:auto !important;float:none;}[data-css="tve-u-1714f63fd20"]{margin-top:0px;margin-left:0px;}[data-css="tve-u-1714f6463a9"]{width:432px;float:none;margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1714f6463b9"]{margin-top:0px;margin-left:0px;}[data-css="tve-u-1714f64a906"]{width:438px;float:none;margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1714f64a910"]{margin-top:0px;margin-left:0px;}[data-css="tve-u-1714f661c75"]{background-color:rgb(246,232,229) !important;}[data-css="tve-u-1602a20b48f"]{padding:1px 0px 0px !important;margin:0px !important;}[data-css="tve-u-1714f661c76"] h3{margin:0px !important;padding:0px !important;}[data-css="tve-u-1714f661c76"] h2{margin:0px !important;padding:0px !important;}[data-css="tve-u-1714f661c76"] h1{margin:0px !important;padding:0px !important;}[data-css="tve-u-1714f661c76"] p{margin:0px !important;padding:0px !important;}[data-css="tve-u-1714f661c77"]{max-width:1601px;margin-top:1px !important;}[data-css="tve-u-1714f661c78"] > .tcb-flex-col{padding-left:26px;}[data-css="tve-u-1714f661c78"] > .tcb-flex-col > .tcb-col{min-height:1px;}[data-css="tve-u-1714f661c78"]{min-height:inherit;margin-left:-26px;padding-left:20px !important;padding-right:20px !important;}[data-css="tve-u-1714f661c91"]{color:rgb(180,138,128) !important;}[data-css="tve-u-1714f661c7f"]{padding-left:0px !important;padding-right:0px !important;}[data-css="tve-u-1714f661c83"]{font-weight:400 !important;font-family:Palanquin !important;}[data-css="tve-u-1714f661c88"]{line-height:1.6em !important;}[data-css="tve-u-1714f661c89"]{font-family:Hind !important;font-weight:400 !important;}:not(#tve) [data-css="tve-u-1714f661c88"]{font-size:20px !important;color:rgb(119,113,113) !important;}[data-css="tve-u-1714f661c7a"]{box-shadow:none;border-radius:0px;overflow:hidden;clip-path:url("#clip-bottom-bb8f6f760bfdb");-webkit-clip-path:url("#clip-bottom-bb8f6f760bfdb");border:medium none;background-color:rgb(255,255,255) !important;}[data-css="tve-u-1714f661c9a"]{max-width:100%;float:none;z-index:3;position:relative;padding:0px 30px 5px !important;margin:73px auto 0px !important;}[data-css="tve-u-1714f661c9d"] + div{clear:none;}[data-css="tve-u-1714f661c9d"]{width:771px;float:none;z-index:7;position:relative;border-radius:135px;overflow:hidden;margin-top:-49px !important;margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1714f661c9c"]{min-height:586px;}[data-css="tve-u-1714f661c87"]{max-width:790px;padding-top:0px !important;margin-top:-26px !important;}[data-css="tve-u-1714f661c8a"]{max-width:796px;padding-top:5px !important;padding-bottom:5px !important;margin-top:20px !important;}[data-css="tve-u-1714f661c8a"] .tve_sep{border-width:1px;border-color:rgba(191,153,144,0.5);}[data-css="tve-u-1714f661c8d"]{font-family:"Playfair Display" !important;font-weight:400 !important;}[data-css="tve-u-1714f661c8e"]{color:rgb(68,66,68) !important;}:not(#tve) [data-css="tve-u-1714f661c8c"]{font-size:20px !important;color:rgb(180,138,128) !important;line-height:1.95em !important;}[data-css="tve-u-1714f661c90"]{color:rgb(68,66,68) !important;}[data-css="tve-u-1714f661c8b"]{border:medium none;float:none;max-width:700px;margin-top:14px !important;margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1714f661c93"]{box-shadow:none;border-radius:0px;overflow:hidden;clip-path:url("#clip-bottom-9f6ef61f8542d");-webkit-clip-path:url("#clip-bottom-9f6ef61f8542d");border:medium none;background-color:rgb(255,255,255) !important;}[data-css="tve-u-1714f661c9b"]{box-shadow:none;border-radius:0px;overflow:hidden;clip-path:url("#clip-bottom-b5327f994b22b");-webkit-clip-path:url("#clip-bottom-b5327f994b22b");border:medium none;background-color:rgb(255,255,255) !important;}[data-css="tve-u-1714f661c79"]{max-width:100%;float:none;z-index:3;position:relative;padding:0px 30px 5px !important;margin:73px auto 0px !important;}[data-css="tve-u-1714f661c92"]{max-width:100%;float:none;z-index:3;position:relative;padding:0px 30px 5px !important;margin:73px auto 0px !important;}[data-css="tve-u-1714f661c9e"] > .tcb-flex-col{padding-left:26px;}[data-css="tve-u-1714f661c9e"] > .tcb-flex-col > .tcb-col{min-height:1px;}[data-css="tve-u-1714f661c9e"]{min-height:inherit;margin-left:-26px;padding:32px 20px 26px !important;}[data-css="tve-u-1714f661c9f"]{max-width:115px;margin-top:-14px !important;padding:0px !important;}[data-css="tve-u-1714f661c98"]{line-height:0.2em !important;}:not(#tve) [data-css="tve-u-1714f661c98"]{font-size:200px !important;color:rgba(246,232,229,0.5) !important;}[data-css="tve-u-1714f661c7b"]{min-height:586px;}[data-css="tve-u-1714f661c94"]{min-height:586px;}[data-css="tve-u-1714f661c95"] + div{clear:none;}[data-css="tve-u-1714f661c95"]{width:683px;float:none;z-index:7;position:relative;border-radius:135px;overflow:hidden;margin-top:-49px !important;margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1714f661c7c"] + div{clear:none;}[data-css="tve-u-1714f661c7c"]{width:900px;float:none;z-index:7;position:relative;border-radius:135px;overflow:hidden;border:medium none;box-shadow:none;margin-top:-49px !important;margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1714f661c85"]{max-width:796px;padding-top:5px !important;padding-bottom:5px !important;margin-top:-23px !important;}[data-css="tve-u-1714f661c85"] .tve_sep{border-width:1px;border-color:rgba(191,153,144,0.5);}[data-css="tve-u-1714f661c81"]{max-width:115px;margin-top:-14px !important;padding:0px !important;}[data-css="tve-u-1714f661c97"]{max-width:115px;margin-top:-14px !important;padding:0px !important;}[data-css="tve-u-1714f661c99"]{max-width:796px;padding-top:5px !important;padding-bottom:5px !important;margin-top:20px !important;}[data-css="tve-u-1714f661c99"] .tve_sep{border-width:1px;border-color:rgba(191,153,144,0.5);}[data-css="tve-u-1714f661ca0"]{max-width:796px;padding-top:5px !important;padding-bottom:5px !important;margin-top:20px !important;}[data-css="tve-u-1714f661ca0"] .tve_sep{border-width:1px;border-color:rgba(191,153,144,0.5);}[data-css="tve-u-1714f661c82"]{line-height:0.2em !important;}:not(#tve) [data-css="tve-u-1714f661c82"]{font-size:200px !important;color:rgba(246,232,229,0.5) !important;}[data-css="tve-u-1714f661c7d"] > .tcb-flex-col{padding-left:26px;}[data-css="tve-u-1714f661c7d"] > .tcb-flex-col > .tcb-col{min-height:1px;}[data-css="tve-u-1714f661c7d"]{min-height:inherit;margin-left:-26px;padding:32px 20px 26px !important;}[data-css="tve-u-1714f661c96"] > .tcb-flex-col{padding-left:26px;}[data-css="tve-u-1714f661c96"] > .tcb-flex-col > .tcb-col{min-height:1px;}[data-css="tve-u-1714f661c96"]{min-height:inherit;margin-left:-26px;padding:32px 20px 26px !important;}[data-css="tve-u-1714f66b129"]{margin-top:0px;margin-left:0px;}[data-css="tve-u-1714f680a2f"]{margin-top:0px;margin-left:0px;}[data-css="tve-u-1714f686377"]{margin-top:0px;margin-left:0px;}:not(#tve) [data-css="tve-u-1714f6a4775"]{font-size:20px !important;color:rgb(180,138,128) !important;line-height:1.8em !important;}[data-css="tve-u-1714f6a4781"]{font-family:"Playfair Display" !important;font-weight:400 !important;}[data-css="tve-u-1714f6a4788"]{color:rgb(68,66,68) !important;}[data-css="tve-u-1714f6a478d"]{font-family:"Playfair Display" !important;font-weight:400 !important;}[data-css="tve-u-1714f6a4793"]{color:rgb(68,66,68) !important;}[data-css="tve-u-1714f6a479e"]{color:rgb(68,66,68) !important;}[data-css="tve-u-1714f6a47a3"]{color:rgb(180,138,128) !important;}:not(#tve) [data-css="tve-u-1714f6b2621"]{font-size:20px !important;color:rgb(180,138,128) !important;line-height:1.85em !important;}[data-css="tve-u-1714f6b262a"]{font-family:"Playfair Display" !important;font-weight:400 !important;}[data-css="tve-u-1714f6b2630"]{color:rgb(68,66,68) !important;}[data-css="tve-u-1714f6b263b"]{color:rgb(180,138,128) !important;}[data-css="tve-u-1714f795861"]{display:inline-block !important;text-decoration:underline !important;color:rgb(0,0,0) !important;}:not(#tve) [data-css="tve-u-1714f7f248f"]{line-height:2.25em !important;}[data-css="tve-u-1714f830a1e"]{font-size:30px !important;display:inline-block !important;text-decoration:underline !important;}:not(#tve) [data-css="tve-u-1714f8649fb"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f8649fb"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f8664d5"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f8664d5"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f86808c"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f86808c"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f88be1f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f88be1f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f88e8be"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f88e8be"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f93acc7"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f93acc7"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f9b7322"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f9b7322"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f9b890f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f9b890f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f9c163d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f9c163d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f9f26ab"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f9f26ab"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714f9f4b0d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714f9f4b0d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714faa8fee"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714faa8fee"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714faab32f"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714faab32f"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714fadd666"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714fadd666"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714fadef12"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714fadef12"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714fb9bb46"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714fb9bb46"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714fbabd1a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714fbabd1a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714fbadae3"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714fbadae3"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714fbb9e26"]{--g-regular-weight:400;--g-bold-weight:700;font-size:30px !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;line-height:1.5em !important;}:not(#tve) [data-css="tve-u-1714fbb9e26"] strong{font-weight:700 !important;}[data-css="tve-u-1714fc1a0d6"]{font-weight:400 !important;}[data-css="tve-u-1714fc1a0dd"]{font-family:Montserrat !important;}[data-css="tve-u-1714fc1a0e4"]{font-weight:400 !important;}[data-css="tve-u-1714fc1a0eb"]{font-family:Montserrat !important;}[data-css="tve-u-1714fc1a0f2"]{font-weight:400 !important;}[data-css="tve-u-1714fc1a0f8"]{font-family:Montserrat !important;}:not(#tve) [data-css="tve-u-1714fd20e4d"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714fd20e4d"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-1714fd2c6cb"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-1714fd2c6cb"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-171501f074a"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-171501f074a"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-17150214248"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-17150214248"] strong{font-weight:700 !important;}:not(#tve) [data-css="tve-u-17150273ab0"]{--tcb-applied-color:rgb(255,253,253);--g-regular-weight:400;--g-bold-weight:700;color:rgb(255,253,253) !important;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}[data-css="tve-u-17150273ab0"] strong{font-weight:700 !important;}[data-css="tve-u-17150287265"] .tcb-button-link{border-radius:200px;padding:18px 30px;background-image:none !important;background-color:rgb(10,10,10) !important;}:not(#tve) [data-css="tve-u-17150287265"]:hover .tcb-button-link{background-color:rgb(0,0,0) !important;}:not(#tve) [data-css="tve-u-17150287265"] .tcb-button-link{line-height:1.2em;font-size:32px;}[data-css="tve-u-17150287265"]{display:block;max-width:50%;width:50%;float:none;margin-left:auto !important;margin-right:auto !important;}:not(#tve) [data-css="tve-u-17150309e16"]{--g-regular-weight:400;--g-bold-weight:700;font-family:Montserrat !important;font-weight:var(--g-regular-weight,normal)!important;}:not(#tve) [data-css="tve-u-17150309e16"] strong{font-weight:700 !important;}[data-css="tve-u-1715044e2d6"]{width:603px;margin-left:auto !important;margin-right:auto !important;float:none;}[data-css="tve-u-1715044e2e6"]{margin-top:0px;margin-left:0px;}[data-css="tve-u-17150498cb8"]{width:613px;margin-left:auto !important;margin-right:auto !important;float:none;}[data-css="tve-u-17150498cc9"]{margin-top:0px;margin-left:0px;}}@media (max-width:1023px){[data-css="tve-u-1712d7c8055"]{padding-left:20px !important;padding-right:20px !important;}[data-css="tve-u-1712dd370dd"]{padding-left:20px !important;padding-right:20px !important;}[data-css="tve-u-1714f661c87"]{max-width:348px;}}@media (max-width:767px){[data-css="tve-u-15e3474ceb7"]{padding-bottom:0px !important;padding-top:0px !important;}[data-css="tve-u-15de99116ec"]{background-image:none !important;margin-top:0px !important;}[data-css="tve-u-16edd3a6f56"]{border-top-left-radius:10px;border-top-right-radius:10px;}[data-css="tve-u-1714f661c9c"]{min-height:612px;}[data-css="tve-u-1714f661c94"]{min-height:554px;}[data-css="tve-u-1714f661ca0"]{margin-top:319px !important;}[data-css="tve-u-1714f661c99"]{margin-top:244px !important;}[data-css="tve-u-1714f661c80"]::after{clear:both;}[data-css="tve-u-1714f661c86"]::after{clear:both;}[data-css="tve-u-1714f661c9d"]{margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1714f661c87"]{max-width:336px;float:left;z-index:3;position:relative;width:100%;margin-left:auto !important;margin-right:auto !important;padding:15px 0px 0px !important;}[data-css="tve-u-1714f661c8b"]{margin-top:14px !important;}[data-css="tve-u-1714f661c9f"]{padding-left:1px !important;}[data-css="tve-u-1714f661c95"]{margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1714f661c7c"]{margin-left:auto !important;margin-right:auto !important;}[data-css="tve-u-1714f661c81"]{float:left;z-index:3;position:relative;width:100%;padding-left:1px !important;}[data-css="tve-u-1714f661c97"]{padding-left:1px !important;}[data-css="tve-u-1714f795861"]{display:inline-block !important;text-decoration:underline !important;color:rgb(0,0,0) !important;}[data-css="tve-u-1710d0c5534"]{display:inline-block !important;text-decoration:underline !important;color:rgb(0,0,0) !important;}[data-css="tve-u-1714f795870"]{font-size:23px !important;}[data-css="tve-u-1714f795871"]{font-size:31px !important;}[data-css="tve-u-1714f795873"]{font-size:31px !important;}[data-css="tve-u-1710d758a79"]{font-size:30px !important;color:rgb(2,118,2) !important;}[data-css="tve-u-1710d58b69a"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d760fd2"]{color:rgb(2,118,2) !important;}[data-css="tve-u-1710d58b696"]{font-size:30px !important;}[data-css="tve-u-1710d0dfae9"]{color:rgb(255,1,1) !important;}[data-css="tve-u-1710d758a8d"]{display:inline-block !important;text-decoration:underline !important;font-size:23px !important;}[data-css="tve-u-1710d0c553d"]{background-color:rgb(181,216,230) !important;color:rgb(255,1,1) !important;}[data-css="tve-u-1714f79598b"]{font-size:26px !important;}[data-css="tve-u-1714f79598d"]{font-size:26px !important;}[data-css="tve-u-1714f795ab8"]{font-size:24px !important;}[data-css="tve-u-1714f795aba"]{font-size:24px !important;}[data-css="tve-u-1714f795ba2"]{font-size:23px !important;}[data-css="tve-u-1714f795ba4"]{font-size:23px !important;}[data-css="tve-u-1714f795f83"]{font-size:22px !important;}[data-css="tve-u-1714f795f85"]{font-size:22px !important;}[data-css="tve-u-1714f796058"]{font-size:20px !important;}[data-css="tve-u-1714f796059"]{font-size:20px !important;}[data-css="tve-u-1714f796128"]{font-size:18px !important;}[data-css="tve-u-1714f79612a"]{font-size:18px !important;}[data-css="tve-u-1714f79635c"]{font-size:19px !important;}[data-css="tve-u-1714f79635d"]{font-size:19px !important;}[data-css="tve-u-1714f796432"]{font-size:21px !important;}[data-css="tve-u-1714f796434"]{font-size:21px !important;}[data-css="tve-u-1714f796515"]{font-size:23px !important;}[data-css="tve-u-1714f796517"]{font-size:23px !important;}[data-css="tve-u-1714f7967d7"]{font-size:23px !important;}[data-css="tve-u-1714f7967d9"]{font-size:23px !important;}[data-css="tve-u-1714f7a870e"]{font-size:23px !important;}[data-css="tve-u-1714f7a8712"]{font-size:23px !important;}[data-css="tve-u-1714f7aa41b"]{font-size:23px !important;}[data-css="tve-u-1714f7aa422"]{font-size:23px !important;}[data-css="tve-u-1714f7b301b"]{font-size:23px !important;}[data-css="tve-u-1714f7ba0d2"]{font-size:23px !important;}[data-css="tve-u-1714f7bce21"]{font-size:23px !important;}[data-css="tve-u-1714f7bce2a"]{font-size:23px !important;}[data-css="tve-u-1710d18ee4a"]{font-size:25px !important;}[data-css="tve-u-1710d525930"]{font-size:22px !important;background-color:rgb(255,188,9) !important;}[data-css="tve-u-17110627f4b"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d20e180"]{font-size:25px !important;}[data-css="tve-u-1710d2240d4"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d2240d5"]{font-size:30px !important;}[data-css="tve-u-1710d22ac83"]{font-size:30px !important;}[data-css="tve-u-1712db35705"]{font-family:Montserrat !important;font-weight:400 !important;font-size:22px !important;}[data-css="tve-u-1712db35714"]{font-family:Montserrat !important;font-size:18px !important;}[data-css="tve-u-1712dada611"]{font-family:Montserrat !important;font-weight:400 !important;font-size:18px !important;}[data-css="tve-u-1712dae3d39"]{font-size:22px !important;}[data-css="tve-u-1712dada61c"]{font-weight:400 !important;}[data-css="tve-u-1712dada621"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35749"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712db3574d"]{font-weight:400 !important;}[data-css="tve-u-1712db35750"]{font-family:Montserrat !important;}[data-css="tve-u-1712db76a0d"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712db35754"]{font-weight:400 !important;}[data-css="tve-u-1712db35757"]{font-family:Montserrat !important;}[data-css="tve-u-1712db3575b"]{font-weight:400 !important;}[data-css="tve-u-1712db3575f"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35762"]{font-weight:400 !important;}[data-css="tve-u-1712db35765"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35769"]{font-weight:400 !important;}[data-css="tve-u-1712db3576c"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35770"]{font-weight:400 !important;}[data-css="tve-u-1712db35774"]{font-family:Montserrat !important;}[data-css="tve-u-1712db76a67"]{font-weight:400 !important;}[data-css="tve-u-1712db76a75"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35777"]{font-weight:400 !important;}[data-css="tve-u-1712db3577b"]{font-family:Montserrat !important;}[data-css="tve-u-1712db3577e"]{font-weight:400 !important;}[data-css="tve-u-1712db35782"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35785"]{font-weight:400 !important;}[data-css="tve-u-1712db35789"]{font-family:Montserrat !important;}[data-css="tve-u-1712db3578d"]{font-weight:400 !important;}[data-css="tve-u-1712db35790"]{font-family:Montserrat !important;}[data-css="tve-u-1712db35794"]{font-weight:400 !important;}[data-css="tve-u-1712db35797"]{font-family:Montserrat !important;}[data-css="tve-u-1712db3579b"]{font-weight:400 !important;}[data-css="tve-u-1712db3579e"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357a2"]{font-weight:400 !important;}[data-css="tve-u-1712db357a6"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357a9"]{font-weight:400 !important;}[data-css="tve-u-1712db357ad"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357b0"]{font-weight:400 !important;}[data-css="tve-u-1712db357b4"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357b8"]{font-weight:400 !important;}[data-css="tve-u-1712db357bb"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357bf"]{font-weight:400 !important;}[data-css="tve-u-1712db357c2"]{font-family:Montserrat !important;font-size:18px !important;}[data-css="tve-u-1712db357c6"]{font-weight:400 !important;}[data-css="tve-u-1712db357ca"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357ce"]{font-weight:400 !important;}[data-css="tve-u-1712db357d1"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357d5"]{font-weight:400 !important;}[data-css="tve-u-1712db357d8"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357dc"]{font-weight:400 !important;}[data-css="tve-u-1712db357df"]{font-family:Montserrat !important;font-size:18px !important;}[data-css="tve-u-1712db357e3"]{font-weight:400 !important;}[data-css="tve-u-1712db357e6"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357ea"]{font-weight:400 !important;}[data-css="tve-u-1712db357ee"]{font-family:Montserrat !important;}[data-css="tve-u-1712db357f8"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-17110627f64"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712db76bbb"]{font-size:30px !important;}[data-css="tve-u-1710d26a895"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712e65c6f1"]{font-size:20px !important;}[data-css="tve-u-1710d4ede5b"]{font-size:20px !important;}[data-css="tve-u-1710d4ede7c"]{font-size:20px !important;}[data-css="tve-u-1710d4ede96"]{font-size:18px !important;}[data-css="tve-u-1710d4edec1"]{font-size:20px !important;}[data-css="tve-u-1710d2871a6"]{font-size:20px !important;}[data-css="tve-u-1710d299b55"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d299b57"]{text-decoration:underline !important;}[data-css="tve-u-1710d299b5a"]{display:inline-block !important;}[data-css="tve-u-1710d2d0d56"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d2e0241"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712dada559"]{font-size:25px !important;}[data-css="tve-u-1712d85ef6d"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d597d85"]{font-size:25px !important;}[data-css="tve-u-17110627f3d"]{font-size:25px !important;}[data-css="tve-u-1710d1b0121"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1714f7df969"]{letter-spacing:1px;line-height:1.65em !important;font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597de6"]{font-size:2px !important;}[data-css="tve-u-1710d1b8a63"]{font-size:25px !important;}[data-css="tve-u-1714f7e8f1a"]{font-size:2px !important;}[data-css="tve-u-1714f7e90fd"]{font-size:25px !important;}[data-css="tve-u-1714f7e97d1"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712da60b66"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1714f7f248f"]{line-height:2.05em !important;}[data-css="tve-u-1714f809853"]{font-size:25px !important;}[data-css="tve-u-1714f826c82"]{font-size:25px !important;}[data-css="tve-u-1714f830a16"]{font-size:18px !important;}[data-css="tve-u-1710d15253a"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1714f830a1e"]{font-size:30px !important;display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710e54cd15"]{font-size:30px !important;display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1714f840b10"]{font-size:18px !important;}[data-css="tve-u-1714f8434bf"]{font-size:18px !important;}[data-css="tve-u-1714f845af3"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f8649fb"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f8664d5"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f86808c"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597d29"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597d2d"]{font-size:25px !important;}[data-css="tve-u-1714f884688"]{font-size:25px !important;}[data-css="tve-u-1714f8869ba"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1714f88be1f"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f88e8be"]{font-size:18px !important;}[data-css="tve-u-1714f899ca1"]{font-size:18px !important;}[data-css="tve-u-1714f899ca4"]{font-size:1px !important;}[data-css="tve-u-1714f899ca6"]{font-size:18px !important;}[data-css="tve-u-1714f899e34"]{font-size:18px !important;}[data-css="tve-u-1714f89a8b8"]{font-size:18px !important;}[data-css="tve-u-1714f89d18b"]{font-size:25px !important;}[data-css="tve-u-1714f89f001"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d597d4a"]{font-size:18px !important;}[data-css="tve-u-1714f8a44ab"]{font-size:18px !important;}[data-css="tve-u-1714f8a76aa"]{font-size:18px !important;}[data-css="tve-u-1714f8a76ac"]{font-size:1px !important;}[data-css="tve-u-1714f8a76ae"]{font-size:18px !important;}[data-css="tve-u-1714f8a77d4"]{font-size:18px !important;}[data-css="tve-u-1714f8a7ca5"]{font-size:18px !important;}[data-css="tve-u-1714f8abb14"]{font-size:18px !important;}[data-css="tve-u-1714f8abb16"]{font-size:1px !important;}[data-css="tve-u-1714f8abb18"]{font-size:18px !important;}[data-css="tve-u-1714f8abc03"]{font-size:18px !important;}[data-css="tve-u-1714f8ac0b7"]{font-size:18px !important;}[data-css="tve-u-1714f8b8597"]{font-size:18px !important;}[data-css="tve-u-1714f8df116"]{font-size:18px !important;}[data-css="tve-u-1714f8e20c1"]{font-size:18px !important;}[data-css="tve-u-1714f8e45e2"]{font-size:18px !important;}[data-css="tve-u-1714f9193ea"]{font-size:25px !important;}[data-css="tve-u-1714f91ad4a"]{font-size:25px !important;}[data-css="tve-u-1714f927dc2"]{font-size:18px !important;}[data-css="tve-u-1714f927dc5"]{font-size:1px !important;}[data-css="tve-u-1714f927dc7"]{font-size:18px !important;}[data-css="tve-u-1714f927ec6"]{font-size:18px !important;}[data-css="tve-u-1714f9282aa"]{font-size:18px !important;}[data-css="tve-u-1714f929f04"]{font-size:18px !important;}[data-css="tve-u-1714f92be9e"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597d97"]{font-size:18px !important;}[data-css="tve-u-1714f92f92b"]{font-size:17px !important;}[data-css="tve-u-1714f92f92f"]{font-size:1px !important;}[data-css="tve-u-1714f92f931"]{font-size:17px !important;}[data-css="tve-u-1714f92fa38"]{font-size:17px !important;}[data-css="tve-u-1714f92fe7f"]{font-size:17px !important;}:not(#tve) [data-css="tve-u-1712d597da3"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597da8"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597dac"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597db0"]{font-size:18px !important;}[data-css="tve-u-1714f9394ff"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f93acc7"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597dbd"]{line-height:1.95em !important;}:not(#tve) [data-css="tve-u-1712d597dbf"]{line-height:1.95em !important;}:not(#tve) [data-css="tve-u-1712d597dc1"]{line-height:1.95em !important;}:not(#tve) [data-css="tve-u-1712d597dc3"]{font-size:18px !important;}[data-css="tve-u-1714f941107"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597dcc"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597ddd"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f9b7322"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f9b890f"]{font-size:18px !important;}[data-css="tve-u-1714f9ba49e"]{font-size:18px !important;}[data-css="tve-u-1714f9bc28b"]{font-size:18px !important;}[data-css="tve-u-1714f9bdaa8"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f9c163d"]{font-size:18px !important;}[data-css="tve-u-1714f9c3d73"]{font-size:18px !important;}[data-css="tve-u-1714f9c5510"]{font-size:18px !important;}[data-css="tve-u-1714f9cb98f"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d597dea"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597dee"]{font-size:18px !important;}[data-css="tve-u-1714f9d1aa2"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597df8"]{font-size:18px !important;}[data-css="tve-u-1714f9ed0df"]{font-size:18px !important;}[data-css="tve-u-1714f9ed0e1"]{font-size:1px !important;}[data-css="tve-u-1714f9ed0e3"]{font-size:18px !important;}[data-css="tve-u-1714f9ed1e3"]{font-size:18px !important;}[data-css="tve-u-1714f9ed64b"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e12"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e17"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f9f26ab"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714f9f4b0d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e29"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e2d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e32"]{font-size:18px !important;}[data-css="tve-u-1714f9fc4c4"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e3b"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e3f"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e44"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e4b"]{font-size:25px !important;}[data-css="tve-u-1714fa09127"]{font-size:25px !important;}[data-css="tve-u-1714fa0ae9e"]{font-size:25px !important;}[data-css="tve-u-1714fa10185"]{font-size:18px !important;}[data-css="tve-u-1714fa801aa"]{font-size:18px !important;}[data-css="tve-u-1714fa82464"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e54"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e59"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e5d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e61"]{font-size:18px !important;}[data-css="tve-u-1714faa5afd"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714faa8fee"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714faab32f"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e6d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e6f"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e71"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e73"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e76"]{font-size:18px !important;}[data-css="tve-u-1714fabcc59"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d597e7d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e86"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e8b"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e8f"]{font-size:18px !important;}[data-css="tve-u-1714facaaee"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e98"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597e9d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597ea1"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597ea6"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597eaa"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597eaf"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597eb4"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fadd666"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fadef12"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597ec5"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597ec9"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597ed3"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597ed8"]{font-size:18px !important;}[data-css="tve-u-1714faeaa41"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597ee2"]{font-size:25px !important;}[data-css="tve-u-1714faee17d"]{font-size:25px !important;}[data-css="tve-u-1714faf092b"]{font-size:25px !important;}[data-css="tve-u-1714faf092e"]{font-size:25px !important;}[data-css="tve-u-1714faf2515"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d597ee9"]{font-size:18px !important;}[data-css="tve-u-1714faf5858"]{font-size:18px !important;}[data-css="tve-u-1714faf7539"]{font-size:18px !important;}[data-css="tve-u-1714faf753c"]{font-size:1px !important;}[data-css="tve-u-1714faf753d"]{font-size:18px !important;}[data-css="tve-u-1714faf765a"]{font-size:18px !important;}[data-css="tve-u-1714faf7b31"]{font-size:18px !important;}[data-css="tve-u-1714fb0240a"]{font-size:25px !important;}[data-css="tve-u-1714fb03ef6"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d597f00"]{font-size:18px !important;}[data-css="tve-u-1714fb08118"]{font-size:18px !important;}[data-css="tve-u-1714f7fd912"]{font-size:18px !important;}[data-css="tve-u-1714f7fd909"]{font-size:18px !important;}[data-css="tve-u-1714fb2272e"]{font-size:1px !important;}[data-css="tve-u-1714fb2284c"]{font-size:18px !important;}[data-css="tve-u-1714fb23236"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f09"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f0d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f12"]{font-size:18px !important;}[data-css="tve-u-1714fb31852"]{font-size:25px !important;}[data-css="tve-u-1714fb33cbb"]{font-size:25px !important;}[data-css="tve-u-1714fb35888"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d597f1d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb42402"]{font-size:18px !important;}[data-css="tve-u-1714fb4c648"]{font-size:18px !important;}[data-css="tve-u-1714fb4de90"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb501a7"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb5273c"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb546a9"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb5659b"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb58c2e"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb5be3d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb62b1c"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb64b2e"]{font-size:18px !important;}[data-css="tve-u-1714fb6707e"]{font-size:18px !important;}[data-css="tve-u-1714fb6bae6"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f3e"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1710d55312d"]{font-size:18px !important;}[data-css="tve-u-1712d598b9b"]{font-size:18px !important;}[data-css="tve-u-1710d552774"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1710d55312a"]{font-size:18px !important;line-height:2.5em !important;}[data-css="tve-u-1714fb8196c"]{font-size:18px !important;}[data-css="tve-u-1714fb8196f"]{font-size:1px !important;}[data-css="tve-u-1714fb81970"]{font-size:18px !important;}[data-css="tve-u-1714fb81aaa"]{font-size:18px !important;}[data-css="tve-u-1714fb82049"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f65"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f6a"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f6e"]{font-size:18px !important;}[data-css="tve-u-1714fb94c33"]{font-size:18px !important;}[data-css="tve-u-1714fb96687"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f78"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f7d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fb9bb46"]{font-size:18px !important;}[data-css="tve-u-1714fb9e105"]{font-size:25px !important;}[data-css="tve-u-1714fba0518"]{font-size:25px !important;}[data-css="tve-u-1714fba3e8f"]{font-size:18px !important;}[data-css="tve-u-1714fba5ca1"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f8a"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fbabd1a"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fbadae3"]{font-size:18px !important;}[data-css="tve-u-1714fbb178c"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f99"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597f9d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d597fa2"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fbb9e26"]{font-size:25px !important;}[data-css="tve-u-1714fbbb291"]{font-size:25px !important;}[data-css="tve-u-1714fbbb294"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d597ffc"]{font-size:18px !important;line-height:1.8em !important;}:not(#tve) [data-css="tve-u-1712d598009"]{font-size:18px !important;line-height:1.8em !important;}:not(#tve) [data-css="tve-u-1710d446157"]{font-size:18px !important;line-height:1.8em !important;}[data-css="tve-u-1714fbcb97c"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1710d4aa266"]{font-size:18px !important;line-height:1.8em !important;}[data-css="tve-u-1714fbd147c"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1710d4aa273"]{font-size:18px !important;line-height:1.8em !important;}:not(#tve) [data-css="tve-u-1712d598037"]{font-size:25px !important;line-height:1.5em !important;}:not(#tve) [data-css="tve-u-1712d59803e"]{line-height:1.5em !important;}:not(#tve) [data-css="tve-u-1710d2c5368"]{line-height:1.5em !important;}:not(#tve) [data-css="tve-u-1712d59804b"]{line-height:1.5em !important;}[data-css="tve-u-1714fbdf3da"]{font-size:25px !important;}[data-css="tve-u-1714fbdf3dd"]{font-size:2px !important;}[data-css="tve-u-1714fbdf3df"]{font-size:25px !important;}[data-css="tve-u-1714fbdf512"]{font-size:25px !important;}[data-css="tve-u-1714fbe7ecb"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d59804d"]{font-size:18px !important;}[data-css="tve-u-1714fbedbb5"]{font-size:18px !important;}[data-css="tve-u-1714fbef8c0"]{font-size:18px !important;}[data-css="tve-u-1714fbf16fd"]{font-size:18px !important;}[data-css="tve-u-1714fbf2c33"]{font-size:18px !important;}[data-css="tve-u-1714fbf6af8"]{font-size:18px !important;}[data-css="tve-u-1714fc06fff"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d598061"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d598068"]{font-size:25px !important;line-height:1.8em !important;}:not(#tve) [data-css="tve-u-1712d59806f"]{font-size:25px !important;line-height:1.8em !important;}:not(#tve) [data-css="tve-u-1712d598077"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d598081"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d598085"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc19bcf"]{font-size:18px !important;}[data-css="tve-u-1712dc97841"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712dc97848"]{font-weight:400 !important;}[data-css="tve-u-1712dc9784d"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97851"]{font-weight:400 !important;}[data-css="tve-u-1712dc97855"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97859"]{font-weight:400 !important;}[data-css="tve-u-1712dc9785d"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97861"]{font-weight:400 !important;}[data-css="tve-u-1712dc97865"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97868"]{font-weight:400 !important;}[data-css="tve-u-1712dc9786c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97870"]{font-weight:400 !important;}[data-css="tve-u-1712dc97874"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97877"]{font-weight:400 !important;}[data-css="tve-u-1712dc9787b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9787f"]{font-weight:400 !important;}[data-css="tve-u-1712dc97883"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97886"]{font-weight:400 !important;}[data-css="tve-u-1712dc9788a"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9788e"]{font-weight:400 !important;}[data-css="tve-u-1712dc97892"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97895"]{font-weight:400 !important;}[data-css="tve-u-1712dc97899"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9789d"]{font-weight:400 !important;}[data-css="tve-u-1712dc978a0"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978a4"]{font-weight:400 !important;}[data-css="tve-u-1712dc978a8"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978ab"]{font-weight:400 !important;}[data-css="tve-u-1712dc978af"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978b3"]{font-weight:400 !important;}[data-css="tve-u-1712dc978b7"]{font-family:Montserrat !important;}[data-css="tve-u-1712dcb6f5f"]{font-weight:400 !important;}[data-css="tve-u-1712dcb6f6e"]{font-family:Montserrat !important;font-size:18px !important;}[data-css="tve-u-1712dc978bb"]{font-weight:400 !important;}[data-css="tve-u-1712dc978be"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978ca"]{font-weight:400 !important;}[data-css="tve-u-1712dc978ce"]{font-family:Montserrat !important;}[data-css="tve-u-1712dca5cb7"]{font-size:30px !important;}[data-css="tve-u-1712dc978d2"]{font-weight:400 !important;}[data-css="tve-u-1712dc978d5"]{font-family:Montserrat !important;}[data-css="tve-u-1712dca5cce"]{font-size:30px !important;}[data-css="tve-u-1712dc978d9"]{font-weight:400 !important;}[data-css="tve-u-1712dc978dd"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978e0"]{font-weight:400 !important;}[data-css="tve-u-1712dc978e4"]{font-family:Montserrat !important;}[data-css="tve-u-1712dcb7a8e"]{font-size:20px !important;}[data-css="tve-u-1712dc978e8"]{font-weight:400 !important;}[data-css="tve-u-1712dc978ec"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978ef"]{font-weight:400 !important;}[data-css="tve-u-1712dc978f3"]{font-family:Montserrat !important;}[data-css="tve-u-1712dcb701c"]{font-size:20px !important;}[data-css="tve-u-1712dc978f6"]{font-weight:400 !important;}[data-css="tve-u-1712dc978fa"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc978fe"]{font-weight:400 !important;}[data-css="tve-u-1712dc97902"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97905"]{font-weight:400 !important;}[data-css="tve-u-1712dc97909"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9790d"]{font-weight:400 !important;}[data-css="tve-u-1712dc97911"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97915"]{font-weight:400 !important;}[data-css="tve-u-1712dc97918"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9791c"]{font-weight:400 !important;}[data-css="tve-u-1712dc97920"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97923"]{font-weight:400 !important;}[data-css="tve-u-1712dc97927"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9792b"]{font-weight:400 !important;}[data-css="tve-u-1712dc9792f"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97933"]{font-weight:400 !important;}[data-css="tve-u-1712dc97937"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9793a"]{font-weight:400 !important;}[data-css="tve-u-1712dc9793e"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97942"]{font-weight:400 !important;}[data-css="tve-u-1712dc97946"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9794a"]{font-weight:400 !important;}[data-css="tve-u-1712dc9794e"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97951"]{font-weight:400 !important;}[data-css="tve-u-1712dc97955"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97959"]{font-weight:400 !important;}[data-css="tve-u-1712dc9795d"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97960"]{font-weight:400 !important;}[data-css="tve-u-1712dc97964"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97968"]{font-weight:400 !important;}[data-css="tve-u-1712dc9796c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97970"]{font-weight:400 !important;}[data-css="tve-u-1712dc97974"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97978"]{font-weight:400 !important;}[data-css="tve-u-1712dc9797c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97980"]{font-weight:400 !important;}[data-css="tve-u-1712dc97984"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97988"]{font-weight:400 !important;}[data-css="tve-u-1712dc9798c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9798f"]{font-weight:400 !important;}[data-css="tve-u-1712dc97993"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc97997"]{font-weight:400 !important;}[data-css="tve-u-1712dc9799b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dc9799f"]{font-weight:400 !important;}[data-css="tve-u-1712dc979a3"]{font-family:Montserrat !important;}[data-css="tve-u-1710d31c09d"]{font-family:Montserrat !important;display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712dcd11e0"]{font-family:Montserrat !important;}[data-css="tve-u-1712dcd11e8"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd244e3"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712dce0b07"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712dce0b0b"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b0f"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b13"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b18"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b1c"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b21"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b25"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b29"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b2d"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b31"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b48"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b4c"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b50"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b54"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b59"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b5d"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b61"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b65"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b6a"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b6f"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b73"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b77"]{font-family:Montserrat !important;}[data-css="tve-u-1712dce0b84"]{font-weight:400 !important;}[data-css="tve-u-1712dce0b88"]{font-family:Montserrat !important;}[data-css="tve-u-1710d355177"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d355f82"]{font-size:30px !important;}[data-css="tve-u-1712dd245f4"]{font-family:Montserrat !important;font-weight:400 !important;font-size:18px !important;}[data-css="tve-u-1712dd245f8"]{font-weight:400 !important;}[data-css="tve-u-1712dd245fc"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24600"]{font-weight:400 !important;}[data-css="tve-u-1712dd24604"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24607"]{font-weight:400 !important;}[data-css="tve-u-1712dd2460b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2460f"]{font-weight:400 !important;}[data-css="tve-u-1712dd24613"]{font-family:Montserrat !important;font-size:18px !important;}[data-css="tve-u-1712dd24617"]{font-weight:400 !important;}[data-css="tve-u-1712dd2461b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2461f"]{font-weight:400 !important;}[data-css="tve-u-1712dd24623"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24627"]{font-weight:400 !important;}[data-css="tve-u-1712dd2462b"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2462f"]{font-weight:400 !important;}[data-css="tve-u-1712dd24632"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24636"]{font-weight:400 !important;}[data-css="tve-u-1712dd2463a"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2463e"]{font-weight:400 !important;}[data-css="tve-u-1712dd24642"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24646"]{font-weight:400 !important;}[data-css="tve-u-1712dd2464a"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2464e"]{font-weight:400 !important;}[data-css="tve-u-1712dd24652"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd24656"]{font-weight:400 !important;}[data-css="tve-u-1712dd2465a"]{font-family:Montserrat !important;}[data-css="tve-u-1714fc1a0d6"]{font-weight:400 !important;}[data-css="tve-u-1714fc1a0dd"]{font-family:Montserrat !important;}[data-css="tve-u-1714fc1a0e4"]{font-weight:400 !important;}[data-css="tve-u-1714fc1a0eb"]{font-family:Montserrat !important;}[data-css="tve-u-1714fc1a0f2"]{font-weight:400 !important;}[data-css="tve-u-1714fc1a0f8"]{font-family:Montserrat !important;}:not(#tve) [data-css="tve-u-1714fc1bf0c"]{font-size:18px !important;}[data-css="tve-u-1714fc1deb7"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc1fb0e"]{font-size:18px !important;}[data-css="tve-u-1714fc22689"]{font-size:18px !important;}[data-css="tve-u-1714fc249ba"]{font-size:18px !important;}[data-css="tve-u-1714fc26dbb"]{font-size:18px !important;}[data-css="tve-u-1714fc2963d"]{font-size:18px !important;}[data-css="tve-u-1714fc2963f"]{font-size:18px !important;}[data-css="tve-u-1714fc2c265"]{font-size:18px !important;}[data-css="tve-u-1714fc2e480"]{font-size:18px !important;}[data-css="tve-u-1714fc3182c"]{font-size:18px !important;}[data-css="tve-u-1714fc34139"]{font-size:18px !important;}[data-css="tve-u-1714fc375ec"]{font-size:18px !important;}[data-css="tve-u-1714fc3ba24"]{font-size:18px !important;}[data-css="tve-u-1714fc3ba27"]{font-size:18px !important;}[data-css="tve-u-1714fc3d55c"]{font-size:18px !important;}[data-css="tve-u-1714fc4300c"]{font-size:18px !important;}[data-css="tve-u-1714fc44945"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc46a52"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc482a4"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc4f15c"]{font-size:25px !important;}[data-css="tve-u-1714fc533d1"]{font-size:25px !important;}[data-css="tve-u-1714fc5500a"]{font-size:25px !important;}[data-css="tve-u-1714fc57aed"]{font-size:25px !important;}[data-css="tve-u-1714fc57af0"]{font-size:2px !important;}[data-css="tve-u-1714fc57af2"]{font-size:25px !important;}[data-css="tve-u-1714fc57c47"]{font-size:25px !important;}[data-css="tve-u-1714fc5809c"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712dcbf212"]{line-height:1.8em !important;font-size:18px !important;}:not(#tve) [data-css="tve-u-1712dcbf21d"]{line-height:0.4em !important;}:not(#tve) [data-css="tve-u-1714fc7a85c"]{font-size:18px !important;}[data-css="tve-u-1714fc7d523"]{font-size:18px !important;}[data-css="tve-u-1714fc7d526"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc7ff4c"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc82781"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc89ac1"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc8c7c5"]{font-size:18px !important;line-height:1.8em !important;}[data-css="tve-u-1714fc8e793"]{font-size:18px !important;}[data-css="tve-u-1714fc90f6a"]{font-size:18px !important;}[data-css="tve-u-1714fc9299a"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc94f37"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc972dd"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc9c87e"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fc9efbd"]{font-size:18px !important;}[data-css="tve-u-1714fca174f"]{font-size:18px !important;}[data-css="tve-u-1714fca3b00"]{font-size:18px !important;}[data-css="tve-u-1714fca3b03"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fca69a0"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1710d31aa95"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1714fcaaedd"]{font-size:25px !important;}[data-css="tve-u-1714fcace79"]{font-size:25px !important;}[data-css="tve-u-1714fcae92c"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1710d31aa98"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1714fcb4a26"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fcb70af"]{font-size:18px !important;}[data-css="tve-u-1714fcb954b"]{font-size:18px !important;}[data-css="tve-u-1714fcbb35d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fcbe90c"]{font-size:18px !important;}[data-css="tve-u-1714fcc1146"]{font-size:18px !important;}[data-css="tve-u-1714fcc461e"]{font-size:18px !important;}[data-css="tve-u-1714fcc7c5e"]{font-size:18px !important;}[data-css="tve-u-1714fcc98fe"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fccc1ce"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fcce65c"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f184f"]{font-size:25px !important;line-height:1.8em !important;}[data-css="tve-u-1714fcd6376"]{font-size:25px !important;}[data-css="tve-u-1714fcd8bdd"]{font-size:25px !important;}[data-css="tve-u-1714fcda508"]{font-size:25px !important;}[data-css="tve-u-1714fcdc078"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1714fce0cc5"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f1852"]{line-height:1.8em !important;}:not(#tve) [data-css="tve-u-1714fcef690"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fcf16d4"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fcf3ae6"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fcf5b4d"]{font-size:18px !important;}[data-css="tve-u-1714fcf8d0e"]{font-size:18px !important;}[data-css="tve-u-1714fcfbf27"]{font-size:18px !important;}[data-css="tve-u-1714fd033b4"]{font-size:18px !important;}[data-css="tve-u-1714fd033b7"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fd0de24"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fd12501"]{font-size:18px !important;}[data-css="tve-u-1712dd2467e"]{font-weight:400 !important;}[data-css="tve-u-1712dd24682"]{font-family:Montserrat !important;}[data-css="tve-u-1712dd2466e"]{font-weight:400 !important;}[data-css="tve-u-1712dd24672"]{font-family:Montserrat !important;font-size:18px !important;}[data-css="tve-u-1712dd24676"]{font-weight:400 !important;}[data-css="tve-u-1712dd2467a"]{font-family:Montserrat !important;}:not(#tve) [data-css="tve-u-1712dd4d225"]{font-size:18px !important;line-height:1.8em !important;}[data-css="tve-u-1712dd4d26c"]{font-size:18px !important;}[data-css="tve-u-1714fd18f35"]{font-size:18px !important;}[data-css="tve-u-1714fd1adcc"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fd20e4d"]{font-size:18px !important;}[data-css="tve-u-1712dd24686"]{font-weight:400 !important;}[data-css="tve-u-1712dd2468a"]{font-family:Montserrat !important;}[data-css="tve-u-1710d3ac421"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1710d3c1a7c"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712d5f1d70"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712d5f1d73"]{display:inline-block !important;text-decoration:underline !important;}[data-css="tve-u-1712de59715"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712de59719"]{font-weight:400 !important;}[data-css="tve-u-1712de59720"]{font-family:Montserrat !important;}[data-css="tve-u-1712de59724"]{font-weight:400 !important;}[data-css="tve-u-1712de59729"]{font-family:Montserrat !important;}[data-css="tve-u-1714fd2a571"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1714fd2c6cb"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f1898"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f189e"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18a5"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18ab"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1710d3ac34f"]{font-size:25px !important;}[data-css="tve-u-1714fd48c0e"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18cb"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18d1"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18d8"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18de"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18e2"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18e5"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18e8"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18eb"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18ee"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18f2"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f18f8"]{font-size:18px !important;}[data-css="tve-u-1714fd5f5e4"]{font-size:18px !important;}[data-css="tve-u-1714fd61126"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1710d3c199b"]{line-height:1.5em !important;}[data-css="tve-u-1714fd6642f"]{font-size:25px !important;}[data-css="tve-u-1714fd6868c"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d5f190f"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f1915"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f1918"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-171501f074a"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f191d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f1921"]{font-size:18px !important;}[data-css="tve-u-17150207fd9"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f192d"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712d5f1933"]{font-size:18px !important;}[data-css="tve-u-17150211041"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-17150214248"]{font-size:18px !important;}[data-css="tve-u-17150217028"]{font-size:18px !important;}[data-css="tve-u-17150218af6"]{font-size:18px !important;}[data-css="tve-u-1715021a414"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1715021c554"]{font-size:18px !important;}[data-css="tve-u-1711063b16d"]{display:block;max-width:88%;width:88%;}:not(#tve) [data-css="tve-u-1712de62c07"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712d5ec9a4"]{font-size:18px !important;}[data-css="tve-u-171502268b8"]{display:inline-block !important;text-decoration:underline !important;}:not(#tve) [data-css="tve-u-1712d5ec9ab"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1715022b001"]{font-size:18px !important;}[data-css="tve-u-1712de89aae"]{font-family:Montserrat !important;font-weight:400 !important;}[data-css="tve-u-1712de89abd"]{font-weight:400 !important;}[data-css="tve-u-1712de89ac2"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89ac6"]{font-weight:400 !important;}[data-css="tve-u-1712de89aca"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89acf"]{font-weight:400 !important;}[data-css="tve-u-1712de89ad3"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89ad7"]{font-weight:400 !important;}[data-css="tve-u-1712de89adb"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89adf"]{font-weight:400 !important;}[data-css="tve-u-1712de89ae3"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89ae8"]{font-weight:400 !important;}[data-css="tve-u-1712de89aec"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89af0"]{font-weight:400 !important;}[data-css="tve-u-1712de89af4"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89af9"]{font-weight:400 !important;}[data-css="tve-u-1712de89afd"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b01"]{font-weight:400 !important;}[data-css="tve-u-1712de89b05"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b09"]{font-weight:400 !important;}[data-css="tve-u-1712de89b0d"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b12"]{font-weight:400 !important;}[data-css="tve-u-1712de89b16"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b1a"]{font-weight:400 !important;}[data-css="tve-u-1712de89b1e"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b22"]{font-weight:400 !important;}[data-css="tve-u-1712de89b26"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b2b"]{font-weight:400 !important;}[data-css="tve-u-1712de89b2f"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b33"]{font-weight:400 !important;}[data-css="tve-u-1712de89b37"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b3c"]{font-weight:400 !important;}[data-css="tve-u-1712de89b40"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b44"]{font-weight:400 !important;}[data-css="tve-u-1712de89b48"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b4c"]{font-weight:400 !important;}[data-css="tve-u-1712de89b51"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b55"]{font-weight:400 !important;}[data-css="tve-u-1712de89b59"]{font-family:Montserrat !important;}[data-css="tve-u-1712de89b5d"]{font-weight:400 !important;}[data-css="tve-u-1712de89b61"]{font-family:Montserrat !important;}:not(#tve) [data-css="tve-u-1715022d9f7"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-171502331a8"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-17150236301"]{font-size:18px !important;}[data-css="tve-u-1715023b05f"]{font-size:18px !important;}[data-css="tve-u-1715023cf6a"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-17150251cb3"]{font-size:18px !important;}[data-css="tve-u-17150261fb2"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1715026405b"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-17150266260"]{font-size:18px !important;}[data-css="tve-u-171502685a7"]{font-size:18px !important;}[data-css="tve-u-171502685a9"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-17150269eb8"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-17150273ab0"]{font-size:25px !important;}:not(#tve) [data-css="tve-u-1712deba58b"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deba5a5"]{font-size:18px !important;}[data-css="tve-u-17150287265"]{display:block;max-width:94%;width:94%;}[data-css="tve-u-1715028e82e"]{font-size:18px !important;}[data-css="tve-u-1712df1a8bd"]{font-size:25px !important;}[data-css="tve-u-1712df1adf7"]{font-size:30px !important;}[data-css="tve-u-1712df1adfd"]{font-size:30px !important;}[data-css="tve-u-17150290562"]{font-size:18px !important;}[data-css="tve-u-17150292657"]{font-size:18px !important;}[data-css="tve-u-17150292660"]{font-size:18px !important;}[data-css="tve-u-17150294a4b"]{font-size:18px !important;}[data-css="tve-u-171502964ab"]{font-size:18px !important;}[data-css="tve-u-171502989fb"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef1b0"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef1c8"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef1e1"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef1f9"]{font-size:18px !important;}[data-css="tve-u-171502afd1e"]{font-size:2px !important;}[data-css="tve-u-171502afd20"]{font-size:25px !important;}[data-css="tve-u-171502b00d3"]{font-size:25px !important;}[data-css="tve-u-171502b0834"]{font-size:25px !important;}[data-css="tve-u-171502b1ed0"]{font-size:25px !important;}[data-css="tve-u-171502b7712"]{font-size:18px !important;}[data-css="tve-u-171502b7716"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef245"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef252"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef25e"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-17150309e16"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef277"]{font-size:18px !important;}[data-css="tve-u-17150314fa2"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef284"]{font-size:18px !important;}[data-css="tve-u-17150318c8c"]{font-size:18px !important;}[data-css="tve-u-17150318c91"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef290"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef29d"]{font-size:18px !important;}[data-css="tve-u-171503254de"]{font-size:18px !important;}[data-css="tve-u-171503254e1"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef2a9"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef2b5"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef2ce"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef2e6"]{font-size:18px !important;}[data-css="tve-u-1715033eee8"]{font-size:18px !important;}[data-css="tve-u-1715033eeea"]{font-size:1px !important;}[data-css="tve-u-1715033eef0"]{font-size:18px !important;}[data-css="tve-u-1715033f188"]{font-size:18px !important;}[data-css="tve-u-1715033f781"]{font-size:18px !important;}[data-css="tve-u-17150341182"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef366"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-1712deef38a"]{font-size:18px !important;}:not(#tve) [data-css="tve-u-16edbba2c7c"]{font-size:25px !important;}[data-css="tve-u-171504c394c"]{font-size:18px !important;}[data-css="tve-u-171504c72c0"]{font-size:18px !important;}[data-css="tve-u-171504fd4cd"]{font-size:18px !important;}}</style>
-			<style type="text/css" id="tve_head_custom_css" class="tve_user_custom_style">.thrv_text_element p { margin: 0;}
-.thrv_heading h1,h2,h3,h4,h5 {margin: 0;}
-</style>		
-		<noscript></noscript>
-		<style type="text/css">
-			html {
-				height: auto;
-			}
+    <title>High Paid Freelancer Premium Program - Expertnaire</title>
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="https://expertnaire.com/hpf-premium/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="High Paid Freelancer Premium Program - Expertnaire" />
+    <meta property="og:description"
+        content="In a country where about 70% of its citizens are living below the poverty line Here’s How Everyday Nigerians Are Making Between $1000 – $5,000 Monthly From The Comfort Of Their Homes Doing Jobs For International Companies With Just Their Smartphones Or Laptops- No Capital Needed  This works even if you are a complete newbie ... Read more" />
+    <meta property="og:url" content="https://expertnaire.com/hpf-premium/" />
+    <meta property="og:site_name" content="Expertnaire" />
+    <meta property="article:publisher" content="https://web.facebook.com/expertnaire18" />
+    <meta property="article:modified_time" content="2022-02-18T12:23:22+00:00" />
+    <meta property="og:image" content="https://expertnaire.com/wp-content/uploads/2022/02/1.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="expertadmin">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="23 minutes">
+    <script type="application/ld+json"
+        class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://expertnaire.com/#organization","name":"Expertnaire","url":"https://expertnaire.com/","sameAs":["https://web.facebook.com/expertnaire18"],"logo":{"@type":"ImageObject","@id":"https://expertnaire.com/#logo","inLanguage":"en-US","url":"https://expertnaire.com/wp-content/uploads/2018/04/enlogo.png","width":351,"height":48,"caption":"Expertnaire"},"image":{"@id":"https://expertnaire.com/#logo"}},{"@type":"WebSite","@id":"https://expertnaire.com/#website","url":"https://expertnaire.com/","name":"Expertnaire","description":"Learn From Experts","publisher":{"@id":"https://expertnaire.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://expertnaire.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://expertnaire.com/hpf-premium/#primaryimage","inLanguage":"en-US","url":"https://expertnaire.com/wp-content/uploads/2022/02/1.jpg","width":620,"height":435},{"@type":"WebPage","@id":"https://expertnaire.com/hpf-premium/#webpage","url":"https://expertnaire.com/hpf-premium/","name":"High Paid Freelancer Premium Program - Expertnaire","isPartOf":{"@id":"https://expertnaire.com/#website"},"primaryImageOfPage":{"@id":"https://expertnaire.com/hpf-premium/#primaryimage"},"datePublished":"2021-12-06T11:21:11+00:00","dateModified":"2022-02-18T12:23:22+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://expertnaire.com/hpf-premium/"]}]}]}</script>
 
-			html.tcb-editor {
-				overflow-y: initial;
-			}
-
-			body:before, body:after {
-				height: 0 !important;
-			}
-
-			.thrv_page_section .out {
-				max-width: none
-			}
-
-			.tve_wrap_all {
-				position: relative;
-			}
-
-			/* Content Width - inherit Content Width directly from LP settings */
-			.thrv-page-section[data-inherit-lp-settings="1"] .tve-page-section-in {
-				max-width: 1080px !important;
-				max-width: var(--page-section-max-width) !important;
-			}
-
-			body.tcb-full-header .thrv_header,
-			body.tcb-full-footer .thrv_footer {
-				width: 100vw;
-				left: 50%;
-				right: 50%;
-				margin-left: -50vw !important;
-				margin-right: -50vw !important;
-			}
-		</style>
-
-	</head>
-		<body class="page-template-default page page-id-1218 wp-custom-logo wp-embed-responsive tve_lp" style="" data-css="tve-u-1712e6af5f9">
-				<div class="wrp cnt bSe" style="display: none">
-			<div class="awr"></div>
-		</div>
-		<div class="tve_wrap_all" id="tcb_landing_page">
-			<div class="tve_post_lp tve_lp_tcb2-copy-2-0-hybrid-sales-page-image-version tve_lp_template_wrapper" style="">
-								<div id="tve_flt" class="tve_flt tcb-style-wrap"><div id="tve_editor" class="tve_shortcode_editor tar-main-content" data-post-id="1218"><div class="thrv_wrapper thrv-page-section" style="" data-css="tve-u-170c93ea5e2">
-<div class="tve-page-section-out" data-css="tve-u-15dd1d44b82"></div>
-<div class="tve-page-section-in tve_empty_dropzone" data-css="tve-u-16edd5c8954"><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box cb_style_3" data-css="tve-u-15e3474ceb7" style="" data-style="cb_style_3">
-<div class="tve-content-box-background cb_style_3-bg" data-css="tve-u-16edd3a6f56"></div>
-<div class="tve-cb tve_empty_dropzone cb_style_3-cb" data-css="tve-u-16edd3a6f53"><div class="thrv_wrapper thrv_text_element" data-css="tve-u-15de99116ec"><p data-css="tve-u-1710d099bb2" dir="ltr"><strong><span data-css="tve-u-1714f795861"><em>Work From Home</em>&nbsp;</span></strong><strong><span data-css="tve-u-1710d0c5534">Report</span></strong></p><p data-css="tve-u-1712d586e67" dir="ltr"><br></p><p data-css="tve-u-1712d586e7c" dir="ltr"><strong><span data-css="tve-u-1714f795870">While the world is on LOCK DOWN,&nbsp;</span></strong></p><p data-css="tve-u-1710d099bb7" dir="ltr"><span data-css="tve-u-1714f7967d7"><span data-css="tve-u-1714f796515"><span data-css="tve-u-1714f796432"><span data-css="tve-u-1714f79635c"><span data-css="tve-u-1714f796128"><span data-css="tve-u-1714f796058"><span data-css="tve-u-1714f795f83"><span data-css="tve-u-1714f795ba2"><span data-css="tve-u-1714f795ab8"><span data-css="tve-u-1714f79598b"><span data-css="tve-u-1714f795871"><strong><span data-css="tve-u-1714f7bce21">And Social Distancing Becomes The Norm,&nbsp;</span></strong></span></span></span></span></span></span></span></span></span></span></span></p><p data-css="tve-u-1710d099bb7" dir="ltr"><span data-css="tve-u-1714f7967d9"><span data-css="tve-u-1714f796517"><span data-css="tve-u-1714f796434"><span data-css="tve-u-1714f79635d"><span data-css="tve-u-1714f79612a"><span data-css="tve-u-1714f796059"><span data-css="tve-u-1714f795f85"><span data-css="tve-u-1714f795ba4"><span data-css="tve-u-1714f795aba"><span data-css="tve-u-1714f79598d"><span data-css="tve-u-1714f795873"><strong><span data-css="tve-u-1714f7bce2a">You can now..</span></strong></span></span></span></span></span></span></span></span></span></span></span></p><p data-css="tve-u-1710d099bbb" dir="ltr"><br></p><p data-css="tve-u-1712d586e90" dir="ltr"><strong><span data-css="tve-u-1710d758a79">Get Paid <span data-css="tve-u-1710d58b69a">$3,000 per Month </span></span></strong></p><p data-css="tve-u-1710d1239ad" dir="ltr"><span data-css="tve-u-1710d760fd2"><strong><span data-css="tve-u-1710d58b696">Writing Good News From Home !</span></strong></span></p><p data-css="tve-u-1712d586ea3" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1714f7a870e">Thanks to&nbsp;</span><span data-css="tve-u-1712d586ee0"><strong><span data-css="tve-u-1710d111602"><span data-css="tve-u-1714f7a8712">A Little-known $2.3Trillion writing industry...</span>&nbsp;</span></strong></span></strong><strong><span data-css="tve-u-1714f7aa41b">And The <em>March 20th Announcement</em> &nbsp;by&nbsp;</span></strong><strong><span data-css="tve-u-1714f7aa422">The Central Bank Governor!</span></strong></p><p data-css="tve-u-1710d099bbe" dir="ltr" style="text-align: center;"><strong>​</strong><br></p><p data-css="tve-u-1710d0e5216" dir="ltr"><strong><span data-css="tve-u-1710d0dfae9">"<span data-css="tve-u-1714f7b301b">With more Companies offering flexible policies, </span><span data-css="tve-u-1710d758a8d">Getting Paid to Work from home &nbsp;</span><span data-css="tve-u-1714f7ba0d2">is a lot easier than before" [FORBES Magazine]</span></span></strong></p><strong class=""><span data-css="tve-u-1710d0c553d">​</span></strong></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1710e5aac61"><p data-css="tve-u-1712d597d01" dir="ltr" style="text-align: left;"><br><span data-css="tve-u-1714f840b10">Dear friend,<br><br>The handwriting is on the wall!</span></p><p data-css="tve-u-1712d597d01" dir="ltr" style="text-align: left;"><br><span data-css="tve-u-1714f8434bf">COVID-19 (Coronavirus) has forced millions to change their day-to-day lives. And it’s affecting the way people all over the world work and earn...</span><br><br><span data-css="tve-u-1714f845af3">We've all been forced to work from home in order to reduce the spread of the deadly Coronavirus pandemic.</span></p><p data-css="tve-u-1712d597d01" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f845af3">​</span><br></p><p data-css="tve-u-1712d597d1a" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f830a16">This spells an economic disaster for most businesses and after this is over, thousands will lose their jobs!</span></p><p data-css="tve-u-1712d597d1c" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714f8649fb" dir="ltr" style="text-align: left;">Yet, while millions all over the world find it challenging to adjust to the harsh economic realities of these COVID-19 times, it's a massive opportunity <em>for you&nbsp;</em>to....</p><p data-css="tve-u-1712d597d1e" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714f8664d5" dir="ltr" style="text-align: left;">Earn up to<span data-css="tve-u-1710d15253a">&nbsp;$3,000 a month</span> writing good news letters from the comfort of <em>your&nbsp;</em>home or anywhere you are currently</p><p data-css="tve-u-1712d597d25" dir="ltr" style="text-align: center;"><strong><br></strong></p><p data-css="tve-u-1714f86808c" dir="ltr" style="text-align: left;">Thanks to what's happening in a little-known $2.3 trillion writers market</p><p data-css="tve-u-1712d597d27" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d29" dir="ltr" style="text-align: left;">In a moment, I'll give you all the details on how you can take your very first step on a <em>financially rewarding</em>&nbsp;writing path that can pay you...&nbsp;</p><p data-css="tve-u-1712d597d2b" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d2d" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d15253d"><span data-css="tve-u-1714f884688">Up to $36,000</span><span data-css="tve-u-1714f8869ba"> Per Year!</span></span></strong></p><p data-css="tve-u-1712d597d2f" dir="ltr" style="text-align: center;"><br></p><p data-css="tve-u-1714f88be1f" dir="ltr" style="text-align: left;">And over N13Million Naira when you convert it to Naira.</p><p data-css="tve-u-1712d597d31" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714f88e8be" dir="ltr" style="text-align: left;">But first, here's why this opportunity couldn't have come at a better time!</p><p data-css="tve-u-1712d597d33" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d35" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f899ca1">On Friday the 20th of March;</span></p><p data-css="tve-u-1712d597d37" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f89a8b8"><span data-css="tve-u-1714f899e34"><span data-css="tve-u-1714f899ca4"><br></span></span></span></p><p data-css="tve-u-1712d597d39" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f899ca6">The CBN Governor went on TV to make…</span></p><p data-css="tve-u-1712d597d3c" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d3e" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1714f830a1e"><span data-css="tve-u-1714f89d18b">The N380/$ </span><span data-css="tve-u-1714f89f001">Announcement</span></span></strong><br><strong><span data-css="tve-u-1710e54cd15">​</span></strong></p></div><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box" data-css="tve-u-160b1c0490f" data-ct-name="Minimal Style 2" data-ct="testimonial-8613" data-element-name="Testimonial">
-<div class="tve-content-box-background"></div>
-<div class="tve-cb tve_empty_dropzone" data-css="tve-u-1712d7c8052"><div class="thrv_wrapper tve_image_caption" data-css="tve-u-1712d7c8054"><span class="tve_image_frame" style="width: 100%;"><img loading="lazy" class="tve_image wp-image-1195" alt="" width="562" height="367" title="CBN-Governor-Godwin-Emefiele-562x367" data-id="1195" src="https://andymukolo.com/wp-content/uploads/2020/04/CBN-Governor-Godwin-Emefiele-562x367-1.jpg" style="" data-css="tve-u-1712d7dde04"></span></div><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box" data-css="tve-u-1712d7c8055">
-<div class="tve-content-box-background" data-css="tve-u-1712d7c8056"></div>
-<div class="tve-cb tve_empty_dropzone"><div class="thrv_wrapper thrv_text_element" data-tag="h1"><h1 class="" data-css="tve-u-1712d7c8057" style="text-align: center;">Godwin Emefiele</h1></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1712d7c8058" data-tag="h1"><h1 class="" data-css="tve-u-1712d7c8059" style="text-align: center;">CBN Governor.</h1></div><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" data-css="tve-u-1712d7c805a"><p style="text-align: center;"><em>At this time the CBN provides Foreign Exchange at N380 per Dollar, anyone who has higher than the 380 can go ahead, but it should be available in the market to fund the domestic market.</em></p></div><div class="tcb-clear" data-css="tve-u-1712d7c805c"><div class="thrv_wrapper thrv_icon tcb-icon-display" data-css="tve-u-1712d7c805d"><svg class="tcb-icon" viewBox="0 0 26 28" data-name="quote-right">
-<path d="M12 5v11c0 4.406-3.594 8-8 8h-1c-0.547 0-1-0.453-1-1v-2c0-0.547 0.453-1 1-1h1c2.203 0 4-1.797 4-4v-0.5c0-0.828-0.672-1.5-1.5-1.5h-3.5c-1.656 0-3-1.344-3-3v-6c0-1.656 1.344-3 3-3h6c1.656 0 3 1.344 3 3zM26 5v11c0 4.406-3.594 8-8 8h-1c-0.547 0-1-0.453-1-1v-2c0-0.547 0.453-1 1-1h1c2.203 0 4-1.797 4-4v-0.5c0-0.828-0.672-1.5-1.5-1.5h-3.5c-1.656 0-3-1.344-3-3v-6c0-1.656 1.344-3 3-3h6c1.656 0 3 1.344 3 3z"></path>
-</svg></div></div></div>
-</div></div>
-</div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1710e5aac61"><p><br></p><p><br></p><p data-css="tve-u-1712d597d4a" dir="ltr" style="text-align: left;">Nigeria's Central Bank Governor Godwin Emefiele announced that the Central bank of Nigeria was devaluing the Naira to N380.00 per dollar ($)</p><p data-css="tve-u-1712d597d4f" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d51" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f8a44ab">Companies and investors lost hundreds of Millions, and in times like these when there's a lock down and the economy is almost on standstill, that's a disaster for millions of Nigerians.</span></p><p data-css="tve-u-1712d597d57" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d5a" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f8a76aa">The cost of living will increase drastically and most will struggle to keep up financially.</span></p><p data-css="tve-u-1712d597d5d" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f8a7ca5"><span data-css="tve-u-1714f8a77d4"><span data-css="tve-u-1714f8a76ac"><br></span></span></span></p><p data-css="tve-u-1712d597d5f" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f8a76ae">But for someone like you who's about discover what's going on in this little-known $2.3trillion writing industry that....</span></p><p data-css="tve-u-1712d597d5f" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d5f" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1712dada559">Pays New <em>W</em>riters at Least $1,500&nbsp;</span></strong></p><p data-css="tve-u-1712d597d5f" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1712d85ef6d">For One Good Letter!</span></strong></p><p data-css="tve-u-1712d597d61" dir="ltr" style="text-align: center;"><br></p><p data-css="tve-u-1712d597d63" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f8abb14">You'll have better stories to tell about this new economy.</span></p><p data-css="tve-u-1712d597d65" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f8ac0b7"><span data-css="tve-u-1714f8abc03"><span data-css="tve-u-1714f8abb16"><br></span></span></span></p><p data-css="tve-u-1712d597d67" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f8abb18">And here's why:</span></p><p data-css="tve-u-1712d597d69" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d6b" dir="ltr"><strong><span data-css="tve-u-1710d18ee4a">When you're earning in dollars, you're not really worried about what's happening to the Naira.</span></strong></p><p data-css="tve-u-1712d597d6d" dir="ltr"><br></p><p data-css="tve-u-1712d597d70" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f8b8597">If the value of the Naira drops below N380/$dollar</span></p><p data-css="tve-u-1712d597d70" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f8e45e2">Good for you.</span><br><br><span data-css="tve-u-1714f8e20c1">If it increases to N500/$dollar…<br><br>Even better.</span><br><br><span data-css="tve-u-1714f8df116">And when it goes back to normal (say N250/$ or N350/$)... you'll still remain in...</span></p><p data-css="tve-u-1712d597d83" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d85" dir="ltr"><strong><span data-css="tve-u-1710d196266"><span data-css="tve-u-1714f9193ea">The Top 1% of Income</span> <span data-css="tve-u-1714f91ad4a">Earners in The Country!</span></span></strong></p><p data-css="tve-u-1712d597d87" dir="ltr"><br></p><p data-css="tve-u-1712d597d89" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f927dc2">Let’s do the math:</span></p><p data-css="tve-u-1712d597d8b" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f9282aa"><span data-css="tve-u-1714f927ec6"><span data-css="tve-u-1714f927dc5"><br></span></span></span></p><p data-css="tve-u-1712d597d8e" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f927dc7">The average Nigerian banker or civil servant or lawyer or doctor makes around N120,000 a month.</span></p><p data-css="tve-u-1712d597d90" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d93" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f929f04">Now, let's say you decide to take on just one letter-writing client per month… </span><span data-css="tve-u-1714f92be9e">(and as you'll see, there are tens of thousands of potential clients in the $2.3trillion direct response market always looking for new writers).</span></p><p data-css="tve-u-1712d597d95" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d97" dir="ltr" style="text-align: left;">And you earn $1,500 from that project.</p><p data-css="tve-u-1712d597d99" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597d9b" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f92f92b">That's $1,500 x 380/$ = <span data-css="tve-u-1710d54c894">N570,000 a month!</span></span></p><p data-css="tve-u-1712d597d9d" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f92fe7f"><span data-css="tve-u-1714f92fa38"><span data-css="tve-u-1714f92f92f"><br></span></span></span></p><p data-css="tve-u-1712d597d9f" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f92f931">If you take 2 clients,</span></p><p data-css="tve-u-1712d597da1" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597da3" dir="ltr" style="text-align: left;">That's $3,000 X 380/$ =&nbsp;<span data-css="tve-u-1710d54c898">N1,140,000 per month.</span></p><p data-css="tve-u-1712d597da6" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597da8" dir="ltr" style="text-align: left;"><span data-css="tve-u-1710d1b011f">This puts you in the top 1% of income earners in Nigeria.</span></p><p data-css="tve-u-1712d597daa" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597dac" dir="ltr" style="text-align: left;">All that money…</p><p data-css="tve-u-1712d597dae" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597db0" dir="ltr" style="text-align: left;">Just writing about life-changing discoveries and opportunities for multi-million-dollar publishers and getting paid very well to do it.</p><p data-css="tve-u-1712d597db2" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597db4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f9394ff">In a minute, I'll give you a list of 12 very Profitable <em>letter writing</em>&nbsp;niches you can choose from once you get started</span></p><p data-css="tve-u-1712d597db9" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714f93acc7" dir="ltr" style="text-align: left;">But first, lets take a look at why...</p><p data-css="tve-u-1712d597dbb" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597dbd" dir="ltr"><strong><span data-css="tve-u-17110627f3d">There's never been a higher demand</span></strong></p><p data-css="tve-u-1712d597dbf" dir="ltr"><strong><span data-css="tve-u-1710d1b0121">for NEW writers in this $2.3Trillion Industry!</span></strong></p><p data-css="tve-u-1712d597dc1" dir="ltr"><br></p><p data-css="tve-u-1712d597dc3" dir="ltr" style="text-align: left;">Millions of online businesses are beginning to realize that to keep up with the constraints of the new economy (no thanks to COVID-19)....</p><p data-css="tve-u-1712d597dc5" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597dc7" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f941107">They have to focus more on publishing <em>valuable</em>&nbsp;information on genuine discoveries and opportunities that can help people improve their health, earn more from home, and take care of family in times like these...</span></p><p data-css="tve-u-1712d597dca" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597dcc" dir="ltr" style="text-align: left;">And to do this effectively, they’ll need dozens of good news articles&nbsp; and letters published on their websites every month</p><p data-css="tve-u-1712d597dd4" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714f9b7322" dir="ltr" style="text-align: left;">But there's a severe shortage of people who know how to write the kinds of letters these businesses need;</p><p data-css="tve-u-1712d597dd9" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714f9b890f" dir="ltr" style="text-align: left;">Mark Ford, one of the legends in this industry says:<br><br></p><blockquote class="" data-css="tve-u-1714f7df969" style="text-align: left;"><em><span data-css="tve-u-1712e65c367"><span data-css="tve-u-1714f9ba49e">"Once you write one good letter, </span><strong><span data-css="tve-u-1714f9bc28b">your phone won't stop ringing</span></strong>. <span data-css="tve-u-1714f9bdaa8">You'll be in great demand. It's really the world's most exciting job"</span></span></em></blockquote><p data-css="tve-u-1714f9c163d" dir="ltr" style="text-align: left;"><br><span data-css="tve-u-1712e662684"><span data-css="tve-u-1712e662689"><span data-css="tve-u-1712e65e2af"><span data-css="tve-u-1714f9c3d73">Evaldo Albuquerque, a key decision maker at Paradigm Press,</span> <span data-css="tve-u-1714f9c5510">a Multi-million dollar financial publishing giant based in Baltimore says:</span></span></span></span></p><p data-css="tve-u-1712d597dd9" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597ddb" dir="ltr" style="text-align: center;"><strong>"We're always on the look out for new talent"<br></strong><br></p><p data-css="tve-u-1712d597ddd" dir="ltr" style="text-align: left;">That's why they are willing to pay top money for your services (at&nbsp;<em>least $1,500 per letter)</em>.. if you can help them achieve their business goals in times like these;</p><p data-css="tve-u-1712d597de2" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597de6" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1712dada5aa"><span data-css="tve-u-1714f9cb98f">What Does This Financially Rewarding</span>&nbsp;</span></strong><strong><span data-css="tve-u-1710d1b8a63">Letter Writing Process Involve?</span></strong></p><p data-css="tve-u-1712d597de8" dir="ltr" style="text-align: center;"><br></p><p data-css="tve-u-1712d597dea" dir="ltr" style="text-align: left;">I can sum it up pretty easily:</p><p data-css="tve-u-1712d597dec" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597dee" dir="ltr" style="text-align: left;">You’ll be writing simple letters, much like the one you’re reading right now.</p><p data-css="tve-u-1712d597df1" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597df3" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f9d1aa2">And what is this letter?</span></p><p data-css="tve-u-1712d597df6" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597df8" dir="ltr" style="text-align: left;">It’s simply me … talking to you … about a situation or discovery or opportunity... that has had a tremendously positive impact on my life … And now, I want to share that experience as good news with you.</p><p data-css="tve-u-1712d597dfa" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597dfc" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f9ed0df">It’s really that simple.</span></p><p data-css="tve-u-1712d597e00" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f9ed64b"><span data-css="tve-u-1714f9ed1e3"><span data-css="tve-u-1714f9ed0e1"><span data-css="tve-u-1710d54c8a2">​</span><br></span></span></span></p><p data-css="tve-u-1712d597e0e" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f9ed0e3">All I’m doing is having a conversation with you …</span></p><p data-css="tve-u-1712d597e10" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e12" dir="ltr" style="text-align: left;">Only instead of coming to your house and doing it in person, I’m doing it through words, right here on your phone/computer screen.</p><p data-css="tve-u-1712d597e15" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e17" dir="ltr" style="text-align: left;">Pretty straightforward, right?</p><p data-css="tve-u-1712d597e19" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714f9f26ab" dir="ltr" style="text-align: left;">This kind of writing is known in our business as “Copywriting.”</p><p data-css="tve-u-1712d597e1b" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714f9f4b0d" dir="ltr" style="text-align: left;">And the people who write these letters are known as “Copywriters.”<br><br></p><blockquote class="" data-css="tve-u-1710e536be1" dir="ltr"><strong><span data-css="tve-u-1710e54cd31">"The value of a skilled copywriter has tripled as the world has gone digital…. And The Money is Really Good!</span></strong></blockquote><blockquote class="" data-css="tve-u-1710e536be9" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d525930">-<span data-css="tve-u-17110627f4b">Entrepreneur Magazine.</span></span></strong></blockquote><p data-css="tve-u-1712d597e29" dir="ltr" style="text-align: left;"><br>But as I said —It’s not really “writing” in the classic sense.</p><p data-css="tve-u-1712d597e2d" dir="ltr" style="text-align: left;"><br>It’s just me “talking” to you about an amazing idea... discovery... opportunity... that I’m excited about — in the same “conversational” tone I would use if we were speaking face-to-face.</p><p data-css="tve-u-1712d597e30" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e32" dir="ltr" style="text-align: left;">Now, I know you might find it hard to believe that people are actually willing to pay you thousands of dollars to write about things you’re excited to share with people just like you.</p><p data-css="tve-u-1712d597e34" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e37" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714f9fc4c4">But they are.</span></p><p data-css="tve-u-1712d597e39" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e3b" dir="ltr" style="text-align: left;">And they do.</p><p data-css="tve-u-1712d597e3d" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e3f" dir="ltr" style="text-align: left;">A lot of money, as you’ll see…</p><p data-css="tve-u-1712d597e42" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e44" dir="ltr" style="text-align: left;">As a well-paid copywriter..</p><p data-css="tve-u-1712d597e46" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e49" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d20e180">The kinds of letters you’ll be writing&nbsp;</span></strong></p><p data-css="tve-u-1712d597e4b" dir="ltr" style="text-align: center;"><span data-css="tve-u-1714f7e97d0"><span data-css="tve-u-1714f7e90fb"><span data-css="tve-u-1714f7e8f19"><strong><span data-css="tve-u-1710d1fe95d"><span data-css="tve-u-1714fa09127">Offer solutions to </span><span data-css="tve-u-1714fa0ae9e">everyday problems.</span></span></strong></span></span></span></p><p data-css="tve-u-1712d597e4d" dir="ltr" style="text-align: center;"><span data-css="tve-u-1714f7e97d1"><span data-css="tve-u-1714f7e90fd"><span data-css="tve-u-1714f7e8f1a"><br></span></span></span></p><p data-css="tve-u-1712d597e4f" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fa10185">These letters might show people how they can… earn more money…</span>
-<span data-css="tve-u-1714fa801aa">become healthier … stay fit.... get fitter....be better at their jobs even if they've been forced to work from </span><span data-css="tve-u-1714fa82464">home… be more attractive to the opposite sex … support a worthy cause … become better investors etc.</span></p><p data-css="tve-u-1712d597e51" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e54" dir="ltr" style="text-align: left;">If you’ve bought something online, chances are, you probably bought it after reading a letter like this one...</p><p data-css="tve-u-1712d597e56" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e59" dir="ltr" style="text-align: left;">And in this business of ours, there’s almost no limit to the number of “niches” you can specialize in.</p><p data-css="tve-u-1712d597e5b" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e5d" dir="ltr" style="text-align: left;">You can write about cars… technology, energy… computers … gardening… cooking… health, sports… teaching… survival… money…</p><p data-css="tve-u-1712d597e5f" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e61" dir="ltr" style="text-align: left;">You're simply writing to people with the same interests.</p><p data-css="tve-u-1712d597e63" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e66" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714faa5afd">And here’s a little secret…</span></p><p data-css="tve-u-1712d597e68" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714faa8fee" dir="ltr" style="text-align: left;">There are around “12 profitable niches” that can be far more lucrative than the others.</p><p data-css="tve-u-1712d597e6b" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714faab32f" dir="ltr" style="text-align: left;">Take the BIG 5 for example:</p><ul class=""><li class="dir=" data-css="tve-u-1712d597e6d" style="text-align: left;">The Financial niche</li><li class="dir=" data-css="tve-u-1712d597e6f" style="text-align: left;">The Health niche</li><li class="dir=" data-css="tve-u-1712d597e71" style="text-align: left;">Writing for the Web</li><li class="dir=" data-css="tve-u-1712d597e73" style="text-align: left;">Self development</li><li class="dir=" data-css="tve-u-1712d597e76" style="text-align: left;">Information marketing<br><br></li></ul><p data-css="tve-u-1712da60b66" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d20e185"><span data-css="tve-u-1714f809853">Any one of these the “Big 5” Letter</span>-<span data-css="tve-u-1714f826c82">Writing Niches can pay you Between $36,000</span> <span data-css="tve-u-1714fabcc59">- $120,000 per year</span></span></strong></p><p data-css="tve-u-1712d597e7a" dir="ltr" style="text-align: center;"><br></p><p data-css="tve-u-1712d597e7d" dir="ltr" style="text-align: left;">And once you learn the simple formula to structuring a letter aimed at these audiences specifically… you’re well on your way to... <em>A lucrative six-figure writing career.</em></p><p data-css="tve-u-1712d597e84" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e86" dir="ltr" style="text-align: left;">Why so lucrative?</p><p data-css="tve-u-1712d597e88" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e8b" dir="ltr" style="text-align: left;">It all comes down to one thing:</p><p data-css="tve-u-1712d597e8d" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e8f" dir="ltr" style="text-align: left;"><span data-css="tve-u-1710d2240d4">Money.</span></p><p data-css="tve-u-1712d597e91" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e94" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714facaaee">As a copywriter, you play an important role in the success of the company that’s hiring you to write a letter for them.</span></p><p data-css="tve-u-1712d597e96" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e98" dir="ltr" style="text-align: left;">Because the letters we write serve a very specific function…</p><p data-css="tve-u-1712d597e9a" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597e9d" dir="ltr" style="text-align: left;">They’re meant to persuade the person reading them to take action.</p><p data-css="tve-u-1712d597e9f" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597ea1" dir="ltr" style="text-align: left;">That “action” could be any number of things;</p><p data-css="tve-u-1712d597ea4" dir="ltr" style="text-align: left;"><br></p><ul class=""><li class="" data-css="tve-u-1712d597ea6" dir="ltr" style="text-align: left;">It could be to sign up for a free report<br><br></li><li class="" data-css="tve-u-1712d597eaa" dir="ltr" style="text-align: left;">It could be to support a worthy cause … like raise funds for survivors of a natural disaster or people with serious health challenges<br><br></li><li class="" data-css="tve-u-1712d597eaf" dir="ltr" style="text-align: left;">It could be to buy or try a new product…<br><br></li></ul><p data-css="tve-u-1712d597eb4" dir="ltr" style="text-align: left;">The point is, the more people your letter gets to “take action” … the more the company that hired you to write it benefits.</p><p data-css="tve-u-1712d597eb6" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714fadd666" dir="ltr" style="text-align: left;">And please keep in mind:</p><p data-css="tve-u-1712d597ebf" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714fadef12" dir="ltr" style="text-align: left;">You don't even need to be a pro or anything like that.</p><p data-css="tve-u-1712d597ec2" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597ec5" dir="ltr" style="text-align: left;">I'll show you how to get really good in less than 3-weeks</p><p data-css="tve-u-1712d597ec7" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597ec9" dir="ltr" style="text-align: left;">Good enough to earn at least $1,500 per letter..... And $3,000 or more per month, writing these kinds of letters from home e<em>ven as a beginner.</em></p><p data-css="tve-u-1712d597ed1" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597ed3" dir="ltr" style="text-align: left;">Take Eben C.</p><p data-css="tve-u-1712d597ed6" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597ed8" dir="ltr" style="text-align: left;">A <em>Gas&nbsp;</em>Engineer who never earned more than N250,000 per month after leaving school a few years ago…</p><p data-css="tve-u-1712d597eda" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597edd" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714faeaa41">He had almost zero experience when he started back in 2018, yet..</span></p><p data-css="tve-u-1712d597ee0" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597ee2" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-17110627f5b"><span data-css="tve-u-1714faee17d">This February </span><span data-css="tve-u-1714faf092b">Alone</span></span></strong></p><p data-css="tve-u-1712d597ee4" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d2240d5"><span data-css="tve-u-1714faf092e">He made $3,450</span> <span data-css="tve-u-1714faf2515">Writing From Home!</span></span></strong></p><p data-css="tve-u-1712d597ee6" dir="ltr" style="text-align: center;"><br></p><p data-css="tve-u-1712d597ee9" dir="ltr" style="text-align: left;">And he’s well on his way to making double that amount.</p><p data-css="tve-u-1712d597eeb" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597eed" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714faf5858">He took on just 3 projects</span></p><p data-css="tve-u-1712d597eef" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597ef2" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714faf7539">$1,150 per project.</span></p><p data-css="tve-u-1712d597ef4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714faf7b31"><span data-css="tve-u-1714faf765a"><span data-css="tve-u-1714faf753c"><br></span></span></span></p><p data-css="tve-u-1712d597ef7" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714faf753d">At the current exchange rate, </span></p><p data-css="tve-u-1712d597ef9" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597efc" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d22ac83"><span data-css="tve-u-1714fb0240a">That's over N435,000</span> <span data-css="tve-u-1714fb03ef6">for one Project Alone!</span></span></strong></p><p data-css="tve-u-1712d597efe" dir="ltr" style="text-align: center;"><br></p><p data-css="tve-u-1712d597f00" dir="ltr" style="text-align: left;">And he says:</p><blockquote class="" data-css="tve-u-1714f7f248f" dir="ltr"><strong><span data-css="tve-u-1712db35705"><span data-css="tve-u-1714fb08118">"I started trading my Copywriting skills towards the end of 2018. Within 6 months, I made my first N1million writing on Amazon for a Florida based marketing agency. </span>Since then I have not looked back. </span></strong><span data-css="tve-u-1712db35714">The</span><strong><span data-css="tve-u-1712dada611">&nbsp;</span></strong><span data-css="tve-u-1712dae3d39"><span data-css="tve-u-1712dada61c"><span data-css="tve-u-1712dada621"><strong><span data-css="tve-u-1714f7fd909">advantage of earning in dollars is enormous.</span></strong><span data-css="tve-u-1714fb23236"><span data-css="tve-u-1714fb2284c"><span data-css="tve-u-1714fb2272e"><strong><span data-css="tve-u-1714f7fd912">&nbsp;</span></strong></span></span></span></span></span></span></blockquote><blockquote class="" data-css="tve-u-1714f7f248f" dir="ltr"><span data-css="tve-u-1712dae3d39"><span data-css="tve-u-1712dada61c"><span data-css="tve-u-1712dada621"><strong><span data-css="tve-u-1714f7fd912">I encourage you to work with this type of foreign clients"</span></strong></span></span></span></blockquote></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-17150498cb8"><span class="tve_image_frame"><img loading="lazy" class="tve_image wp-image-1248" alt="" width="613" height="134" title="pasted image 0 (1)" data-id="1248" src="https://andymukolo.com/wp-content/uploads/2020/04/pasted-image-0-1.png" data-css="tve-u-17150498cc9" srcset="https://andymukolo.com/wp-content/uploads/2020/04/pasted-image-0-1.png 613w, https://andymukolo.com/wp-content/uploads/2020/04/pasted-image-0-1-300x66.png 300w" sizes="(max-width: 613px) 100vw, 613px" /></span></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1710e5aac61"><p data-css="tve-u-1712d597f05" dir="ltr" style="text-align: center;"><br></p><p data-css="tve-u-1712d597f07" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f09" dir="ltr" style="text-align: left;">And what about Faith A?</p><p data-css="tve-u-1712d597f0b" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f0d" dir="ltr" style="text-align: left;">She writes specifically for the health and beauty niche... her work has appeared on NBC, The Guardian, The Huffington post and Entrepreneur!</p><p data-css="tve-u-1712d597f10" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f12" dir="ltr" style="text-align: left;">Guess what?</p><p data-css="tve-u-1712d597f14" dir="ltr" style="text-align: left;">&nbsp;</p><p data-css="tve-u-1710d2335d5" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1714fb31852">She’s a Lawyer, </span><span data-css="tve-u-1714fb33cbb">She does her Letter Writing from home,</span> <span data-css="tve-u-1714fb35888">and she still makes over $4,000 a Month!</span></strong></p><p data-css="tve-u-1712d597f1b" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f1d" dir="ltr" style="text-align: left;">….Writing for BIG health and medical outfits like The Americord Registry, American Family Care, Multiply Labs, Multiply Labs, Prepared Health, The Vitamin Shoppe and so on!</p><p data-css="tve-u-1712d597f20" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712db35749"><br></span></p><p data-css="tve-u-1714fb42402" style="text-align: left;"><span data-css="tve-u-1712db3574d"><span data-css="tve-u-1712db35750"><span data-css="tve-u-1712db76a0d">Or take Victor Uche. N..</span></span></span></p><p data-css="tve-u-1711c7c160e" style="text-align: left;"><span data-css="tve-u-1712db35754"><span data-css="tve-u-1712db35757"><br></span></span></p><p data-css="tve-u-1711c7c1617" style="text-align: left;"><span data-css="tve-u-1712db3575b"><span data-css="tve-u-1712db3575f"><span data-css="tve-u-1714fb4c648">Who back in 2017, was broke, battered by the crumbling economy,</span><span data-css="tve-u-1714fb4de90"> and hawking perishable goods in Lagos traffic, until...</span></span></span></p><p data-css="tve-u-1711c7c1617" style="text-align: left;"><span data-css="tve-u-1712db35762"><span data-css="tve-u-1712db35765"><br></span></span></p><p data-css="tve-u-1714fb501a7" style="text-align: left;"><span data-css="tve-u-1712db35769"><span data-css="tve-u-1712db3576c">He discovered this lucrative $2.3 trillion dollar letter-writing industry.</span></span></p><p data-css="tve-u-1711c7c1621" style="text-align: left;"><span data-css="tve-u-1712db35770"><span data-css="tve-u-1712db35774"><br></span></span></p><p data-css="tve-u-1714fb5273c" style="text-align: left;"><span data-css="tve-u-1712db76a67"><span data-css="tve-u-1712db76a75">Now, he's a multimillionaire several times over. </span></span></p><p data-css="tve-u-1711c7c1629" style="text-align: left;"><br></p><p data-css="tve-u-1714fb546a9" style="text-align: left;"><span data-css="tve-u-1712db35777"><span data-css="tve-u-1712db3577b">He's built a seven figure Copywriting business for himself writing for several publishing giants in the foreign space.</span></span></p><p data-css="tve-u-1711c7c1648" style="text-align: left;"><span data-css="tve-u-1712db3577e"><span data-css="tve-u-1712db35782"><br></span></span></p><p data-css="tve-u-1714fb5659b" style="text-align: left;"><span data-css="tve-u-1712db35785"><span data-css="tve-u-1712db35789">Then, there's the highly sought-after Ayanfe S.</span></span></p><p data-css="tve-u-171189b8695" style="text-align: left;"><span data-css="tve-u-1712db3578d"><span data-css="tve-u-1712db35790"><br></span></span></p><p data-css="tve-u-1714fb58c2e" style="text-align: left;"><span data-css="tve-u-1712db35794"><span data-css="tve-u-1712db35797">Who's been writing letters in the evergreen self-improvement niche of the $2.3trillion direct response marketing Industry for over 5-years now...</span></span></p><p data-css="tve-u-171189b8699" style="text-align: left;"><span data-css="tve-u-1712db3579b"><span data-css="tve-u-1712db3579e"><br></span></span></p><p data-css="tve-u-1714fb5be3d" style="text-align: left;"><span data-css="tve-u-1712db357a2"><span data-css="tve-u-1712db357a6"><span data-css="tve-u-1710d26a893">He makes well over $6,000 a month as a writer</span></span></span></p><p data-css="tve-u-171189b869d" style="text-align: left;"><span data-css="tve-u-1712db357a9"><span data-css="tve-u-1712db357ad"><br></span></span></p><p data-css="tve-u-1714fb62b1c" style="text-align: left;"><span data-css="tve-u-1712db357b0"><span data-css="tve-u-1712db357b4">Now, understand that they all started from scratch.</span></span></p><p data-css="tve-u-171189b869f" style="text-align: left;"><span data-css="tve-u-1712db357b8"><span data-css="tve-u-1712db357bb"><br></span></span></p><p data-css="tve-u-171189b869f" style="text-align: left;"><span data-css="tve-u-1712db357bf"><span data-css="tve-u-1712db357c2">With Zero experience, yet, here they are... making a fortune for themselves.</span></span></p><p data-css="tve-u-171189b869f" style="text-align: left;"><span data-css="tve-u-1712db357c6"><span data-css="tve-u-1712db357ca"><br></span></span></p><p data-css="tve-u-1714fb64b2e" style="text-align: left;"><span data-css="tve-u-1712db357ce"><span data-css="tve-u-1712db357d1">And you can do the same, using what I'll show you.</span></span></p><p data-css="tve-u-171189b869f" style="text-align: left;"><span data-css="tve-u-1712db357d5"><span data-css="tve-u-1712db357d8"><br></span></span></p><p data-css="tve-u-171189b86a3" style="text-align: left;"><span data-css="tve-u-1712db357dc"><span data-css="tve-u-1712db357df">Like Eben....</span></span></p><p data-css="tve-u-171189b86a3" style="text-align: left;"><span data-css="tve-u-1712db357e3"><span data-css="tve-u-1712db357e6"><br></span></span></p><p data-css="tve-u-171189b86a3" style="text-align: left;"><span data-css="tve-u-1712db357ea"><span data-css="tve-u-1712db357ee"><span data-css="tve-u-1714fb6707e">You can make as much as $3,000 in writing fees every month…</span> <span data-css="tve-u-1714fb6bae6">even if you're just starting out as a beginner in this lucrative business of Copywriting;</span></span></span></p><p data-css="tve-u-171189b86ad" style="text-align: left;"><span data-css="tve-u-1712db357f8">​</span><br></p><p data-css="tve-u-1712d597f3e" dir="ltr" style="text-align: left;">All you have to do is follow the steps revealed in the program I'll be giving you access to shortly.</p><p data-css="tve-u-1712d597f40" dir="ltr" style="text-align: left;"><br></p><h3 class="" data-css="tve-u-1710d55312a"><span data-css="tve-u-1710e54cd41"><span data-css="tve-u-1710d5519ac">"Now's The Time to Think and Act Entrepreneurially …</span></span></h3><h3 class="" data-css="tve-u-1710e5409b3"><span data-css="tve-u-1710e54cd44"><span data-css="tve-u-1712d598b89"><span data-css="tve-u-1712d598b92"><span data-css="tve-u-1712d598b9b">More and more people are leaving the rat race to work from home.</span></span></span></span></h3><h3 class="" data-css="tve-u-1712d597f4c"><span data-css="tve-u-1712d598ba4"><span data-css="tve-u-1712d598bad"><span data-css="tve-u-1712d598bb6"><span data-css="tve-u-1710d552774">And both businesses and freelancers love it …" </span></span></span></span></h3><h3 class="" data-css="tve-u-1710d55312d"><span data-css="tve-u-1710e54cd46"><span data-css="tve-u-1714fb716e6"><span data-css="tve-u-1714fb716eb"><span data-css="tve-u-17110627f64">[CNN Money]</span></span></span></span></h3><p data-css="tve-u-1710e52a438"><br></p><p data-css="tve-u-1712d597f5a" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f5c" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fb8196c">Now, before we get to the specifics</span></p><p data-css="tve-u-1712d597f5e" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fb82049"><span data-css="tve-u-1714fb81aaa"><span data-css="tve-u-1714fb8196f"><br></span></span></span></p><p data-css="tve-u-1712d597f61" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fb81970">There's a very important point I want to make.</span></p><p data-css="tve-u-1712d597f63" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f65" dir="ltr" style="text-align: left;">This is not a get-rich overnight scheme.</p><p data-css="tve-u-1712d597f68" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f6a" dir="ltr" style="text-align: left;">Yes, you can make good money, but you have to be willing and ready to put in a few hours of serious work every day…</p><p data-css="tve-u-1712d597f6c" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f6e" dir="ltr" style="text-align: left;">If this doesn't appeal to you, <strong>please stop reading right here.</strong></p><p data-css="tve-u-1712d597f71" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f73" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fb94c33">But if you're ready to learn a financially valuable skill that can pay you up to $36,000 a year…</span> <span data-css="tve-u-1714fb96687">(upwards of N13Million)...</span></p><p data-css="tve-u-1712d597f76" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f78" dir="ltr" style="text-align: left;">Then get excited, because…</p><p data-css="tve-u-1712d597f7a" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f7d" dir="ltr" style="text-align: left;">You're about to enter a very special world</p><p data-css="tve-u-1712d597f7f" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714fb9bb46" dir="ltr" style="text-align: left;">One that gives you...</p><p data-css="tve-u-1712d597f81" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f81" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1712db76bbb"><span data-css="tve-u-1714fb9e105">The Freedom and BIG Earning </span><span data-css="tve-u-1714fba0518">Capacity you Need to Do The Things You <em>R</em>eally Love…</span></span></strong></p><p data-css="tve-u-1712d597f84" dir="ltr" style="text-align: center;"><br></p><p data-css="tve-u-1712d597f86" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fba3e8f">To live life at your terms, and by your rules, in control of your time and earning capacity.... </span><span data-css="tve-u-1714fba5ca1">working just a few hours a day, writing simple letters and getting paid very well to do it.</span></p><p data-css="tve-u-1712d597f88" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f8a" dir="ltr" style="text-align: left;">Yet, you'll be making more money than most Bankers, Doctors and Lawyers who work round the clock.</p><p data-css="tve-u-1712d597f8d" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714fbabd1a" dir="ltr" style="text-align: left;">The new program we've created is designed to show you exactly how you can get started today… and in a few weeks...</p><p data-css="tve-u-1712d597f8f" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714fbadae3" dir="ltr" style="text-align: left;">Land your first premium client in the $2.3Trillion Letter Writing industry that a lot of people don't even know about.</p><p data-css="tve-u-1712d597f91" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f94" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fbb178c">You'll also get some very special quick start bonuses you'll only see through today's invitation</span></p><p data-css="tve-u-1712d597f97" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f99" dir="ltr" style="text-align: left;">This new program is called:&nbsp;</p><p data-css="tve-u-1712d597f9b" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597f9d" dir="ltr" style="text-align: left;"><span data-css="tve-u-1710d26a895">The Foreign Copywriting Initiative!</span></p><p data-css="tve-u-1712d597fa0" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597fa2" dir="ltr" style="text-align: left;">And here's what you get inside:</p><p data-css="tve-u-1712d597fa4" dir="ltr" style="text-align: left;"><br></p><h2 class="" data-css="tve-u-1714fbb9e26"><strong>Module #1; </strong></h2><h2 class="" data-css="tve-u-171108d9e01"><strong><span data-css="tve-u-1714fbbb291">Understanding The Business Of&nbsp;</span></strong></h2><h2 class="" data-css="tve-u-171108d9e01"><strong><span data-css="tve-u-1714fbbb294">Foreign Copywriting.</span></strong></h2><h2 class="" data-css="tve-u-171108d9e08" style="text-align: left;"><br><strong>​</strong><span data-css="tve-u-1710d4ede51"><span data-css="tve-u-1710d4ede55"><span data-css="tve-u-1712e65c6f1"><span data-css="tve-u-171504c394c">You’ll be walked step-by-step through the process of “building” your first sales letter — from the crucial headline …</span> <span data-css="tve-u-171504c72c0">to the all-important lead … right down to the final paragraph of your letter where you ask your reader to “take action.”</span></span></span></span><br><span data-css="tve-u-1710d4ede51"><span data-css="tve-u-1710d4ede55"><span data-css="tve-u-1710d4ede5b">​</span></span></span></h2><h2 class="" data-css="tve-u-1710d2a2d03" dir="ltr" style="text-align: left;"><span data-css="tve-u-1710d4ede73"><span data-css="tve-u-1710d4ede76"><span data-css="tve-u-1710d4ede7c">You’ll learn secrets for <span data-css="tve-u-171504fd4cd">painting a positive picture in your reader’s mind … proven methods for establishing credibility … and techniques for building excitement with your reader with every paragraph.</span></span></span></span></h2><h2 class="" data-css="tve-u-1712d597fd2" dir="ltr" style="text-align: left;"><br></h2><h2 class="" data-css="tve-u-1710d2a2d07" dir="ltr" style="text-align: left;"><span data-css="tve-u-1710d4ede8c"><span data-css="tve-u-1710d4ede90"><span data-css="tve-u-1710d4ede96">You’ll learn more about the “business” of copywriting … how the industry works … and how to start building a successful freelance business that you can easily (and cheaply) run from the comfort of your home.</span></span></span></h2><h2 class="" data-css="tve-u-1712d597fdd" dir="ltr" style="text-align: left;"><br></h2><h2 class="" data-css="tve-u-1710d2a2d0c" dir="ltr" style="text-align: left;"><span data-css="tve-u-1710d4edec1"><span data-css="tve-u-1710d4edec7">This Module is your launchpad for success&nbsp;</span>…</span></h2><p data-css="tve-u-1712d597fe7"><br></p><p data-css="tve-u-1710d4d7619"><span data-css="tve-u-1710d2871a6">​</span><br></p><h2 class="" data-css="tve-u-1710d2947d5" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d299b55">Module #2&nbsp;</span></strong></h2><h2 class="" data-css="tve-u-1710d28e764" dir="ltr" style="text-align: center;"><span data-css="tve-u-1710d299b57"><span data-css="tve-u-1710d299b5a"><strong>12 Profitable Niches</strong></span></span></h2><p data-css="tve-u-1710d720782" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d597ffc" dir="ltr" style="text-align: left;">If there's one thing I want to make certain you understand when you begin your Copywriting journey...&nbsp;</p><p data-css="tve-u-1712d598002" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d598009" dir="ltr" style="text-align: left;">It is that you have no shortage of opportunities upon which you can focus your newfound letter-writing skills</p><p data-css="tve-u-1712d598010" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1710d446157" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fbc7b4e"><span data-css="tve-u-1714fbc7b54"><strong><span data-css="tve-u-1710d299b5f"><span data-css="tve-u-1714fbcb97c">Thanks to the explosive growth of the internet, the changing economy ….and</span>&nbsp;</span></strong></span></span><span data-css="tve-u-1714fbc7b5c"><span data-css="tve-u-1714fbc7b61"><strong>the $2.3trillion direct response writers market….</strong></span></span></p><p data-css="tve-u-1710d45920e" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1710d4aa266" dir="ltr" style="text-align: left;">There’s now more demand than ever for copywriters who know how to transform boring websites into powerful “persuasion” machines.</p><p data-css="tve-u-1710d4aa271" dir="ltr" style="text-align: left;"><br></p><h2 class="" data-css="tve-u-1710d2a2d09" dir="ltr" style="text-align: left;"><span data-css="tve-u-1710d4edea7"><span data-css="tve-u-1710d4edeaa"><span data-css="tve-u-1710d4edeaf">You’ll discover the most <span data-css="tve-u-1714fbd147c">popular, most in demand, and most lucrative “niches” to turn your focus on — from each of the “Big Five” I told you about earlier, where you can easily earn a mid-six-figure income writing a few hours a day …</span></span></span></span></h2><p data-css="tve-u-1712d59802c" style="text-align: left;"><span data-css="tve-u-1710d4edeb4"><span data-css="tve-u-1710d4edeb8"><br></span></span></p><p data-css="tve-u-1710d4aa273" dir="ltr" style="text-align: left;">Including <em>7 profitable niches</em> you can easily tap into even as a beginner!</p><p data-css="tve-u-1712d598034" dir="ltr" style="text-align: left;"><br></p><h2 class="" data-css="tve-u-1712d598037" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d2d0d56">Module #3&nbsp;</span></strong></h2><h2 class="" data-css="tve-u-1712d59803e" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1714fbdf3da">A Modern Collection&nbsp;</span></strong><span data-css="tve-u-1714fbe7ecb"><span data-css="tve-u-1714fbdf512"><span data-css="tve-u-1714fbdf3dd"><strong>Of </strong></span></span></span></h2><h2 class="" data-css="tve-u-1710d2c5368" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1714fbdf3df">Great Copywriting Samples!</span></strong></h2><p data-css="tve-u-1712d59804b" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d59804d" dir="ltr" style="text-align: left;">I’ve assembled some of the best performing letters and website copy ever written in the last few years.</p><p data-css="tve-u-1712d598050" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d598053" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fbedbb5">It’s persuasive writing from the most profitable Copywriting niches —</span> <span data-css="tve-u-1714fbef8c0">so you can model your projects off of these all-time greats.</span></p><p data-css="tve-u-1712d598055" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d598057" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fbf16fd">You’ll see how each of the techniques the writer used worked so well — </span><span data-css="tve-u-1714fbf2c33">and mimic that success when you sit down to write.</span></p><p data-css="tve-u-1712d598059" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d59805c" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fbf6af8">The first truly successful letter I ever wrote was modeled after one of the letters I had been studying.</span> <span data-css="tve-u-1714fc06fff">It brought in over 3 million in profits for my client</span></p><p data-css="tve-u-1712d59805e" dir="ltr" style="text-align: left;"><br></p><h2 class="" data-css="tve-u-1712d598061" dir="ltr"><strong><span data-css="tve-u-1712d598c9b">Module #4&nbsp;</span></strong></h2><h2 class="" data-css="tve-u-1712d598068" dir="ltr"><strong>Your Golden Passport&nbsp;</strong><strong>to Becoming</strong></h2><h2 class="" data-css="tve-u-1712d59806f" dir="ltr"><strong>A Copywriting Superstar to Foreign Clients!</strong></h2><p data-css="tve-u-1712d598075" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d598077" dir="ltr" style="text-align: left;">Every successful sales letter must be built on one powerful idea that grabs your reader’s attention and makes him or her want to read or hear what you have to say.</p><p data-css="tve-u-1712d59807c" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d598081" dir="ltr" style="text-align: left;">In this module, you’ll learn secrets and techniques for creating powerful ideas — using real-life examples from some of the most successful blockbuster promotions ever.</p><p data-css="tve-u-1712d598083" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d598085" dir="ltr" style="text-align: left;">Plus, you’ll get the “4-Point” Checklist you can use for ensuring every idea you center your letter on hits all your reader’s emotional hot buttons.</p><h2 class="" data-css="tve-u-1712d59808b" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d2e0241">​​</span></strong><br></h2></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1710e5aac61"><p data-css="tve-u-1714fc19bcf" style="text-align: left;"><span data-css="tve-u-1712dc97841">Now it’s time for all that new-found knowledge to start making you money!</span></p><p data-css="tve-u-171189b87c9" style="text-align: left;"><span data-css="tve-u-1712dc97848"><span data-css="tve-u-1712dc9784d"><br></span></span></p><p data-css="tve-u-1714fc1bf0c" style="text-align: left;"><span data-css="tve-u-1712dc97851"><span data-css="tve-u-1712dc97855">And it all starts with &nbsp;a simple 5-process for selling your services so you can land your first client in no time…</span></span></p><p data-css="tve-u-1711c7c1b21" style="text-align: left;"><span data-css="tve-u-1712dc97859"><span data-css="tve-u-1712dc9785d"><br></span></span></p><p data-css="tve-u-1711c7c1b25" style="text-align: left;"><span data-css="tve-u-1712dc97861"><span data-css="tve-u-1712dc97865"><span data-css="tve-u-1714fc1deb7">You’ll discover :</span></span></span></p><ul class=""><li data-css="tve-u-1714fc1fb0e" style="text-align: left;"><span data-css="tve-u-1712dc97868"><span data-css="tve-u-1712dc9786c">What every Copywriter ought to know about high-ticket Copywriting projects&nbsp;<br><br></span></span></li><li data-css="tve-u-1711c7c1b29" style="text-align: left;"><span data-css="tve-u-1712dc97870"><span data-css="tve-u-1712dc97874"><span data-css="tve-u-1714fc22689">Two overlooked tools you can easily use to land high-ticket offers from premium clients and key </span><span data-css="tve-u-1714fc249ba">decision makers in the $2.3trillion direct marketing industry (Most Copywriters don't know this, and that's why they struggle to get deep-pocket clients)</span><br><br></span></span></li><li data-css="tve-u-1711c7c1b29" style="text-align: left;"><span data-css="tve-u-1712dc97877"><span data-css="tve-u-1712dc9787b"><span data-css="tve-u-1714fc26dbb">4 <em>simple&nbsp;</em>payment options you can easily use to receive payment from your Foreign clients...</span>&nbsp;<em><span data-css="tve-u-1714fc2963d">especially since&nbsp;</span></em><span data-css="tve-u-1714fc2963f">you can't receive payment on PayPal</span><br><br></span></span></li><li data-css="tve-u-1711c7c1b47" style="text-align: left;"><span data-css="tve-u-1712dc9787f"><span data-css="tve-u-1712dc97883"><span data-css="tve-u-1711c89e910"><span data-css="tve-u-1714fc2c265">Who all the players in the industry are…&nbsp;</span><span data-css="tve-u-1714fc2e480">who pays top dollar…</span> <span data-css="tve-u-1714fc3182c">and the best companies to write for.</span></span><br><span data-css="tve-u-1711c7c2d54">​</span></span></span></li><li data-css="tve-u-1711c7c1b4a" style="text-align: left;"><span data-css="tve-u-1712dc97886"><span data-css="tve-u-1712dc9788a"><span data-css="tve-u-1714fc34139">How to get the favourable attention of marketers and <em>publishers</em>&nbsp;who are always looking for new copywriters.<br>​</span></span></span></li><li data-css="tve-u-171189b87cf" style="text-align: left;"><span data-css="tve-u-1712dc9788e"><span data-css="tve-u-1712dc97892"><span data-css="tve-u-1711c89e93e"><span data-css="tve-u-1711c89e94b"><span data-css="tve-u-1714fc375ec">A comprehensive list</span> <span data-css="tve-u-1714fc3ba24">of&nbsp;</span><strong><span data-css="tve-u-1714fc3ba27">over 20 deep-pocket clients</span></strong>&nbsp;<span data-css="tve-u-1714fc3d55c">you can work with immediately you finish the <em>Foreign Copywriting Initiative&nbsp;</em>program.</span></span></span><em><br><span data-css="tve-u-1711c89e93e"><span data-css="tve-u-1711c89e94b">​</span></span></em></span></span></li><li data-css="tve-u-171189b87d1" style="text-align: left;"><span data-css="tve-u-1712dc97895"><span data-css="tve-u-1712dc97899"><span data-css="tve-u-1714fc4300c">Your “A-to-Z plan for dealing with a new client </span><span data-css="tve-u-1714fc44945">— from your very first contact… to quoting your fee… to getting paid… </span></span></span></li></ul><p data-css="tve-u-1714fc46a52" style="text-align: left;"><span data-css="tve-u-1712dc9789d"><span data-css="tve-u-1712dc978a0">And much, much more.</span></span></p><p data-css="tve-u-1711c7c1b66" style="text-align: left;"><span data-css="tve-u-1712dc978a4"><span data-css="tve-u-1712dc978a8"><br></span></span></p><p data-css="tve-u-1714fc482a4" style="text-align: left;"><span data-css="tve-u-1712dc978ab"><span data-css="tve-u-1712dc978af">But that's not all.</span></span></p><p data-css="tve-u-1711c7c1b7b" style="text-align: left;"><span data-css="tve-u-1712dc978b3"><span data-css="tve-u-1712dc978b7"><br></span></span></p><p data-css="tve-u-171189b87d4" style="text-align: left;"><span data-css="tve-u-1712dcb6f5f"><span data-css="tve-u-1712dcb6f6e">You'll also discover:</span></span><br><span data-css="tve-u-1712dc978bb"><span data-css="tve-u-1712dc978be">​</span></span></p><p data-css="tve-u-1714fc4f15c" style="text-align: center;"><span data-css="tve-u-1712dc978ca"><span data-css="tve-u-1712dc978ce"><strong><span data-css="tve-u-1710d2fdaa9"><span data-css="tve-u-1714fc533d1">Special</span><span data-css="tve-u-1714fc5500a"> Module;</span></span></strong></span></span></p><h2 class="" data-css="tve-u-1710d2ede8f" style="text-align: center;"><span data-css="tve-u-1712dca5cb7"><span data-css="tve-u-1712dc978d2"><span data-css="tve-u-1712dc978d5"><strong><span data-css="tve-u-1714fc57aed">The Copywriter's Roadmap to</span></strong></span></span></span></h2><h2 class="" data-css="tve-u-1710d2ede8f" style="text-align: center;"><span data-css="tve-u-1712dca5cce"><span data-css="tve-u-1712dc978d9"><span data-css="tve-u-1712dc978dd"><span data-css="tve-u-1714fc5809c"><span data-css="tve-u-1714fc57c47"><span data-css="tve-u-1714fc57af0"><strong>​</strong></span></span></span><strong><span data-css="tve-u-1714fc57af2">Facebook Riches!</span></strong></span></span></span></h2><h2 class="" data-css="tve-u-1712dcbf212" style="text-align: left;"><span data-css="tve-u-1712dc978e0"><span data-css="tve-u-1712dc978e4"><span data-css="tve-u-1712dcb6fed">If you have a Facebook account, and you can log in and log out, then you shouldn't be making anything less than N200,000 every month from Facebook.&nbsp;</span></span></span></h2><h2 class="" data-css="tve-u-1712dcbf21d" style="text-align: left;"><span data-css="tve-u-1712dcb7a8e"><span data-css="tve-u-1712dc978e8"><span data-css="tve-u-1712dc978ec"><span data-css="tve-u-1711c89e9e8"><span data-css="tve-u-1711c89e9f6">And that’s why it’s important you hear from superstar Facebook coach…&nbsp;</span></span></span></span></span></h2><h2 class="" data-css="tve-u-1712dcbf226" style="text-align: left;"><span data-css="tve-u-1712dc978ef"><span data-css="tve-u-1712dc978f3"><span data-css="tve-u-17119d8fcf1"><span data-css="tve-u-1712dcb701c"><span data-css="tve-u-1710d6f4192">​</span>Benahili Ojeme </span></span></span></span></h2><p data-css="tve-u-1712dcbf229" style="text-align: left;"><span data-css="tve-u-1712dc978f6"><span data-css="tve-u-1712dc978fa"><br></span></span></p><p data-css="tve-u-1714fc7a85c" style="text-align: left;"><span data-css="tve-u-1712dc978fe"><span data-css="tve-u-1712dc97902"><span data-css="tve-u-1714fc7a9ad">In this part of the&nbsp;<strong>Foreign Copywriting Initiative&nbsp;</strong>program:</span></span></span></p><p data-css="tve-u-1711c7c1bec" style="text-align: left;"><span data-css="tve-u-1712dc97905"><span data-css="tve-u-1712dc97909"><br></span></span></p><p data-css="tve-u-171189b8811" style="text-align: left;"><span data-css="tve-u-1712dc9790d"><span data-css="tve-u-1712dc97911"><span data-css="tve-u-17110627fc3">​<span data-css="tve-u-1714fc7d523">Bena shows you step-by-step how to use Facebook (in&nbsp;</span></span><span data-css="tve-u-1714fc7d526">addition to your new writing skills) to make an additional N200,000 or more every month writing sponsored posts for businesses on Facebook.</span></span></span></p><p data-css="tve-u-1711931b41b" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97915"><span data-css="tve-u-1712dc97918"><br></span></span></p><p data-css="tve-u-1714fc7ff4c" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc9791c"><span data-css="tve-u-1712dc97920"><span data-css="tve-u-1714fc800a8">That's an extra N2.4Million at the end of the year.</span></span></span></p><p data-css="tve-u-1711931b425" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97923"><span data-css="tve-u-1712dc97927"><br></span></span></p><p data-css="tve-u-1714fc82781" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc9792b"><span data-css="tve-u-1712dc9792f">Back in May 2019, Bena caused a stir on Facebook when she used one Google form to generate over N1.5Million in 10 days.</span></span></p><p data-css="tve-u-1711931b428" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97933"><span data-css="tve-u-1712dc97937"><br></span></span></p><p data-css="tve-u-1714fc89ac1" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc9793a"><span data-css="tve-u-1712dc9793e">She's that good and...</span></span></p><blockquote class="" data-css="tve-u-1714fc8c7c5" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97942"><span data-css="tve-u-1712dc97946"><strong><span data-css="tve-u-1710d6f419c"><span data-css="tve-u-1714fc8e793">She's the only Facebook Expert recommended by more Top Nigerian entrepreneurs </span><span data-css="tve-u-1714fc90f6a">(Ronald Nzimora, Toyin Omotoso, Jonathan Melody, Prof Ademiluyi, Abdul-Qawiyy Hammed etc)</span> <span data-css="tve-u-1714fc9299a">than anyone else.</span></span></strong></span></span></blockquote><p data-css="tve-u-1714fc94f37" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc9794a"><span data-css="tve-u-1712dc9794e">So you might want to pay close attention when you’re watching her presentation!</span></span></p><p data-css="tve-u-1711931b439" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97951"><span data-css="tve-u-1712dc97955"><br></span></span></p><p data-css="tve-u-1714fc972dd" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97959"><span data-css="tve-u-1712dc9795d">Now, please keep in mind:</span></span></p><p data-css="tve-u-1711c7f2d4d" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97960"><span data-css="tve-u-1712dc97964"><br></span></span></p><p data-css="tve-u-1714fc9c87e" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97968"><span data-css="tve-u-1712dc9796c">Everything I’ve promised you in this letter is available to you within minutes of signing up for The Foreign Copywriting Initiative</span></span></p><p data-css="tve-u-1711931b445" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97970"><span data-css="tve-u-1712dc97974"><br></span></span></p><p data-css="tve-u-1714fc9efbd" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97978"><span data-css="tve-u-1712dc9797c">And because the program has been especially designed to get you up and running FAST....</span></span></p><p data-css="tve-u-1711931b445" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97980"><span data-css="tve-u-1712dc97984"><br></span></span></p><p data-css="tve-u-1711931b445" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97988"><span data-css="tve-u-1712dc9798c"><span data-css="tve-u-1714fca174f">....you could be well on your way to an exciting career as a hot-shot freelance copywriter in the lucrative $2.3trillion Copywriting </span><span data-css="tve-u-1714fca3b00">industry&nbsp;</span><em><span data-css="tve-u-1714fca3b03">within hours.</span></em></span></span></p><p data-css="tve-u-1711931b448" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc9798f"><span data-css="tve-u-1712dc97993"><br></span></span></p><p data-css="tve-u-1714fca69a0" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc97997"><span data-css="tve-u-1712dc9799b">But before you get started, there’s something else I want to send you — exclusively through this offer.</span></span></p><p data-css="tve-u-1711931b44d" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dc9799f"><span data-css="tve-u-1712dc979a3"><br></span></span></p><p data-css="tve-u-1710d31aa95" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d31c09d">Bonus Material #1</span></strong></p><p data-css="tve-u-1714fcaaedd" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1712dcd3b36"><span data-css="tve-u-1712dcd11e0"><span data-css="tve-u-1714fcab02e"><span data-css="tve-u-1714fcace79">Top-10 Secrets</span> <span data-css="tve-u-1714fcae92c">I Wish I Knew</span></span></span></span></strong></p><p data-css="tve-u-1710d31aa98" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1712dcd3b4a"><span data-css="tve-u-1712dcd11e8"><span data-css="tve-u-1710d31ccc7">Before I Became A Copywriter!</span></span></span></strong></p><p data-css="tve-u-1710d31aa9a" dir="ltr" style="text-align: center;"><br></p><p data-css="tve-u-1714fcb4a26" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd244e3">Very often, when &nbsp;I’m asked how I went from selling <em>Shawarma</em> to becoming one of Africa’s top Copywriters...</span></p><p data-css="tve-u-1711931b469" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714fcb70af" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b07">I just say random stuff like hard work and persistence</span></p><p data-css="tve-u-1711931b471" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b0b"><span data-css="tve-u-1712dce0b0f"><br></span></span></p><p data-css="tve-u-1711931b474" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b13"><span data-css="tve-u-1712dce0b18"><span data-css="tve-u-1714fcb954b">But in a lighthearted presentation to a group of attendees at a recent high-income skill seminar...</span> <span data-css="tve-u-1714fcbb35d">I revealed the 10 things I wish I knew before I became a successful copywriter.</span></span></span></p><p data-css="tve-u-1711c7f2e18" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b1c"><span data-css="tve-u-1712dce0b21"><br></span></span></p><p data-css="tve-u-1714fcbe90c" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b25"><span data-css="tve-u-1712dce0b29">If I knew these secrets before I became a copywriter, I would have shortcut my success by at least.... 4 years.</span></span></p><p data-css="tve-u-1711931b47c" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b2d"><span data-css="tve-u-1712dce0b31"><br></span></span></p><p data-css="tve-u-1711931b47c" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b48"><span data-css="tve-u-1712dce0b4c"><span data-css="tve-u-1714fcc1146">But you don't have to wait as long as I did to learn and use these little-known techniques and principles to...</span></span></span></p><p data-css="tve-u-1711931b47c" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1711931b47c" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b48"><span data-css="tve-u-1712dce0b4c"><span data-css="tve-u-1714fcc1146">​</span><strong><span data-css="tve-u-1714fcc461e">Create Income at will and make more money than you ever thought possible.</span></strong><br><strong><br></strong></span></span></p><p data-css="tve-u-1711931b47f" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b50"><span data-css="tve-u-1712dce0b54"><span data-css="tve-u-1714fcc7c5e">Some are about writing itself — like important advice about making your letter “valuable” to your reader, </span><span data-css="tve-u-1714fcc98fe">so your reader feels “indebted” to you for making his or her life instantly better.</span></span></span></p><p data-css="tve-u-1711931b482" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b59"><span data-css="tve-u-1712dce0b5d"><br></span></span></p><p data-css="tve-u-1714fccc1ce" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b61"><span data-css="tve-u-1712dce0b65">Others are more practical “life and money lessons” as it relates to Copywriters.</span></span></p><p data-css="tve-u-1711931b485" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b6a"><span data-css="tve-u-1712dce0b6f"><br></span></span></p><p data-css="tve-u-1714fcce65c" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b73"><span data-css="tve-u-1712dce0b77">I promise you … take some time to go through this… you’ll be a wiser and smarter writer because of it.</span></span></p><p data-css="tve-u-1712d5f17d1" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dce0b84"><span data-css="tve-u-1712dce0b88">​<br></span></span></p><p data-css="tve-u-1712d5f184f" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d355177"><span data-css="tve-u-1714fcd6376">Bonus Material </span><span data-css="tve-u-1714fcd8bdd">#2</span></span></strong></p><p data-css="tve-u-1712d5f1852" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1710d355f82"><span data-css="tve-u-1714fcda508">How to Use What you Already Know to Build a </span><span data-css="tve-u-1714fcdc078">N500,000/Month Side-Hustle From Scratch...</span></span></strong></p><p data-css="tve-u-1711931b499" dir="ltr" style="text-align: left;"><br><span data-css="tve-u-1712dd245f4">Yes, you’ll be making over $3,000 per month in writing fees alone from premium publishing clients.</span></p><p data-css="tve-u-1711931b49b" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd245f8"><span data-css="tve-u-1712dd245fc"><br></span></span></p><p data-css="tve-u-1714fce0cc5" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd24600"><span data-css="tve-u-1712dd24604">But there’s no such thing as too much money right?</span></span></p><p data-css="tve-u-1711931b4a2" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd24607"><span data-css="tve-u-1712dd2460b"><br></span></span></p><p data-css="tve-u-1711931b4a4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd2460f"><span data-css="tve-u-1712dd24613">Exactly.</span></span></p><p data-css="tve-u-1711931b4a7" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd24617"><span data-css="tve-u-1712dd2461b"><br></span></span></p><p data-css="tve-u-1714fcef690" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd2461f"><span data-css="tve-u-1712dd24623">That’s why I thought you’d be interested in this insanely lucrative do-it-from-home business that....&nbsp;</span></span></p><p data-css="tve-u-1711931b4a9" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd24627"><span data-css="tve-u-1712dd2462b"><br></span></span></p><p data-css="tve-u-1714fcf16d4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd2462f"><span data-css="tve-u-1712dd24632"><strong>Requires zero capital to start</strong></span></span></p><p data-css="tve-u-1711931b4ac" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd24636"><span data-css="tve-u-1712dd2463a"><br></span></span></p><p data-css="tve-u-1714fcf3ae6" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd2463e"><span data-css="tve-u-1712dd24642">Yet with a little guidance…&nbsp;</span></span></p><p data-css="tve-u-1711931b4b1" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd24646"><span data-css="tve-u-1712dd2464a"><br></span></span></p><p data-css="tve-u-1714fcf5b4d" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd2464e"><span data-css="tve-u-1712dd24652">You can make multiple millions in a few months.</span></span></p><p data-css="tve-u-1711931b4b4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd24656"><span data-css="tve-u-1712dd2465a"><br></span></span></p><p data-css="tve-u-1711931b4b4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fc1a0d6"><span data-css="tve-u-1714fc1a0dd"><span data-css="tve-u-1714fcf8d0e">(Between December 2019, - January 13th, 2020, I and my partner broke </span><span data-css="tve-u-1714fcfbf27">marketing tradition when we generated</span>&nbsp;<strong><span data-css="tve-u-1714fd033b4">over N1.8 million on Twitter alone a few days from Christmas...</span></strong><span data-css="tve-u-1714fd033b7">)</span></span></span></p><p data-css="tve-u-1711931b4b4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fc1a0e4"><span data-css="tve-u-1714fc1a0eb">​</span></span><br></p><p data-css="tve-u-1714fd0de24" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fc1a0f2"><span data-css="tve-u-1714fc1a0f8">We're still using this business model to generate hundreds of thousands of Naira every week.</span></span></p></div><div class="thrv_wrapper tve_image_caption img_style_dark_frame" data-css="tve-u-1712e2c361d"><span class="tve_image_frame"><img loading="lazy" class="tve_image wp-image-1217" alt="" width="426" height="413" title="Screenshot Paystack" data-id="1217" src="https://andymukolo.com/wp-content/uploads/2020/04/Screenshot-Paystack.jpg" data-css="tve-u-1712e2c3641"></span></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1710e5aac61"><p data-css="tve-u-1711931b4b4" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1711931b4b4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd2466e"><span data-css="tve-u-1712dd24672">I'll show you how we do it, and how you can start getting similar results &nbsp;for yourself in 21-days or less.</span></span></p><p data-css="tve-u-1711931b4b4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd24676"><span data-css="tve-u-1712dd2467a"><br></span></span></p><p data-css="tve-u-1714fd12501" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712dd2467e"><span data-css="tve-u-1712dd24682">Here’s what Akin Alabi, Serial Entrepreneur and Founder of NairaBET says about how amazing this business is...</span></span><br><br></p></div><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box" data-css="tve-u-160b1c0490f" data-ct-name="Minimal Style 2" data-ct="testimonial-8613" data-element-name="Testimonial">
-<div class="tve-content-box-background"></div>
-<div class="tve-cb tve_empty_dropzone" data-css="tve-u-1712dd370db"><div class="thrv_wrapper tve_image_caption" data-css="tve-u-1712dd370dc"><span class="tve_image_frame" style="width: 100%;"><img loading="lazy" class="tve_image wp-image-1002" alt="" width="1500" height="500" title="oloye 2" data-id="1002" src="https://andymukolo.com/wp-content/uploads/2020/04/oloye-2.jpg" style="" data-css="tve-u-1712dd39b90"></span></div><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box" data-css="tve-u-1712dd370dd">
-<div class="tve-content-box-background" data-css="tve-u-1712dd370de"></div>
-<div class="tve-cb tve_empty_dropzone"><div class="thrv_wrapper thrv_text_element" data-tag="h1"><h1 data-css="tve-u-1712dd370df" style="text-align: center;" class="">Akin Alabi</h1></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1712dd370e0" data-tag="h1"><h1 class="" data-css="tve-u-1712dd370e1" style="text-align: center;"><span style="display: inline-block; text-decoration: underline;">CEO, NairaBET</span></h1></div><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" data-css="tve-u-1712dd370e2"><blockquote class="" data-css="tve-u-1712dd4d225" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1712dd4d25b"><span data-css="tve-u-1714fd18f35">"The perfect home business you can do at this time is selling</span> <span data-css="tve-u-1714fd1adcc">information.&nbsp;</span></span></strong><strong><span data-css="tve-u-1712dd4d26c">It’s super lucrative if you know how to do it."</span></strong></blockquote></div><div class="tcb-clear" data-css="tve-u-1712dd370e4"><div class="thrv_wrapper thrv_icon tcb-icon-display" data-css="tve-u-1712dd370e5"><svg class="tcb-icon" viewBox="0 0 26 28" data-name="quote-right">
-<path d="M12 5v11c0 4.406-3.594 8-8 8h-1c-0.547 0-1-0.453-1-1v-2c0-0.547 0.453-1 1-1h1c2.203 0 4-1.797 4-4v-0.5c0-0.828-0.672-1.5-1.5-1.5h-3.5c-1.656 0-3-1.344-3-3v-6c0-1.656 1.344-3 3-3h6c1.656 0 3 1.344 3 3zM26 5v11c0 4.406-3.594 8-8 8h-1c-0.547 0-1-0.453-1-1v-2c0-0.547 0.453-1 1-1h1c2.203 0 4-1.797 4-4v-0.5c0-0.828-0.672-1.5-1.5-1.5h-3.5c-1.656 0-3-1.344-3-3v-6c0-1.656 1.344-3 3-3h6c1.656 0 3 1.344 3 3z"></path>
-</svg></div></div></div>
-</div></div>
-</div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1710e5aac61"><p style="text-align: left;"><span data-css="tve-u-1712dd24686"><span data-css="tve-u-1712dd2468a"><br></span></span></p><p data-css="tve-u-1714fd20e4d" dir="ltr" style="text-align: left;">And he’s right.</p><p data-css="tve-u-1712d5f188f" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f188f" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fd2a571">The world is going fully digital and there has never been a better time to sell information.</span></p><p data-css="tve-u-1712d5f1891" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1714fd2c6cb" dir="ltr" style="text-align: left;">That’s why, when you sign up today for this program, I’m giving you instant access to my new report;</p><p data-css="tve-u-1712d5f1894" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f1898" dir="ltr" style="text-align: left;"><em><span data-css="tve-u-1710d3ac421">How to Sell your brain in The New Economy!</span></em></p><p data-css="tve-u-1712d5f189b" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f189e" dir="ltr" style="text-align: left;"><strong>You’ll learn how to build a N500,000/Month Online Business selling what you know to information addicts...&nbsp;</strong></p><p data-css="tve-u-1712d5f18a2" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f18a5" dir="ltr" style="text-align: left;">Even if you’ve never sold anything online before.</p><p data-css="tve-u-1712d5f18a8" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f18ab" dir="ltr" style="text-align: left;">Now, before I tell you how to get started, there’s one more thing I should let you know about this program....&nbsp;</p><h2 class="" data-css="tve-u-1712d5f18af" dir="ltr" style="text-align: center;"><br></h2><h2 class="" data-css="tve-u-1710d3ac34f" dir="ltr" style="text-align: center;"><strong>The N60,000 Writing Challenge!</strong></h2><p data-css="tve-u-1712d5f18c1" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f18c4" dir="ltr" style="text-align: left;"><span data-css="tve-u-1714fd48c0e">In the course of this program....</span></p><p data-css="tve-u-1712d5f18c7" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f18cb" dir="ltr" style="text-align: left;"><span data-css="tve-u-1710d3c1a7c">There’s a section marked “Your N60,000 Challenge”.</span></p><p data-css="tve-u-1712d5f18ce" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f18d1" dir="ltr" style="text-align: left;">It includes everything you need to write a bloody good letter for a product I’ll pick for you</p><p data-css="tve-u-1712d5f18d4" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f18d8" dir="ltr" style="text-align: left;">You’ll find all the stats, details, facts, and testimonials you need inside.</p><ul class=""><li data-css="tve-u-1712d5f18de" dir="ltr" style="text-align: left;">Set it aside.&nbsp;</li><li data-css="tve-u-1712d5f18e2" dir="ltr" style="text-align: left;">Work your way through the program.&nbsp;</li><li data-css="tve-u-1712d5f18e5" dir="ltr" style="text-align: left;">Learn how a sales letter is structured.&nbsp;</li><li data-css="tve-u-1712d5f18e8" dir="ltr" style="text-align: left;">Soak in all the Copywriting secrets and strategies.&nbsp;</li><li data-css="tve-u-1712d5f18eb" dir="ltr" style="text-align: left;">And when you feel you’re ready, start working on your letter.&nbsp;</li><li data-css="tve-u-1712d5f18ee" dir="ltr" style="text-align: left;">And when you’ve got it just right – send it in.&nbsp;</li></ul><p data-css="tve-u-1712d5f18f2" dir="ltr" style="text-align: left;">If it’s good enough … if it checks all the boxes that make up a great sales letter, and if it stands head and shoulders above what everyone else sends in..</p><p data-css="tve-u-1712d5f18f5" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f18f8" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712d5f1d70">We’ll pay you N60,000!</span></p><p data-css="tve-u-1712d5f18fb" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712d5f1d73">​</span><br></p><p data-css="tve-u-1712d5f18fe" dir="ltr" style="text-align: left;"><strong><span data-css="tve-u-1714fd5f5e4">Please NOTE:​ Entries for the N60,000 Writing Challenge will close after the first batch of 20 persons have signed up for this program. </span><span data-css="tve-u-1714fd61126">The challenge will re-open after the first winner has been picked.​​​</span></strong></p><p data-css="tve-u-1712d5f1901" dir="ltr" style="text-align: left;"><br></p><h2 class="" data-css="tve-u-1710d3c199b" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-1714fd6642f">Everything You Need to Make your First $3,000 in The Evergreen </span><span data-css="tve-u-1714fd6868c">$2.3Trillion Letter Writing Industry</span></strong></h2><p data-css="tve-u-1712d5f190c"><strong>​</strong><br></p><p data-css="tve-u-1712d5f190f" dir="ltr" style="text-align: left;">As you can see, I’ve included everything you need to take your first step on a writer’s path that can pay you over $36,000 (N13.3Million) per year …</p><p data-css="tve-u-1712d5f1912" dir="ltr" style="text-align: left;"><br></p><ul class=""><li data-css="tve-u-1712d5f1915" dir="ltr" style="text-align: left;">Without needing an English degree…</li><li data-css="tve-u-1712d5f1918" dir="ltr" style="text-align: left;">Without becoming a best-selling author…</li><li data-css="tve-u-171501f074a" dir="ltr" style="text-align: left;">Without having to be a “gifted” writer</li><li data-css="tve-u-1712d5f191d" dir="ltr" style="text-align: left;">Without any previous experience</li></ul><p data-css="tve-u-1712d5f1921" dir="ltr" style="text-align: left;">But it all begins with a first step.</p><p data-css="tve-u-1712d5f1924" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f1927" dir="ltr" style="text-align: left;"><span data-css="tve-u-17150207fd9">And the first step, of course, is signing up for the exciting program we have put together for you …</span></p><p data-css="tve-u-1712d5f192a" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f192d" dir="ltr" style="text-align: left;">The cost is N25,000 only.</p><p data-css="tve-u-1712d5f1930" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f1933" dir="ltr" style="text-align: left;">And, if you get it and go through it and decide that Copywriting just isn't for you, just shoot us an email and your money will be refunded to you.</p><p data-css="tve-u-1712d5f1937" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5f193a" dir="ltr" style="text-align: left;"><span data-css="tve-u-17150211041">I think you'll agree, it all adds up to a pretty amazing value for just a small, no-risk N30,000 investment …</span></p><p data-css="tve-u-1712d5f193d" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-17150214248" dir="ltr" style="text-align: left;">After all, this is a fun and rewarding career that can pay you thousands of dollars every month...</p><p data-css="tve-u-1712d5f1940" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1711c820e61" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de59715"><span data-css="tve-u-1715021a414">At least</span> <strong><span data-css="tve-u-17150218af6">$3,000 a month, and upwards of $36,000</span></strong> <span data-css="tve-u-17150217028">per year...</span></span></p><p data-css="tve-u-1711c820e6d" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de59719"><span data-css="tve-u-1712de59720"><br></span></span></p><p data-css="tve-u-1715021c554" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de59724"><span data-css="tve-u-1712de59729">Which is&nbsp;<span data-css="tve-u-1715021c6d9">over N13Million Naira&nbsp;</span>when you convert it to Naira at the current exchange rate.</span></span></p></div><div class="thrv_wrapper thrv-button" data-css="tve-u-1711063b16d" data-tcb_hover_state_parent="" data-button-style="full_rounded" data-button-size="l">
-	<a href="https://paystack.com/pay/fci-ct" class="tcb-button-link" target="_blank">
-		<span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text" data-css="tve-u-1712de62c07"><strong>Yes. I want This</strong></span></span>
-	</a>
-</div><div class="thrv_wrapper thrv_text_element"><h2 class="" data-css="tve-u-1710d3d26db" dir="ltr" style="text-align: center;"><strong><span data-css="tve-u-171502268b8">​</span></strong><br></h2><p data-css="tve-u-1712d5ec9a4" dir="ltr" style="text-align: left;">Remember, there's no risk here.</p><p data-css="tve-u-1712d5ec9a8" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1712d5ec9ab" dir="ltr" style="text-align: left;">If you decide you're not interested, just let us know, and we'll return your N25,000 program fee.</p></div><div class="thrv_wrapper thrv_text_element"><p data-css="tve-u-1712d5cb3ff" dir="ltr" style="text-align: left;"><br></p><p data-css="tve-u-1715022b001" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89aae">If after going through the Foreign Copywriting initiative, and implementing all the steps and strategies...</span></p><p data-css="tve-u-1711c837db6" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89abd"><span data-css="tve-u-1712de89ac2"><br></span></span></p><p data-css="tve-u-1715022d9f7" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89ac6"><span data-css="tve-u-1712de89aca"><span data-css="tve-u-1715022db7d">You decide you're not interested, just let me know, and we'll return your N25,000 program fee.</span></span></span></p><p data-css="tve-u-1711c837dbd" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89acf"><span data-css="tve-u-1712de89ad3"><span data-css="tve-u-1711c837e40">​</span><br></span></span></p><p data-css="tve-u-171502331a8" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89ad7"><span data-css="tve-u-1712de89adb"><span data-css="tve-u-17150233331">And you can keep all the bonuses.</span></span></span></p><p data-css="tve-u-1711c843ab2" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89adf"><span data-css="tve-u-1712de89ae3"><span data-css="tve-u-171193d6157">​</span><br></span></span></p><p data-css="tve-u-17150236301" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89ae8"><span data-css="tve-u-1712de89aec"><span data-css="tve-u-1715023647d"><span data-css="tve-u-17150236483">Think about it:</span></span></span></span></p><p data-css="tve-u-1711c843abe" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89af0"><span data-css="tve-u-1712de89af4"><br></span></span></p><p data-css="tve-u-1711c843ac2" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89af9"><span data-css="tve-u-1712de89afd"><strong><span data-css="tve-u-1711c843bb5"><span data-css="tve-u-1715023b05f">If you knew of a way to make an $3,000 writing from home or anywhere you damn well please –</span> <span data-css="tve-u-1715023cf6a">an extra N200,000 for a few hours of your time on Facebook, and another N500,000 a month as a side hustle...</span></span></strong></span></span></p><p data-css="tve-u-1711c843ac6" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b01"><span data-css="tve-u-1712de89b05"><br></span></span></p><p data-css="tve-u-17150251cb3" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b09"><span data-css="tve-u-1712de89b0d"><strong><span data-css="tve-u-17150251e33">You probably wouldn't care what anyone thinks about you anymore</span></strong></span></span></p><p data-css="tve-u-1711c843acd" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b12"><span data-css="tve-u-1712de89b16"><br></span></span></p><p data-css="tve-u-1711c843ad2" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b1a"><span data-css="tve-u-1712de89b1e"><span data-css="tve-u-1711c843bcc"><span data-css="tve-u-17150261fb2">And you sure as hell won't worry about whether the Naira is N380 per dollar or N550 per dollar.</span></span><br><span data-css="tve-u-171193d6168"><span data-css="tve-u-171193d6561">​</span></span></span></span></p><p data-css="tve-u-1715026405b" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b22"><span data-css="tve-u-1712de89b26"><span data-css="tve-u-171502641e3"><span data-css="tve-u-171502641eb">As far as I'm concerned, there's no better way to escape the daily grind … the rat race in this new economy.</span></span></span></span></p><p data-css="tve-u-1711c843ad5" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b2b"><span data-css="tve-u-1712de89b2f"><span data-css="tve-u-171193d6565"><span data-css="tve-u-171193d6568">​</span></span><br></span></span></p><p data-css="tve-u-17150266260" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b33"><span data-css="tve-u-1712de89b37"><span data-css="tve-u-171502663f1">You could be looking back on this day as the day that changed your life forever.</span></span></span></p><p data-css="tve-u-1711c843ad9" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b3c"><span data-css="tve-u-1712de89b40"><span data-css="tve-u-171193d656c"><span data-css="tve-u-171193d656f"><br></span></span></span></span></p><p data-css="tve-u-17150269eb8" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b44"><span data-css="tve-u-1712de89b48"><span data-css="tve-u-1715026a03b"><span data-css="tve-u-1715026a041">Sincerely,</span></span></span></span></p><p data-css="tve-u-1711c843ae1" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b4c"><span data-css="tve-u-1712de89b51"><span data-css="tve-u-171193d659e"><span data-css="tve-u-171193d65a1"><br></span></span></span></span></p><p data-css="tve-u-1711c843ae5" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b55"><span data-css="tve-u-1712de89b59"><span data-css="tve-u-171193d65a5"><span data-css="tve-u-171193d65a8"><strong><span data-css="tve-u-171502685a7">Andy Mukolo,</span></strong></span></span></span></span></p><p data-css="tve-u-1711c843ae9" dir="ltr" style="text-align: left;"><span data-css="tve-u-1712de89b5d"><span data-css="tve-u-1712de89b61"><span data-css="tve-u-171193d65ab"><strong><span data-css="tve-u-171502685a9">Copy Chief, Nairaroad.</span></strong></span></span></span></p></div><div class="thrv_wrapper thrv-button" data-css="tve-u-17150287265" data-tcb_hover_state_parent="" data-button-style="full_rounded" data-button-size="l">
-	<a href="https://paystack.com/pay/fci-ct" class="tcb-button-link" target="_blank">
-		<span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text" data-css="tve-u-17150273ab0"><strong>Start Today</strong></span></span>
-	</a>
-</div><div class="thrv_wrapper thrv_text_element"><p data-css="tve-u-1712deba58b" style="text-align: left;"><span data-css="tve-u-1715027ebb1">PS: Oh, yea..... one more thing:</span></p><p data-css="tve-u-1712deba599" style="text-align: left;"><span data-css="tve-u-1712deba626"><br></span></p><p data-css="tve-u-1712deba5a5" style="text-align: left;"><span data-css="tve-u-17150281b23">I will also send you (if you sign up for the&nbsp;<strong>Foreign Copywriting Initiative</strong>&nbsp;now) the exclusive videos from our private 2-day high-income skill masterclass in early March.</span></p><p data-css="tve-u-1712deba5a5" style="text-align: left;"><span data-css="tve-u-17150281b23">​</span><br></p><p data-css="tve-u-1712deba5a5" style="text-align: left;"><span data-css="tve-u-17150281b23">​</span><br></p></div><div class="thrv_wrapper thrv_text_element"><p data-css="tve-u-1712deba58b" style="text-align: left;"><span data-css="tve-u-1715027ebb1">Attendees paid N40,000 each to attend. (At the end of day 1, 95% of them said they had gotten more than triple their money's worth in value)</span></p></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-1715044e2d6"><span class="tve_image_frame"><img loading="lazy" class="tve_image wp-image-1247" alt="" width="603" height="246" title="Testimonial-HISC" data-id="1247" src="https://andymukolo.com/wp-content/uploads/2020/04/Testimonial-HISC-1.jpg" data-css="tve-u-1715044e2e6" srcset="https://andymukolo.com/wp-content/uploads/2020/04/Testimonial-HISC-1.jpg 603w, https://andymukolo.com/wp-content/uploads/2020/04/Testimonial-HISC-1-300x122.jpg 300w, https://andymukolo.com/wp-content/uploads/2020/04/Testimonial-HISC-1-600x246.jpg 600w" sizes="(max-width: 603px) 100vw, 603px" /></span></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-170c964f3a3"><span class="tve_image_frame"><img loading="lazy" class="tve_image wp-image-779" alt="" width="611" height="171" title="Testimonial HISC 2" data-id="779" src="https://andymukolo.com/wp-content/uploads/2020/04/Testimonial-HISC-2.jpg" data-css="tve-u-170c964f3b4"></span></div><div class="thrv_wrapper thrv_text_element"><p data-css="tve-u-1712deef14e" style="text-align: left;"><span data-css="tve-u-1712deef5b9"><span data-css="tve-u-1715028e82e">When you watch these videos, you'll see step-by-step, </span><strong><span data-css="tve-u-17150290562">how to make millions every month using two of the most financially valuable skills in the world right now.</span></strong></span></p><p data-css="tve-u-1712deef15c" style="text-align: left;"><span data-css="tve-u-17150292657"><br></span></p><p data-css="tve-u-1712deef169" style="text-align: left;"><span data-css="tve-u-17150292660">These videos are also yours to keep, no matter what happens.</span></p><p data-css="tve-u-1712deef175" style="text-align: left;"><br></p><p data-css="tve-u-1712deef181" style="text-align: left;"><span data-css="tve-u-1712deef5e9"><span data-css="tve-u-17150294a4b">P.P.S: But WAIT, there's even more, I will also give you a FREE ONE-YEAR INNER CIRCLE </span><span data-css="tve-u-171502964ab">Subscription to my highly regarded newsletter Marketing intelligence.&nbsp;</span></span></p><p data-css="tve-u-1712deef18d" style="text-align: left;"><br></p><p data-css="tve-u-1712deef199" style="text-align: left;"><span data-css="tve-u-171502989fb">It's a quarterly newsletter where I reveal cutting-edge money making techniques with my inner circle.</span></p><p data-css="tve-u-1712deef1a4" style="text-align: left;"><br></p><p data-css="tve-u-1712deef1b0" style="text-align: left;"><span data-css="tve-u-1715029d762">For example, in the January issue (which I'll be sending you today), I shared with my subscribers:</span></p><p data-css="tve-u-1712deef1bc" style="text-align: left;"><br></p><p data-css="tve-u-1712deef1c8" style="text-align: left;"><span data-css="tve-u-171502a8a49"><strong>The lazy man's way to making&nbsp;N1Million a Month&nbsp;in the real estate business without being an agent and without owning a property.&nbsp;</strong></span></p><p data-css="tve-u-1712deef1d5" style="text-align: left;"><br></p><p data-css="tve-u-1712deef1e1" style="text-align: left;"><span data-css="tve-u-171502aab5f">Wait until you see what's inside, and what I'm sending you in April.</span></p><p data-css="tve-u-1712deef1ed" style="text-align: left;"><br></p><p data-css="tve-u-1712deef1f9" style="text-align: left;"><span data-css="tve-u-171502ad031">On that basis, here's...</span></p><p data-css="tve-u-1712deef206" style="text-align: left;"><br></p><p data-css="tve-u-1712deef212" style="text-align: center;"><strong><span data-css="tve-u-1712df1a8bd">Everything You Get&nbsp;</span></strong><span data-css="tve-u-171502b0834"><span data-css="tve-u-171502b00d3"><span data-css="tve-u-171502afd1e"><span data-css="tve-u-1712df1adf7"><strong><span data-css="tve-u-171502b1ed0">When You Sign Up For&nbsp;</span></strong></span></span></span></span><span data-css="tve-u-1712df1adfd"><strong><span data-css="tve-u-171502afd20">The Foreign Copywriting Initiative Today:</span></strong></span></p><p data-css="tve-u-1712deef22c" style="text-align: center;"><span data-css="tve-u-171502b7712"><br></span></p><ol class=""><li data-css="tve-u-1712deef239" style="text-align: left;"><span data-css="tve-u-171502b7716"><strong>Module #1:</strong> The keys to the $2.3Trillion Letter writing Vault: This is where your journey to real Copywriting riches begins</span><br><br></li><li data-css="tve-u-1712deef245" style="text-align: left;"><strong>Module #2:</strong> 12 Million-dollar niches that pay you at least $1,500 per Letter<br><br></li><li data-css="tve-u-1712deef252" style="text-align: left;"><strong>Module #3:</strong> A modern Collection of great Copywriting samples<br><br></li><li data-css="tve-u-17150309e16" style="text-align: left;"><strong>Module #4:</strong>&nbsp;Your Golden passport to becoming a Copywriting superstar to Foreign clients</li><li data-css="tve-u-1712deef25e" style="text-align: left;"><strong>Module #5:</strong> Your first $3,000<br><span data-css="tve-u-171502c1880"><span data-css="tve-u-171502c06d6"><span data-css="tve-u-171502c044c"><br></span></span></span></li><li data-css="tve-u-1712deef277" style="text-align: left;"><strong>Special Module:</strong>&nbsp;The Copywriter's Roadmap to Facebook Riches in the New Economy (Value = N35,000)<br><br></li><li data-css="tve-u-1712deef284" style="text-align: left;"><strong><span data-css="tve-u-17150314fa2">Bonus Material #1:</span></strong>&nbsp;Top-10 secrets I wish I knew before I became a copywriter (Value = N10,000)<br><br></li><li data-css="tve-u-1712deef290" style="text-align: left;"><strong><span data-css="tve-u-17150318c8c">Bonus Material #2:</span></strong><span data-css="tve-u-17150318c91">&nbsp;</span>How to use what you already know to build a N500,000/month side hustle.... (Value = N15,000)<br><br></li><li data-css="tve-u-1712deef29d" style="text-align: left;"><strong>GRAND BONUS:</strong>&nbsp;The N60,000 Copywriting challenge<br>......(Value = N60,000)<br><br></li><li data-css="tve-u-1712deef2a9" style="text-align: left;"><strong><span data-css="tve-u-171503254de">FAST-REPLY BONUS 1</span></strong><span data-css="tve-u-171503254e1">:</span> Videos from the N40,000 private high-income skill masterclass (Value = N30,000)<br><br></li><li data-css="tve-u-1712deef2b5" style="text-align: left;"><strong>FAST-REPLY BONUS 2:</strong>&nbsp;Free one-year inner-circle subscription to Marketing Intelligence (Value = N25,000)<br><br>TOTAL VALUE = N175,000.<br><br>Your investment today =&nbsp;<strong>N25,000 only.</strong></li></ol><p data-css="tve-u-1712deef2c2" style="text-align: left;"><br></p><p data-css="tve-u-1712deef2ce" style="text-align: left;"><span data-css="tve-u-1715033b00a">And don't forget;</span></p><p data-css="tve-u-1712deef2d9" style="text-align: left;"><br></p><p data-css="tve-u-1712deef2e6" style="text-align: left;"><span data-css="tve-u-1715033cba5">If you're not satisfied, simply ask for your money back, and you'll get a prompt and courteous refund of your N25,000 investment in this career-changing program.</span></p><p data-css="tve-u-1712deef2f2" style="text-align: left;"><span data-css="tve-u-1712deef66f"><span data-css="tve-u-1712deef67a"><br></span></span></p><p data-css="tve-u-1712deef2fd" style="text-align: left;"><span data-css="tve-u-1712deef687"><span data-css="tve-u-1715033eee8">So you have nothing to lose.</span></span></p><p data-css="tve-u-1712deef309" style="text-align: left;"><span data-css="tve-u-1715033f781"><span data-css="tve-u-1715033f188"><span data-css="tve-u-1715033eeea"><span data-css="tve-u-1712deef69f"><span data-css="tve-u-1712deef6ab"><br></span></span></span></span></span></p><p data-css="tve-u-1712deef30e" style="text-align: left;"><span data-css="tve-u-1715033eef0">And a lifetime of financial bliss to gain.</span></p><p data-css="tve-u-1712deef31d" style="text-align: left;"><br></p><p data-css="tve-u-1712deef32b" style="text-align: left;"><span data-css="tve-u-17150341182">NOTE: If you're reading this, it means this N25,000 offer is still active. The price of <em>The Foreign Copywriting Initiative Program&nbsp;</em>will increase to N40,000 soon.</span></p><p data-css="tve-u-1712deef346" style="text-align: left;"><span data-css="tve-u-1712deef6d8">​</span><br></p><p data-css="tve-u-1712deef366" style="text-align: left;"><span data-css="tve-u-17150343498">When it does, you can still sign up, but you may no longer have access to the bonuses available to you through today's special offer.</span></p><p data-css="tve-u-1712deef375" style="text-align: left;"><br></p><p data-css="tve-u-1712deef38a" style="text-align: left;"><span data-css="tve-u-17150345697">If you act now, it wouldn't be too soon.</span></p></div><div class="thrv_wrapper thrv-button" data-css="tve-u-16edb934aa1" data-tcb_hover_state_parent="" data-button-style="full_rounded" data-button-size="l">
-	<a href="https://paystack.com/pay/fci-ct" class="tcb-button-link" target="_blank">
-		<span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text" data-css="tve-u-16edbba2c7c"><strong>Start&nbsp;Now</strong></span></span>
-	</a>
-</div></div>
-</div></div>
-</div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-1714f63fd18"><span class="tve_image_frame"><img loading="lazy" class="tve_image wp-image-1237" alt="" width="580" height="538" title="andy 1" data-id="1237" src="https://andymukolo.com/wp-content/uploads/2020/04/andy-1.jpg" data-css="tve-u-1714f63fd20" srcset="https://andymukolo.com/wp-content/uploads/2020/04/andy-1.jpg 580w, https://andymukolo.com/wp-content/uploads/2020/04/andy-1-300x278.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" /></span></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-1714f6463a9"><span class="tve_image_frame"><img loading="lazy" class="tve_image wp-image-1238" alt="" width="543" height="452" title="andy 2" data-id="1238" src="https://andymukolo.com/wp-content/uploads/2020/04/andy-2.jpg" data-css="tve-u-1714f6463b9" srcset="https://andymukolo.com/wp-content/uploads/2020/04/andy-2.jpg 543w, https://andymukolo.com/wp-content/uploads/2020/04/andy-2-300x250.jpg 300w" sizes="(max-width: 543px) 100vw, 543px" /></span></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-1714f64a906"><span class="tve_image_frame"><img loading="lazy" class="tve_image wp-image-1239" alt="" width="588" height="375" title="andy 3" data-id="1239" src="https://andymukolo.com/wp-content/uploads/2020/04/andy-3.jpg" data-css="tve-u-1714f64a910" srcset="https://andymukolo.com/wp-content/uploads/2020/04/andy-3.jpg 588w, https://andymukolo.com/wp-content/uploads/2020/04/andy-3-300x191.jpg 300w" sizes="(max-width: 588px) 100vw, 588px" /></span></div><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box" style="" data-css="tve-u-1602a20b48f" data-ct-name="Chic Photo Light" data-ct="testimonial-7321" data-element-name="Testimonial">
-<div class="tve-content-box-background" data-css="tve-u-1714f661c75"></div>
-<div class="tve-cb tve_empty_dropzone" data-css="tve-u-1714f661c76"><div class="thrv_wrapper thrv-columns" data-css="tve-u-1714f661c77" style=""><div class="tcb-flex-row tcb--cols--3" data-css="tve-u-1714f661c78"><div class="tcb-flex-col"><div class="tcb-col tve_empty_dropzone" style=""><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box" data-css="tve-u-1714f661c79" style="">
-<div class="tve-content-box-background" data-css="tve-u-1714f661c7a" data-clip-id="bb8f6f760bfdb"><svg width="0" height="0" class="tve-decoration-svg"><defs><clipPath id="clip-bottom-bb8f6f760bfdb" class="decoration-clip clip-path-bottom" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="none" clip-path="url(#clip-left-bb8f6f760bfdb)" slanted-angle="5" style="" data-inverted="false"><polygon points="0 0, 0 1, 1 1, 1 0"></polygon></clipPath><clipPath id="clip-left-bb8f6f760bfdb" class="decoration-clip clip-path-left" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="none" pointer-width="17" pointer-height="1" clip-path="url(#clip-top-bb8f6f760bfdb)" slanted-angle="5" style=""><polygon points="0 0, 0 1, 1 1, 1 0"></polygon></clipPath><clipPath id="clip-top-bb8f6f760bfdb" class="decoration-clip clip-path-top" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="slanted" slanted-angle="4.6" style="" clip-path="url(#clip-right-bb8f6f760bfdb)"><polygon points="0 0.0805, 0 1, 1 1, 1 0"></polygon></clipPath><clipPath id="clip-right-bb8f6f760bfdb" class="decoration-clip clip-path-right" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="slanted" slanted-angle="0" style=""><polygon points="0 0, 0 1, 1 1, 1.0000 0"></polygon></clipPath></defs></svg></div>
-<div class="tve-cb tve_empty_dropzone" data-css="tve-u-1714f661c7b"><div class="thrv_wrapper tve_image_caption" data-css="tve-u-1714f661c7c" data-float="1"><span class="tve_image_frame" style="width: 100%;"><img loading="lazy" class="tve_image wp-image-469" alt="" title="Ronald Nzimora image" data-id="469" src="https://andymukolo.com/wp-content/uploads/2019/10/Ronald-Nzimora-image.png" style="" width="900" height="900" data-css="tve-u-1714f66b129" srcset="https://andymukolo.com/wp-content/uploads/2019/10/Ronald-Nzimora-image.png 900w, https://andymukolo.com/wp-content/uploads/2019/10/Ronald-Nzimora-image-150x150.png 150w, https://andymukolo.com/wp-content/uploads/2019/10/Ronald-Nzimora-image-300x300.png 300w, https://andymukolo.com/wp-content/uploads/2019/10/Ronald-Nzimora-image-768x768.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></span></div><div class="thrv_wrapper thrv-columns"><div class="tcb-flex-row tcb--cols--1" data-css="tve-u-1714f661c7d"><div class="tcb-flex-col" data-css="tve-u-1714f661c7e" style=""><div class="tcb-col tve_empty_dropzone" data-css="tve-u-1714f661c7f"><div class="tcb-clear" data-css="tve-u-1714f661c80"><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1714f661c81" style="" data-tag="h1"><h1 data-css="tve-u-1714f661c82"><span data-css="tve-u-1714f661c83" style="font-weight: 400; font-family: Palanquin;"><span data-css="tve-u-1714f661c84">“</span></span></h1></div></div><div class="thrv_wrapper thrv-divider" data-style="tve_sep-1" data-thickness="1" data-color="rgba(191, 153, 144, 0.5)" data-css="tve-u-1714f661c85">
-<hr class="tve_sep tve_sep-1">
-</div></div></div></div></div><div class="tcb-clear" data-css="tve-u-1714f661c86"><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" data-css="tve-u-1714f661c87" style=""><p data-css="tve-u-1714f661c88" style="text-align: center;"><span data-css="tve-u-1714f661c89" style="font-family: Hind; font-weight: 400;">I'm paying him millions for his work. He's that good.</span></p></div><div class="thrv_wrapper thrv-divider tcb-mobile-hidden" data-style="tve_sep-1" data-thickness="1" data-color="rgba(191, 153, 144, 0.5)" data-css="tve-u-1714f661c8a" style="">
-<hr class="tve_sep tve_sep-1">
-</div></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1714f661c8b" style="" data-tag="h1"><h1 data-css="tve-u-1714f6a4775" style="text-align: center;"><span data-css="tve-u-1714f6a4781" style="font-family: &quot;Playfair Display&quot;; font-weight: 400;"><span data-css="tve-u-1714f6a4788" style="color: rgb(68, 66, 68);"><em>Ikenna Ronald Nzimora&nbsp;&nbsp;</em></span></span><br><span data-css="tve-u-1714f6a478d" style="font-family: &quot;Playfair Display&quot;; font-weight: 400;"><span data-css="tve-u-1714f6a4793" style="color: rgb(68, 66, 68);"><em>​</em></span><span data-css="tve-u-1714f6a4799"><span data-css="tve-u-1714f6a479e" style="color: rgb(68, 66, 68);">&nbsp;</span><span data-css="tve-u-1714f6a47a3" style="color: rgb(180, 138, 128);">-&nbsp;</span>CEO Digital Nexus</span></span></h1></div></div>
-</div></div></div><div class="tcb-flex-col"><div class="tcb-col tve_empty_dropzone" style=""><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box" data-css="tve-u-1714f661c92">
-<div class="tve-content-box-background" data-css="tve-u-1714f661c93" data-clip-id="9f6ef61f8542d"><svg width="0" height="0" class="tve-decoration-svg"><defs><clipPath id="clip-bottom-9f6ef61f8542d" class="decoration-clip clip-path-bottom" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="none" clip-path="url(#clip-left-9f6ef61f8542d)" slanted-angle="5" style=""><polygon points="0 0, 0 1, 1 1, 1 0"></polygon></clipPath><clipPath id="clip-left-9f6ef61f8542d" class="decoration-clip clip-path-left" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="none" pointer-width="17" pointer-height="1" clip-path="url(#clip-top-9f6ef61f8542d)"><polygon points="0 0, 0 1, 1 1, 1 0"></polygon></clipPath><clipPath id="clip-top-9f6ef61f8542d" class="decoration-clip clip-path-top" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="slanted" slanted-angle="4.6" style=""><polygon points="0 0.0805, 0 1, 1 1, 1 0"></polygon></clipPath></defs></svg></div>
-<div class="tve-cb tve_empty_dropzone" data-css="tve-u-1714f661c94"><div class="thrv_wrapper tve_image_caption" data-css="tve-u-1714f661c95" data-float="1"><span class="tve_image_frame" style="width: 100%;"><img loading="lazy" class="tve_image wp-image-831" alt="" title="Hammed-Abdul-Qawiyy-scaled (1)" data-id="831" src="https://andymukolo.com/wp-content/uploads/2020/02/Hammed-Abdul-Qawiyy-scaled-1-e1586175448967.jpg" style="" width="683" height="832" data-css="tve-u-1714f680a2f" srcset="https://andymukolo.com/wp-content/uploads/2020/02/Hammed-Abdul-Qawiyy-scaled-1-e1586175448967.jpg 683w, https://andymukolo.com/wp-content/uploads/2020/02/Hammed-Abdul-Qawiyy-scaled-1-e1586175448967-246x300.jpg 246w" sizes="(max-width: 683px) 100vw, 683px" /></span></div><div class="tcb-clear" data-css="tve-u-1714f661c86"><div class="thrv_wrapper thrv-columns"><div class="tcb-flex-row tcb--cols--1" data-css="tve-u-1714f661c96"><div class="tcb-flex-col" data-css="tve-u-1714f661c7e" style=""><div class="tcb-col tve_empty_dropzone" data-css="tve-u-1714f661c7f"><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1714f661c97" style="" data-tag="h1"><h1 data-css="tve-u-1714f661c98"><span data-css="tve-u-1714f661c83" style="font-weight: 400; font-family: Palanquin;"><span data-css="tve-u-1714f661c84">“</span></span></h1></div><div class="thrv_wrapper thrv-divider" data-style="tve_sep-1" data-thickness="1" data-color="rgba(191, 153, 144, 0.5)" data-css="tve-u-1714f661c85">
-<hr class="tve_sep tve_sep-1">
-</div></div></div></div></div><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" data-css="tve-u-1714f661c87" style=""><p data-css="tve-u-1714f661c88" style="text-align: center;"><span data-css="tve-u-1714f661c89" style="font-family: Hind; font-weight: 400;">You're one deal away from Andy Mukolo turning your career into a money-spinning, client-grabbing masterpiece.</span></p></div><div class="thrv_wrapper thrv-divider tcb-mobile-hidden" data-style="tve_sep-1" data-thickness="1" data-color="rgba(191, 153, 144, 0.5)" data-css="tve-u-1714f661c99" style="">
-<hr class="tve_sep tve_sep-1">
-</div></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1714f661c8b" style="" data-tag="h1"><h1 data-css="tve-u-1714f6b2621" style="text-align: center;"><span data-css="tve-u-1714f6b262a" style="font-family: &quot;Playfair Display&quot;; font-weight: 400;"><span data-css="tve-u-1714f6b2630" style="color: rgb(68, 66, 68);"><em>Abdul-Qawiyy Hammed&nbsp;</em></span></span><br><span data-css="tve-u-1714f6b262a" style="font-family: &quot;Playfair Display&quot;; font-weight: 400;"><span data-css="tve-u-1714f6b2630" style="color: rgb(68, 66, 68);"><em>​</em></span><span data-css="tve-u-1714f6b2636"><span data-css="tve-u-1714f6b263b" style="color: rgb(180, 138, 128);">- 7-figure Ecommerce Entrepreneur</span></span></span></h1></div></div>
-</div></div></div><div class="tcb-flex-col"><div class="tcb-col tve_empty_dropzone" style=""><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box" data-css="tve-u-1714f661c9a">
-<div class="tve-content-box-background" data-css="tve-u-1714f661c9b" data-clip-id="b5327f994b22b"><svg width="0" height="0" class="tve-decoration-svg"><defs><clipPath id="clip-bottom-b5327f994b22b" class="decoration-clip clip-path-bottom" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="none" clip-path="url(#clip-left-b5327f994b22b)" slanted-angle="5" style=""><polygon points="0 0, 0 1, 1 1, 1 0"></polygon></clipPath><clipPath id="clip-left-b5327f994b22b" class="decoration-clip clip-path-left" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="none" pointer-width="17" pointer-height="1" clip-path="url(#clip-top-b5327f994b22b)"><polygon points="0 0, 0 1, 1 1, 1 0"></polygon></clipPath><clipPath id="clip-top-b5327f994b22b" class="decoration-clip clip-path-top" clipPathUnits="objectBoundingBox" data-screen="" decoration-type="slanted" slanted-angle="4.6" style=""><polygon points="0 0.0805, 0 1, 1 1, 1 0"></polygon></clipPath></defs></svg></div>
-<div class="tve-cb tve_empty_dropzone" data-css="tve-u-1714f661c9c"><div class="thrv_wrapper tve_image_caption" data-css="tve-u-1714f661c9d" data-float="1"><span class="tve_image_frame" style="width: 100%;"><img loading="lazy" class="tve_image wp-image-756" alt="" title="Ogochukwu Anuniru" data-id="756" src="https://andymukolo.com/wp-content/uploads/2020/02/Ogochukwu-Anuniru.jpeg" style="" width="771" height="1080" data-css="tve-u-1714f686377" srcset="https://andymukolo.com/wp-content/uploads/2020/02/Ogochukwu-Anuniru.jpeg 771w, https://andymukolo.com/wp-content/uploads/2020/02/Ogochukwu-Anuniru-214x300.jpeg 214w, https://andymukolo.com/wp-content/uploads/2020/02/Ogochukwu-Anuniru-731x1024.jpeg 731w, https://andymukolo.com/wp-content/uploads/2020/02/Ogochukwu-Anuniru-768x1076.jpeg 768w" sizes="(max-width: 771px) 100vw, 771px" /></span></div><div class="tcb-clear" data-css="tve-u-1714f661c86"><div class="thrv_wrapper thrv-columns" style=""><div class="tcb-flex-row tcb--cols--1 tcb-medium-wrap" data-css="tve-u-1714f661c9e"><div class="tcb-flex-col" data-css="tve-u-1714f661c7e" style=""><div class="tcb-col tve_empty_dropzone" data-css="tve-u-1714f661c7f"><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1714f661c9f" style="" data-tag="h1"><h1 data-css="tve-u-1714f661c98"><span data-css="tve-u-1714f661c83" style="font-weight: 400; font-family: Palanquin;"><span data-css="tve-u-1714f661c84">“</span></span></h1></div><div class="thrv_wrapper thrv-divider" data-style="tve_sep-1" data-thickness="1" data-color="rgba(191, 153, 144, 0.5)" data-css="tve-u-1714f661c85">
-<hr class="tve_sep tve_sep-1">
-</div></div></div></div></div><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" data-css="tve-u-1714f661c87" style=""><p data-css="tve-u-1714f661c88" style="text-align: center;"><span data-css="tve-u-1714f661c89" style="font-family: Hind; font-weight: 400;">Andy, How can I say Thank you? You've opened up a new world of possibilities for me. I'm grateful our paths crossed.<em> </em></span></p></div><div class="thrv_wrapper thrv-divider tcb-mobile-hidden" data-style="tve_sep-1" data-thickness="1" data-color="rgba(191, 153, 144, 0.5)" data-css="tve-u-1714f661ca0" style="">
-<hr class="tve_sep tve_sep-1">
-</div></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-1714f661c8b" style="" data-tag="h1"><h1 data-css="tve-u-1714f661c8c" style="text-align: center;"><span data-css="tve-u-1714f661c8d" style="font-family: &quot;Playfair Display&quot;; font-weight: 400;"><span data-css="tve-u-1714f661c8e" style="color: rgb(68, 66, 68);"><em>Ogochukwu A</em></span><span data-css="tve-u-1714f6f7702"><span data-css="tve-u-1714f661c90" style="color: rgb(68, 66, 68);">&nbsp;</span></span></span><br><span data-css="tve-u-1714f661c8d" style="font-family: &quot;Playfair Display&quot;; font-weight: 400;"><span data-css="tve-u-1714f6f7702"><span data-css="tve-u-1714f661c90" style="color: rgb(68, 66, 68);">​</span><span data-css="tve-u-1714f661c91" style="color: rgb(180, 138, 128);">- Social Media Expert</span></span></span></h1></div></div>
-</div></div></div></div></div></div>
-</div></div></div>			</div>
-						<div class="fr-dropdown-holder tcb-style-wrap"></div>
-		</div>
-								<nav id="generate-slideout-menu" class="main-navigation slideout-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope style="display: none;">
-			<div class="inside-navigation grid-container grid-parent">
-				<div class="main-nav"><ul id="menu-primary-article" class=" slideout-menu"><li id="menu-item-819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-819"><a href="https://andymukolo.com">Home</a></li>
-<li id="menu-item-617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-617"><a href="https://andymukolo.com/blog/">Blog</a></li>
-<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="https://andymukolo.com/consulting/">Consulting</a></li>
-<li id="menu-item-845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-845"><a href="https://andymukolo.com/testimonials/">Testimonials</a></li>
-<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="https://andymukolo.com/contact/">Contact</a></li>
-</ul></div>			<aside id="recent-posts-extra-3" class="slideout-widget recent_posts_extra_widget">			<h2 class="widget-title">Recent Posts Extra</h2>				
-			<ul class="nectar_blog_posts_recent_extra nectar_widget" data-style="featured-image-left">
-				
-			<li class="has-img"><a href="https://andymukolo.com/2021/11/26/making-10k-month-as-a-copywriter/"> <span class="popular-featured-img"><img width="1280" height="905" src="https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280.jpg" class="attachment-portfolio-widget size-portfolio-widget wp-post-image" alt="" loading="lazy" title="" srcset="https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280.jpg 1280w, https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280-300x212.jpg 300w, https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280-1024x724.jpg 1024w, https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280-768x543.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></span><span class="meta-wrap"><span class="post-title">Making $10k/month as a Copywriter</span> <span class="post-date">November 26, 2021</span></span></a></li><li class="has-img"><a href="https://andymukolo.com/2021/11/17/how-i-write-my-emails-%f0%9f%98%8e/"> <span class="popular-featured-img"><img width="1280" height="658" src="https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280.jpg" class="attachment-portfolio-widget size-portfolio-widget wp-post-image" alt="" loading="lazy" title="" srcset="https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280.jpg 1280w, https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280-300x154.jpg 300w, https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280-1024x526.jpg 1024w, https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280-768x395.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></span><span class="meta-wrap"><span class="post-title">How I write my emails 😎</span> <span class="post-date">November 17, 2021</span></span></a></li><li class="has-img"><a href="https://andymukolo.com/2021/10/19/how-to-get-what-you-want-faster/"> <span class="popular-featured-img"><img width="1280" height="1280" src="https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280.jpg" class="attachment-portfolio-widget size-portfolio-widget wp-post-image" alt="" loading="lazy" title="" srcset="https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280.jpg 1280w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-300x300.jpg 300w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-1024x1024.jpg 1024w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-150x150.jpg 150w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-768x768.jpg 768w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-500x500.jpg 500w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-350x350.jpg 350w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-1000x1000.jpg 1000w" sizes="(max-width: 1280px) 100vw, 1280px" /></span><span class="meta-wrap"><span class="post-title">How to get what you want (faster)</span> <span class="post-date">October 19, 2021</span></span></a></li>			</ul>
-			</aside>	<aside id="tzwb-recent-posts-3" class="slideout-widget tzwb-recent-posts">
-		<div class="tzwb-content tzwb-clearfix">
-
-			<ul class="tzwb-posts-list">
-				
-					<li class="tzwb-has-thumbnail">
-						<a href="https://andymukolo.com/2021/11/26/making-10k-month-as-a-copywriter/" title="Making $10k/month as a Copywriter">
-							<img width="120" height="80" src="https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280-120x80.jpg" class="attachment-tzwb-thumbnail size-tzwb-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280-120x80.jpg 120w, https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280-900x604.jpg 900w, https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280-600x403.jpg 600w, https://andymukolo.com/wp-content/uploads/2021/11/dollars-499481_1280-400x269.jpg 400w" sizes="(max-width: 120px) 100vw, 120px" />						</a>
-
-				
-					<a href="https://andymukolo.com/2021/11/26/making-10k-month-as-a-copywriter/" title="Making $10k/month as a Copywriter">
-						Making $10k/month as a Copywriter					</a>
-
-				
-		<div class="tzwb-entry-meta entry-meta">
-
-		
-			<span class="tzwb-meta-date meta-date">November 26, 2021</span>
-
-		
-		
-			<span class="tzwb-meta-author meta-author">
-				<a href="https://andymukolo.com/author/andymukolo/" title="View all posts by andymukolo" rel="author">andymukolo</a>			</span>
-
-		
-		
-		</div>
-
-		
-					<li class="tzwb-has-thumbnail">
-						<a href="https://andymukolo.com/2021/11/17/how-i-write-my-emails-%f0%9f%98%8e/" title="How I write my emails 😎">
-							<img width="120" height="80" src="https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280-120x80.jpg" class="attachment-tzwb-thumbnail size-tzwb-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280-120x80.jpg 120w, https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280-900x604.jpg 900w, https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280-600x403.jpg 600w, https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280-400x269.jpg 400w, https://andymukolo.com/wp-content/uploads/2021/11/email-6370595_1280-1000x658.jpg 1000w" sizes="(max-width: 120px) 100vw, 120px" />						</a>
-
-				
-					<a href="https://andymukolo.com/2021/11/17/how-i-write-my-emails-%f0%9f%98%8e/" title="How I write my emails 😎">
-						How I write my emails 😎					</a>
-
-				
-		<div class="tzwb-entry-meta entry-meta">
-
-		
-			<span class="tzwb-meta-date meta-date">November 17, 2021</span>
-
-		
-		
-			<span class="tzwb-meta-author meta-author">
-				<a href="https://andymukolo.com/author/andymukolo/" title="View all posts by andymukolo" rel="author">andymukolo</a>			</span>
-
-		
-		
-		</div>
-
-		
-					<li class="tzwb-has-thumbnail">
-						<a href="https://andymukolo.com/2021/10/19/how-to-get-what-you-want-faster/" title="How to get what you want (faster)">
-							<img width="120" height="80" src="https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-120x80.jpg" class="attachment-tzwb-thumbnail size-tzwb-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-120x80.jpg 120w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-900x604.jpg 900w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-600x403.jpg 600w, https://andymukolo.com/wp-content/uploads/2021/10/business-card-1020209_1280-400x269.jpg 400w" sizes="(max-width: 120px) 100vw, 120px" />						</a>
-
-				
-					<a href="https://andymukolo.com/2021/10/19/how-to-get-what-you-want-faster/" title="How to get what you want (faster)">
-						How to get what you want (faster)					</a>
-
-				
-		<div class="tzwb-entry-meta entry-meta">
-
-		
-			<span class="tzwb-meta-date meta-date">October 19, 2021</span>
-
-		
-		
-			<span class="tzwb-meta-author meta-author">
-				<a href="https://andymukolo.com/author/andymukolo/" title="View all posts by andymukolo" rel="author">andymukolo</a>			</span>
-
-		
-		
-		</div>
-
-					</ul>
-
-		</div>
-
-		</aside>			</div><!-- .inside-navigation -->
-		</nav><!-- #site-navigation -->
-
-					<div class="slideout-overlay">
-									<button class="slideout-exit">
-						<span class="screen-reader-text">Close</span>
-					</button>
-							</div>
-		<script type='text/javascript'>/**
- * Displays toast message from storage, it is used when the user is redirected after login
- */
-if ( window.sessionStorage ) {
-	window.addEventListener( 'load', function () {
-		var message = sessionStorage.getItem( 'tcb_toast_message' );
-
-		if ( message ) {
-			tcbToast( sessionStorage.getItem( 'tcb_toast_message' ), false );
-			sessionStorage.removeItem( 'tcb_toast_message' );
-		}
-	} );
-}
-
-/**
- * Displays toast message
- */
-function tcbToast( message, error, callback ) {
-	/* Also allow "message" objects */
-	if ( typeof message !== 'string' ) {
-		message = message.message || message.error || message.success;
-	}
-	if ( ! error ) {
-		error = false;
-	}
-
-	let _icon = 'checkmark',
-		_extra_class = '';
-	if ( error ) {
-		_icon = 'cross';
-		_extra_class = ' tve-toast-error';
-	}
-
-	jQuery( 'body' ).slideDown( 'fast', function () {
-		jQuery( 'body' ).prepend( '<div class="tvd-toast tve-fe-message"><div class="tve-toast-message"><div class="tve-toast-icon-container' + _extra_class + '"><span class="tve_tick thrv-svg-icon"><svg xmlns="http://www.w3.org/2000/svg" class="tcb-checkmark" style="width: 100%; height: 1em; stroke-width: 0; fill: #ffffff; stroke: #ffffff;" viewBox="0 0 32 32"><path d="M27 4l-15 15-7-7-5 5 12 12 20-20z"></path></svg></span></div><div class="tve-toast-message-container">' + message + '</div></div></div>' );
-	} );
-
-	setTimeout( function () {
-		jQuery( '.tvd-toast' ).hide();
-
-		if ( typeof callback === 'function' ) {
-			callback();
-		}
-
-	}, 3000 );
-}
-</script>    <!-- Facebook Pixel Event Code -->
-    <script type='text/javascript'>
-        document.addEventListener( 'wpcf7mailsent', function( event ) {
-        if( "fb_pxl_code" in event.detail.apiResponse){
-          eval(event.detail.apiResponse.fb_pxl_code);
-        }
-      }, false );
+    <link rel='dns-prefetch' href='//s.w.org' />
+    <link rel="alternate" type="application/rss+xml" title="Expertnaire &raquo; Feed"
+        href="https://expertnaire.com/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Expertnaire &raquo; Comments Feed"
+        href="https://expertnaire.com/comments/feed/" />
+    <script>
+        window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/expertnaire.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.9" } };
+        !function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode; p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([55357, 56424, 8205, 55356, 57212], [55357, 56424, 8203, 55356, 57212]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji))) }(window, document, window._wpemojiSettings);
     </script>
-    <!-- End Facebook Pixel Event Code -->
-    <div id='fb-pxl-ajax-code'></div><script type='text/javascript' id='generate-offside-js-extra'>
-/* <![CDATA[ */
-var offSide = {"side":"right"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/gp-premium/menu-plus/functions/js/offside.min.js?ver=1.8.2' id='generate-offside-js'></script>
-<script type='text/javascript' id='pt-cv-content-views-script-js-extra'>
-/* <![CDATA[ */
-var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"3deac1bba1","is_admin":"","is_mobile":"1","ajaxurl":"https:\/\/andymukolo.com\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
-var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=2.4.0.2' id='pt-cv-content-views-script-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/salient-core/js/third-party/touchswipe.min.js?ver=1.0' id='touchswipe-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/salient-core/js/third-party/jquery.twentytwenty.js?ver=1.1' id='twentytwenty-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/salient-core/js/nectar-testimonial-slider.js?ver=1.1' id='nectar-testimonial-sliders-js'></script>
-<script type='text/javascript' id='salient-social-js-extra'>
-/* <![CDATA[ */
-var nectarLove = {"ajaxurl":"https:\/\/andymukolo.com\/wp-admin\/admin-ajax.php","postID":"1218","rooturl":"https:\/\/andymukolo.com","loveNonce":"7aacb3812f"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/salient-social/js/salient-social.js?ver=1.0' id='salient-social-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/acf-dynamic-elements.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_acf-dynamic-elements-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/audio.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_audio-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/contact-form-compat.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_contact-form-compat-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/content-reveal.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_content-reveal-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/countdown.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_countdown-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/dropdown.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_dropdown-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/divider.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_divider-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-includes/js/plupload/plupload.min.js?ver=2.1.9' id='plupload-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/file-upload.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_file-upload-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/fill-counter.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_fill-counter-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/image-gallery-libs.min.js?ver=3.0.2' id='image-gallery-libs-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/image-gallery.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_image-gallery-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/lead-generation.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_lead-generation-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/login.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_login-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/menu.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_menu-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/number-counter-compat.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_number-counter-compat-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/post-grid-compat.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_post-grid-compat-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/pagination.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_pagination-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/post-list.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_post-list-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/pricing-table.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_pricing-table-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/progress-bar.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_progress-bar-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/social-share.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_social-share-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/table.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_table-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/tabs.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_tabs-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/timer.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_timer-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/toc.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_toc-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/toggle.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_toggle-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/twitter.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_twitter-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/user-profile.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_user-profile-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/video.min.js?v=3.0.2&#038;ver=3.0.2' id='tve_frontend_video-js'></script>
-<script type='text/javascript' id='tve-dash-frontend-js-extra'>
-/* <![CDATA[ */
-var tve_dash_front = {"ajaxurl":"https:\/\/andymukolo.com\/wp-admin\/admin-ajax.php","force_ajax_send":"1","is_crawler":"","recaptcha":[]};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://andymukolo.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=2.8.2' id='tve-dash-frontend-js'></script>
-<script type='text/javascript' src='https://andymukolo.com/wp-includes/js/wp-embed.min.js?ver=5.8.4' id='wp-embed-js'></script>
-<script type="text/javascript">var tcb_post_lists=JSON.parse('[]');</script><script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"4f0aa691a1","ajax_url":"https:\/\/andymukolo.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"custom_post_data":{"http_referrer":"https:\/\/www.google.com\/"},"current_screen":{"screen_type":3,"screen_id":1218},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]};} else {ThriveGlobal.$j.extend(true, TL_Const, {"security":"4f0aa691a1","ajax_url":"https:\/\/andymukolo.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"custom_post_data":{"http_referrer":"https:\/\/www.google.com\/"},"current_screen":{"screen_type":3,"screen_id":1218},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]})} /*]]> */</script>        <!-- Register/Unregister the AWeber Service Worker -->
-        <script async src="https://andymukolo.com/wp-content/plugins/aweber-web-form-widget/php/../src/js/aweber-wpn-script.js"></script>
-        <script type="text/javascript">
-            var aweber_wpn_vars = {
-                plugin_base_path: 'https://andymukolo.com/wp-content/plugins/aweber-web-form-widget/php/',
-                register_aweber_service_worker: '',
-            };
-        </script>
+    <style>
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+    </style>
+    <link rel='stylesheet' id='wp-block-library-css'
+        href='https://expertnaire.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.9' media='all' />
+    <link rel='stylesheet' id='cpd_tracker-css'
+        href='https://expertnaire.com/wp-content/plugins/cpd_tracker/public/css/cpd_tracker-public.css?ver=1.0.0'
+        media='all' />
+    <link rel='stylesheet' id='formcraft-common-css'
+        href='https://expertnaire.com/wp-content/plugins/formcraft3/dist/formcraft-common.css?ver=3.8.8' media='all' />
+    <link rel='stylesheet' id='formcraft-form-css'
+        href='https://expertnaire.com/wp-content/plugins/formcraft3/dist/form.css?ver=3.8.8' media='all' />
+    <link rel='stylesheet' id='generate-style-grid-css'
+        href='https://expertnaire.com/wp-content/themes/generatepress/assets/css/unsemantic-grid.min.css?ver=3.0.4'
+        media='all' />
+    <link rel='stylesheet' id='generate-style-css'
+        href='https://expertnaire.com/wp-content/themes/generatepress/assets/css/style.min.css?ver=3.0.4' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #efefef;
+            color: #3a3a3a;
+        }
 
-        			</body>
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        body .grid-container {
+            max-width: 1100px;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1100px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-title {
+            font-size: 45px;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        h1 {
+            font-weight: 300;
+            font-size: 40px;
+        }
+
+        h2 {
+            font-weight: 300;
+            font-size: 30px;
+        }
+
+        h3 {
+            font-size: 20px;
+        }
+
+        h4 {
+            font-size: inherit;
+        }
+
+        h5 {
+            font-size: inherit;
+        }
+
+        @media (max-width:768px) {
+            .main-title {
+                font-size: 30px;
+            }
+
+            h1 {
+                font-size: 30px;
+            }
+
+            h2 {
+                font-size: 25px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+            color: #3a3a3a;
+        }
+
+        .site-header a {
+            color: #3a3a3a;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #222222;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:hover>a,
+        .main-navigation .main-nav ul li:focus>a,
+        .main-navigation .main-nav ul li.sfHover>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #3f3f3f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus,
+        .main-navigation .mobile-bar-items a,
+        .main-navigation .mobile-bar-items a:hover,
+        .main-navigation .mobile-bar-items a:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #3f3f3f;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a:hover,
+        .main-navigation .main-nav ul li[class*="current-menu-"].sfHover>a {
+            color: #ffffff;
+            background-color: #3f3f3f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #3f3f3f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #3f3f3f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:hover>a,
+        .main-navigation .main-nav ul ul li:focus>a,
+        .main-navigation .main-nav ul ul li.sfHover>a {
+            color: #ffffff;
+            background-color: #4f4f4f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #4f4f4f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a:hover,
+        .main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover>a {
+            color: #ffffff;
+            background-color: #4f4f4f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .entry-meta a {
+            color: #595959;
+        }
+
+        .entry-meta a:hover {
+            color: #1e73be;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .sidebar .widget .widget-title {
+            color: #000000;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #222222;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #606060;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #606060;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #666666;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f3f3f;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .inside-top-bar {
+            padding: 10px;
+        }
+
+        .inside-header {
+            padding: 40px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        .site-info {
+            padding: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .site-info {
+                padding-right: 10px;
+                padding-left: 10px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+        }
+
+        .one-container .sidebar .widget {
+            padding: 0px;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .main-navigation .mobile-bar-items,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav {
+                display: none;
+            }
+
+            [class*="nav-float-"] .site-header .inside-header>* {
+                float: none;
+                clear: both;
+            }
+        }
+    </style>
+    <link rel='stylesheet' id='generate-mobile-style-css'
+        href='https://expertnaire.com/wp-content/themes/generatepress/assets/css/mobile.min.css?ver=3.0.4'
+        media='all' />
+    <link rel='stylesheet' id='generate-font-icons-css'
+        href='https://expertnaire.com/wp-content/themes/generatepress/assets/css/components/font-icons.min.css?ver=3.0.4'
+        media='all' />
+    <link rel='stylesheet' id='font-awesome-css'
+        href='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-css'
+        href='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0'
+        media='all' />
+    <link rel='stylesheet' id='elementor-frontend-legacy-css'
+        href='https://expertnaire.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.5.3'
+        media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css'
+        href='https://expertnaire.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.5.3' media='all' />
+    <link rel='stylesheet' id='elementor-post-4647-css'
+        href='https://expertnaire.com/wp-content/uploads/elementor/css/post-4647.css?ver=1646211558' media='all' />
+    <link rel='stylesheet' id='elementor-pro-css'
+        href='https://expertnaire.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.4.1'
+        media='all' />
+    <link rel='stylesheet' id='font-awesome-5-all-css'
+        href='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.5.3'
+        media='all' />
+    <link rel='stylesheet' id='font-awesome-4-shim-css'
+        href='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.5.3'
+        media='all' />
+    <link rel='stylesheet' id='elementor-global-css'
+        href='https://expertnaire.com/wp-content/uploads/elementor/css/global.css?ver=1646211559' media='all' />
+    <link rel='stylesheet' id='elementor-post-10342-css'
+        href='https://expertnaire.com/wp-content/uploads/elementor/css/post-10342.css?ver=1646211599' media='all' />
+    <link rel='stylesheet' id='google-fonts-1-css'
+        href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.5.9'
+        media='all' />
+    <script src='https://expertnaire.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+    <script src='https://expertnaire.com/wp-content/plugins/cpd_tracker/public/js/cpd_tracker-public.js?ver=1.0.0'
+        id='cpd_tracker-js'></script>
+    <script
+        src='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.5.3'
+        id='font-awesome-4-shim-js'></script>
+    <link rel="https://api.w.org/" href="https://expertnaire.com/wp-json/" />
+    <link rel="alternate" type="application/json" href="https://expertnaire.com/wp-json/wp/v2/pages/10342" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://expertnaire.com/xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml"
+        href="https://expertnaire.com/wp-includes/wlwmanifest.xml" />
+    <meta name="generator" content="WordPress 5.5.9" />
+    <link rel='shortlink' href='https://expertnaire.com/?p=10342' />
+    <link rel="alternate" type="application/json+oembed"
+        href="https://expertnaire.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexpertnaire.com%2Fhpf-premium%2F" />
+    <link rel="alternate" type="text/xml+oembed"
+        href="https://expertnaire.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexpertnaire.com%2Fhpf-premium%2F&#038;format=xml" />
+    <style type="text/css" id="tve_global_variables">
+        :root {
+            --tcb-background-author-image: url(https://secure.gravatar.com/avatar/77a577171835076f72e2e651c6c1dc5d?s=256&d=mm&r=g);
+            --tcb-background-user-image: url();
+            --tcb-background-featured-image-thumbnail: url(https://expertnaire.com/wp-content/plugins/thrive-visual-editor/editor/css/images/featured_image.png);
+        }
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css" id="thrive-default-styles"></style>
+    <link rel="icon" href="https://expertnaire.com/wp-content/uploads/2018/04/cropped-enlogo-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://expertnaire.com/wp-content/uploads/2018/04/cropped-enlogo-192x192.png"
+        sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://expertnaire.com/wp-content/uploads/2018/04/cropped-enlogo-180x180.png" />
+    <meta name="msapplication-TileImage"
+        content="https://expertnaire.com/wp-content/uploads/2018/04/cropped-enlogo-270x270.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+</head>
+
+<body
+    class="page-template page-template-elementor_canvas page page-id-10342 wp-custom-logo wp-embed-responsive right-sidebar nav-below-header separate-containers fluid-header active-footer-widgets-0 nav-aligned-left header-aligned-left dropdown-hover elementor-default elementor-template-canvas elementor-kit-4647 elementor-page elementor-page-10342">
+    <div data-elementor-type="wp-page" data-elementor-id="10342" class="elementor elementor-10342"
+        data-elementor-settings="[]">
+        <div class="elementor-inner">
+            <div class="elementor-section-wrap">
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-19e1c17a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="19e1c17a" data-element_type="section"
+                    data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-background-overlay"></div>
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-59e4a432"
+                                data-id="59e4a432" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-5af1da2b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="5af1da2b" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-57ebf7ad"
+                                                        data-id="57ebf7ad" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-54477062 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="54477062" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>In a country where about 70% of its
+                                                                                citizens are living below the poverty
+                                                                                line</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-4f9bbcaf elementor-widget elementor-widget-text-editor"
+                                                                    data-id="4f9bbcaf" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p><strong>Here’s How Everyday Nigerians Are
+                                                                                    Making Between $1000 – $5,000
+                                                                                    Monthly From The Comfort Of Their
+                                                                                    Homes Doing Jobs For International
+                                                                                    Companies With Just Their
+                                                                                    Smartphones Or Laptops- <span
+                                                                                        style="color: #000000;"><em>No
+                                                                                            Capital Needed
+                                                                                        </em></span></strong></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-38462dc4 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="38462dc4" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p><em>This works even if you are a complete
+                                                                                    newbie with zero knowledge, no
+                                                                                    freelancing skills or you have a
+                                                                                    freelance skill but you are severely
+                                                                                    underpaid for it</em></p>
+                                                                            <p>In the last 12-months, I’ve helped
+                                                                                <strong>100s of beginners</strong>
+                                                                                (regular people from different walks of
+                                                                                life … students, unemployed graduates,
+                                                                                underpaid employees, frustrated youths …
+                                                                                etc) <strong>with no freelance
+                                                                                    experience, </strong>go from zero to
+                                                                                $1,000, $3,000, $5,000+ in project fees
+                                                                                every month</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-24a5fb54 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="24a5fb54" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-54497a19"
+                                data-id="54497a19" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-59962ddf elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="59962ddf" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1c9b6363"
+                                                        data-id="1c9b6363" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-6719366c elementor-aspect-ratio-169 elementor-widget elementor-widget-video"
+                                                                    data-id="6719366c" data-element_type="widget"
+                                                                    data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/0xL14vFs-5Q&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}"
+                                                                    data-widget_type="video.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+                                                                            <div class="elementor-video"></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-362f84c3 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="362f84c3" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$1200 WITHIN HIS FIRST MONTH</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-68a49a7"
+                                                        data-id="68a49a7" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-121bba53 elementor-aspect-ratio-169 elementor-widget elementor-widget-video"
+                                                                    data-id="121bba53" data-element_type="widget"
+                                                                    data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/7w4yOTMffvU&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}"
+                                                                    data-widget_type="video.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+                                                                            <div class="elementor-video"></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-12e04821 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="12e04821" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$1500 (#800K+) IN LESS THAN 2MONTHS AND A
+                                                                                MONTHLY SALARY OF 600K+</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-477bc824 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="477bc824" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8b004d8"
+                                data-id="8b004d8" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <div class="elementor-element elementor-element-7e2b445f elementor-widget elementor-widget-heading"
+                                            data-id="7e2b445f" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <h2 class="elementor-heading-title elementor-size-default">Keep
+                                                    Scrolling to see how you too can become a High Paid Freelancer
+                                                    earning just enough money per month to take care of all your needs
+                                                    and that of your loved ones.</h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-55842979 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="55842979" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d244f6e"
+                                data-id="4d244f6e" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-762e911d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="762e911d" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3ff26e45"
+                                                        data-id="3ff26e45" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-18110852 elementor-widget elementor-widget-image"
+                                                                    data-id="18110852" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="620" height="435"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/1.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/1.jpg 620w, https://expertnaire.com/wp-content/uploads/2022/02/1-300x210.jpg 300w"
+                                                                                sizes="(max-width: 620px) 100vw, 620px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-5556afbf elementor-widget elementor-widget-text-editor"
+                                                                    data-id="5556afbf" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$1400 For A Small Website Gig</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbc7028"
+                                                        data-id="bbc7028" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-46319460 elementor-widget elementor-widget-image"
+                                                                    data-id="46319460" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="620" height="530"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/2.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/2.jpg 620w, https://expertnaire.com/wp-content/uploads/2022/02/2-300x256.jpg 300w"
+                                                                                sizes="(max-width: 620px) 100vw, 620px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-23d5212 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="23d5212" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$2500 For Writing</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-32f59192 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="32f59192" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1f719c56"
+                                                        data-id="1f719c56" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-2a7559a1 elementor-widget elementor-widget-image"
+                                                                    data-id="2a7559a1" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="620" height="799"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/3.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/3.jpg 620w, https://expertnaire.com/wp-content/uploads/2022/02/3-233x300.jpg 233w"
+                                                                                sizes="(max-width: 620px) 100vw, 620px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-53f45fd7 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="53f45fd7" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$500 Weekly For Writing</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-bf23fc0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="bf23fc0" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-30c85bcd"
+                                data-id="30c85bcd" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-77b26a9b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="77b26a9b" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1a8dc696"
+                                                        data-id="1a8dc696" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-57d3e037 elementor-widget elementor-widget-image"
+                                                                    data-id="57d3e037" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="620" height="156"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/4.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/4.jpg 620w, https://expertnaire.com/wp-content/uploads/2022/02/4-300x75.jpg 300w"
+                                                                                sizes="(max-width: 620px) 100vw, 620px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <div class="elementor-element elementor-element-583769d6 elementor-widget elementor-widget-text-editor"
+                                            data-id="583769d6" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>$1300 For Web Design</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-37ff1ccc elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="37ff1ccc" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3fd8ee8b"
+                                data-id="3fd8ee8b" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-7640ca43 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="7640ca43" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1b9a8e01"
+                                                        data-id="1b9a8e01" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-2480a0f2 elementor-widget elementor-widget-image"
+                                                                    data-id="2480a0f2" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="591" height="877"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/5.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/5.jpg 591w, https://expertnaire.com/wp-content/uploads/2022/02/5-202x300.jpg 202w"
+                                                                                sizes="(max-width: 591px) 100vw, 591px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <div class="elementor-element elementor-element-2a70276b elementor-widget elementor-widget-text-editor"
+                                            data-id="2a70276b" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>$800 For A Single Copywriting Project</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-33f6234f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="33f6234f" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2657e377"
+                                data-id="2657e377" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-1b99d4cb elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="1b99d4cb" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3339caaa"
+                                                        data-id="3339caaa" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-320e751f elementor-widget elementor-widget-text-editor"
+                                                                    data-id="320e751f" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>Dear reader,</p>
+                                                                            <p>If you are interested in earning a
+                                                                                comfortable living as a well-paid
+                                                                                freelancer</p>
+                                                                            <p>Working with foreign clients/companies
+                                                                                who pay between $1000- $5000 per project
+                                                                                (or per month)</p>
+                                                                            <p>So you are making just enough money to
+                                                                                live comfortably and take care of all
+                                                                                your needs and that of your loved ones…
+                                                                            </p>
+                                                                            <p>I can help you</p>
+                                                                            <p>And this is true…</p>
+                                                                            <ul>
+                                                                                <li><em>Even if you don’t have any high
+                                                                                        income skill</em></li>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li><em>Even if you are totally new to
+                                                                                        making money online</em></li>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li><em>Even if you are as student or
+                                                                                        work a 9-5</em></li>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li><em>Even if you have never been paid
+                                                                                        for your skills before</em></li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <p>It doesn’t matter</p>
+                                                                            <p>What matters right now is your desire to
+                                                                                break out of your current financial
+                                                                                circumstance</p>
+                                                                            <p>And if you can 100% commit to the simple
+                                                                                steps laid out to you in the High Paid
+                                                                                Freelancer Premium Program</p>
+                                                                            <p>It won’t be long until you start seeing
+                                                                                results</p>
+                                                                            <p>and you realize that you have a
+                                                                                completely different life</p>
+                                                                            <p>A life that you can be proud of.</p>
+                                                                            <p>The reason I say this is because…</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-4f17c519 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="4f17c519" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>In the Last 12 months, I’ve helped 100’s
+                                                                                Of Regular Everyday people (with no
+                                                                                prior knowledge about freelancing) Make
+                                                                                Their first $1000, $2000, $5000+ By
+                                                                                Simply Working with Foreign Clients As
+                                                                                Freelancer In Nigeria</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-1625c86c elementor-widget elementor-widget-text-editor"
+                                                                    data-id="1625c86c" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>Most of them started with no experience
+                                                                            </p>
+                                                                            <p>or they were charging dirt cheap for
+                                                                                their work</p>
+                                                                            <p>But today they are making enough money
+                                                                            </p>
+                                                                            <p>To comfortably take care of themselves,
+                                                                                get what they need, and take care of
+                                                                                their loved ones</p>
+                                                                            <p>for example, take <strong>Segba
+                                                                                    Eseoghene</strong></p>
+                                                                            <p>Before she found me online she was just a
+                                                                                student looking to make money online</p>
+                                                                            <p>She was interested in writing and getting
+                                                                                paid but all she was earning was peanuts
+                                                                            </p>
+                                                                            <p>It was discouraging</p>
+                                                                            <p>In her words, her mom kept asking her
+                                                                                <strong>“when will this your writing
+                                                                                    stuff start paying?”</strong></p>
+                                                                            <p>She was frustrated</p>
+                                                                            <p>But she believed in herself</p>
+                                                                            <p>Soon after enrolled in the HPF premium
+                                                                                program</p>
+                                                                            <p>She got her first client on LinkedIn</p>
+                                                                            <p>that same week she got her second client
+                                                                                on Upwork</p>
+                                                                            <p>And it’s been steady progress from there
+                                                                            </p>
+                                                                            <p>The last time I spoke with her she was
+                                                                                making no less than #300,000 each month.
+                                                                            </p>
+                                                                            <p> </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-565ea380 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="565ea380" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a4b123a"
+                                data-id="1a4b123a" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-1d0b154f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="1d0b154f" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-572e0ec"
+                                                        data-id="572e0ec" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-131079e0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                                    data-id="131079e0" data-element_type="widget"
+                                                                    data-widget_type="divider.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-divider">
+                                                                            <span class="elementor-divider-separator">
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-22faa295 elementor-widget elementor-widget-image"
+                                                                    data-id="22faa295" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="214" height="300"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/6-214x300.jpg"
+                                                                                class="attachment-medium size-medium"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/6-214x300.jpg 214w, https://expertnaire.com/wp-content/uploads/2022/02/6.jpg 730w"
+                                                                                sizes="(max-width: 214px) 100vw, 214px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-5f2cd77d elementor-widget elementor-widget-text-editor"
+                                                                    data-id="5f2cd77d" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>Writer</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-615a5bc1 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="615a5bc1" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p><em>“Walter’s program is so in depth and
+                                                                                    it actually helps you get the best
+                                                                                    results unlike most courses around.
+                                                                                    It has helped me finally find my
+                                                                                    feet in the freelance world”</em>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-66b5f409 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="66b5f409" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>— Segba Esoghene</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-5ed647fb elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                                    data-id="5ed647fb" data-element_type="widget"
+                                                                    data-widget_type="divider.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-divider">
+                                                                            <span class="elementor-divider-separator">
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-41ff56a3 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="41ff56a3" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-425db2e2"
+                                data-id="425db2e2" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-3d3faad4 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="3d3faad4" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-11e8a813"
+                                                        data-id="11e8a813" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-7868deeb elementor-widget elementor-widget-text-editor"
+                                                                    data-id="7868deeb" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>Or take <strong>Samuel Kokumo</strong>
+                                                                            </p>
+                                                                            <p>He is one of the guys who enrolled for
+                                                                                the HPF premium program under the zero –
+                                                                                $2000 challenge.</p>
+                                                                            <p>Before he joined he used to work a 9-5
+                                                                                that paid him just 70,000 naira per
+                                                                                month</p>
+                                                                            <p>Combined with all the stress of moving
+                                                                                within Lagos traffic</p>
+                                                                            <p>He was fed up and was searching for how
+                                                                                to increase his earnings</p>
+                                                                            <p>So he took the program and in less than 2
+                                                                                months he made over $1600</p>
+                                                                            <p>For context, $1600 at today’s exchange
+                                                                                rate is <s>N</s>912,000</p>
+                                                                            <p>With his regular 9-5 job it would have
+                                                                                taken him over 1 year to make this
+                                                                                amount.</p>
+                                                                            <p>But he did in just 2 months working from
+                                                                                his phone in anyplace he desired.</p>
+                                                                            <p>The last time we spoke this year he was
+                                                                                making no less than $800 each month</p>
+                                                                            <p>which is around 400,000 naira</p>
+                                                                            <p>He can now afford to leave a more
+                                                                                comfortable lifestyle in which his
+                                                                                earnings are entirely within his control
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-418d1a1b elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                                    data-id="418d1a1b" data-element_type="widget"
+                                                                    data-widget_type="divider.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-divider">
+                                                                            <span class="elementor-divider-separator">
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-7ab0ff4d elementor-widget elementor-widget-image"
+                                                                    data-id="7ab0ff4d" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="296" height="300"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/7-296x300.jpg"
+                                                                                class="attachment-medium size-medium"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/7-296x300.jpg 296w, https://expertnaire.com/wp-content/uploads/2022/02/7-768x779.jpg 768w, https://expertnaire.com/wp-content/uploads/2022/02/7.jpg 1009w"
+                                                                                sizes="(max-width: 296px) 100vw, 296px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-57c3ca0 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="57c3ca0" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>Copywriter</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-5039b635 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="5039b635" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>“<em>Before I got into this program I was
+                                                                                    struggling to find high paying
+                                                                                    clients to work with and pay me to
+                                                                                    write. In less than 2 months after
+                                                                                    getting In I was able to make above
+                                                                                    $1500 which is more than 10times
+                                                                                    what my previous job paid me in 1
+                                                                                    month.”</em></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-749514ee elementor-widget elementor-widget-text-editor"
+                                                                    data-id="749514ee" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>— Samuel Kokumo</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-6c660e09 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                                    data-id="6c660e09" data-element_type="widget"
+                                                                    data-widget_type="divider.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-divider">
+                                                                            <span class="elementor-divider-separator">
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-17bcd8a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="17bcd8a1" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-63a1a9b3"
+                                data-id="63a1a9b3" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-7f4da77d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="7f4da77d" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f9e18dd"
+                                                        data-id="f9e18dd" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-484ead97 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="484ead97" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>But these guys are not alone</p>
+                                                                            <p>There’s another guy <strong>Bakre
+                                                                                    Faruq</strong></p>
+                                                                            <p>He does web design</p>
+                                                                            <p>He took the HPF premium program so he
+                                                                                could learn how to generate clients on
+                                                                                demand and charge more for his services
+                                                                            </p>
+                                                                            <p>His first client was priced at $1200</p>
+                                                                            <p>Not bad for someone who had just spent a
+                                                                                month and hasn’t gone</p>
+                                                                            <p>through the whole program</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-46d751b7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                                    data-id="46d751b7" data-element_type="widget"
+                                                                    data-widget_type="divider.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-divider">
+                                                                            <span class="elementor-divider-separator">
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-498641c elementor-widget elementor-widget-image"
+                                                                    data-id="498641c" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="150" height="148"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/8.jpg"
+                                                                                class="attachment-medium size-medium"
+                                                                                alt="" loading="lazy" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-50da2819 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="50da2819" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>Web Designer</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-495bfd4f elementor-widget elementor-widget-text-editor"
+                                                                    data-id="495bfd4f" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>“<em>The kind of clients i work with now
+                                                                                    pay me $1000 and above. Walter
+                                                                                    opened my eyes to the
+                                                                                    possibilities.”</em></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-46becaf7 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="46becaf7" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>— Bakre Faruq</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-330921ed elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                                    data-id="330921ed" data-element_type="widget"
+                                                                    data-widget_type="divider.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-divider">
+                                                                            <span class="elementor-divider-separator">
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-72a516b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="72a516b" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44cb0c3b"
+                                data-id="44cb0c3b" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-32afc4e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="32afc4e9" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3e7baf5f"
+                                                        data-id="3e7baf5f" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-6e035de9 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="6e035de9" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>There are hundreds more of these types of
+                                                                                results from my students</p>
+                                                                            <p>We could easily talk about
+                                                                                <strong>Frances</strong></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-726429c elementor-widget elementor-widget-text-editor"
+                                                                    data-id="726429c" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p><strong>She now makes no less than $1200
+                                                                                    every month as a virtual assistant
+                                                                                    For E-commerce companies</strong>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-27dc5fe0 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="27dc5fe0" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>Before she got into the program she was
+                                                                                earning peanuts as a virtual assistant
+                                                                            </p>
+                                                                            <p>Just in case you don’t know what a
+                                                                                virtual assistant is they perform
+                                                                                similar tasks to that of an office
+                                                                                secretary</p>
+                                                                            <p>She wanted to increase her earnings and
+                                                                                Using what was taught in the program she
+                                                                                now earns at least <s>N</s>600,000 every
+                                                                                month</p>
+                                                                            <p>There are very few secretaries who dream
+                                                                                of earning 600k+ monthly in Nigeria</p>
+                                                                            <p>Today Frances sometimes hires other
+                                                                                people to work for her when she gets
+                                                                                many gigs</p>
+                                                                            <p>It all started when she got into the
+                                                                                program and decided to put her head
+                                                                                down, learn and Implement.</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-7d30f27e elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                                    data-id="7d30f27e" data-element_type="widget"
+                                                                    data-widget_type="divider.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-divider">
+                                                                            <span class="elementor-divider-separator">
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-4ac4726b elementor-widget elementor-widget-image"
+                                                                    data-id="4ac4726b" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="150" height="150"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/8B.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-50a54f0f elementor-widget elementor-widget-text-editor"
+                                                                    data-id="50a54f0f" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>Virtual Assitant</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-4e33f622 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="4e33f622" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>“Prior to taking walter’s program i was
+                                                                                already building myself but his program
+                                                                                helped me see how best to utilize my
+                                                                                skills and work with top quality foreign
+                                                                                clients”</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-f97788a elementor-widget elementor-widget-text-editor"
+                                                                    data-id="f97788a" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>— Chizoba Frances Akupuome</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-4170a461 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                                    data-id="4170a461" data-element_type="widget"
+                                                                    data-widget_type="divider.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-divider">
+                                                                            <span class="elementor-divider-separator">
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-1a9a4c59 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="1a9a4c59" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-68dff6f9"
+                                data-id="68dff6f9" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-1660c1b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="1660c1b5" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1551bca6"
+                                                        data-id="1551bca6" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-37694984 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="37694984" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>One thing you may have noticed so far is
+                                                                                that</p>
+                                                                            <p>Most of these folks were just average
+                                                                                everyday Nigerians</p>
+                                                                            <p>They had not much knowledge about working
+                                                                                with foreign clients and getting paid in
+                                                                                dollars</p>
+                                                                            <p>So nothing out of the ordinary stood out
+                                                                                for these folks</p>
+                                                                            <p>They were just fed up of working for
+                                                                                peanuts…</p>
+                                                                            <p>And wanted a better life for themselves
+                                                                                (and their loved ones)</p>
+                                                                            <p>Then they found <em>The High</em>
+                                                                                <em>Paid Freelancer Premium
+                                                                                    program…</em></p>
+                                                                            <p>Took what they learned and put it to work
+                                                                            </p>
+                                                                            <p>Today they are earning amounts they never
+                                                                                believed was possible at such an early
+                                                                                stage in their freelance career</p>
+                                                                            <p>And you know what?</p>
+                                                                            <p>They are not alone…</p>
+                                                                            <p>Because you see these success stories
+                                                                                I’ve mentioned above?</p>
+                                                                            <p>They don’t even come close to scratching
+                                                                                the surface…</p>
+                                                                            <p>Of the 100s of testimonials …</p>
+                                                                            <p>From everyday Nigerians whose lives have
+                                                                                been transformed…</p>
+                                                                            <p>By the Information <strong><em>inside
+                                                                                        the</em></strong>
+                                                                                <strong><em>High Paid Freelancer Premium
+                                                                                        Program</em></strong></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-73ef0357 elementor-widget elementor-widget-image"
+                                                                    data-id="73ef0357" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="825" height="533"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/9.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/9.jpg 1024w, https://expertnaire.com/wp-content/uploads/2022/02/9-300x194.jpg 300w, https://expertnaire.com/wp-content/uploads/2022/02/9-768x497.jpg 768w"
+                                                                                sizes="(max-width: 825px) 100vw, 825px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-77b32c6e elementor-widget elementor-widget-text-editor"
+                                                                    data-id="77b32c6e" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$5000 GIG</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-3e1f5ef9 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="3e1f5ef9" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1192a29b"
+                                data-id="1192a29b" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-3a4f07d0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="3a4f07d0" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-576c1015"
+                                                        data-id="576c1015" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-613ed0cb elementor-widget elementor-widget-image"
+                                                                    data-id="613ed0cb" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="472" height="1024"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/10.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/10.jpg 472w, https://expertnaire.com/wp-content/uploads/2022/02/10-138x300.jpg 138w"
+                                                                                sizes="(max-width: 472px) 100vw, 472px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-6340f9e7 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="6340f9e7" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$12/hour X 30hours weekly (That’s
+                                                                                $1440/month) Writing gig</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-459b9106 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="459b9106" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-50767711"
+                                                        data-id="50767711" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-159165c7 elementor-widget elementor-widget-image"
+                                                                    data-id="159165c7" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="825" height="342"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/11.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/11.jpg 1024w, https://expertnaire.com/wp-content/uploads/2022/02/11-300x125.jpg 300w, https://expertnaire.com/wp-content/uploads/2022/02/11-768x319.jpg 768w"
+                                                                                sizes="(max-width: 825px) 100vw, 825px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-2262d0bc elementor-widget elementor-widget-text-editor"
+                                                                    data-id="2262d0bc" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$1500 For Organizing A Database</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-7e1cba25 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="7e1cba25" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-196e9855"
+                                                        data-id="196e9855" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-175e24 elementor-widget elementor-widget-image"
+                                                                    data-id="175e24" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="591" height="755"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/12.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/12.jpg 591w, https://expertnaire.com/wp-content/uploads/2022/02/12-235x300.jpg 235w"
+                                                                                sizes="(max-width: 591px) 100vw, 591px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-520ff6fe elementor-widget elementor-widget-text-editor"
+                                                                    data-id="520ff6fe" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$1600 Through Copywriting</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-78d44b7c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="78d44b7c" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2fc55d68"
+                                data-id="2fc55d68" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <div class="elementor-element elementor-element-3d942d30 elementor-widget elementor-widget-text-editor"
+                                            data-id="3d942d30" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>There are 100’s more of these types of results (and if you want
+                                                        to see them simply scroll down)</p>
+                                                    <p>But rather than keep showing you more testimonials I’d rather cut
+                                                        to the chase.</p>
+                                                    <p>If you are interested in having the monthly income and lifestyle
+                                                        freedom that comes with being a High Paid Freelancer</p>
+                                                    <p>I’m confident I can help you</p>
+                                                    <p>In a minute I will explain to you what freelancing is</p>
+                                                    <p>what type of jobs you will be doing</p>
+                                                    <p><em>Why it is so lucrative</em></p>
+                                                    <p><em>What type of skill you’ll need</em></p>
+                                                    <p><em>Where to find foreign clients to work with</em>…</p>
+                                                    <p>And how you can take your very first step today</p>
+                                                    <p>On the path to becoming a High Paid Freelancer</p>
+                                                    <p>So you can start making just enough money to live your life as
+                                                        you want it</p>
+                                                    <p><span style="color: #000000;"><strong>As well as being
+                                                                comfortable enough to support your loved ones anytime
+                                                                the need arises.</strong></span></p>
+                                                    <p>But first</p>
+                                                    <p>Let me introduce myself.</p>
+                                                    <p>My name is <strong>Walter Enyinnaya</strong></p>
+                                                    <p>And I’m fortunate enough to be considered one of the best
+                                                        freelancers in Nigeria Today…</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-64c5ba85 elementor-widget elementor-widget-image"
+                                            data-id="64c5ba85" data-element_type="widget"
+                                            data-widget_type="image.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-image">
+                                                    <img width="825" height="831"
+                                                        src="https://expertnaire.com/wp-content/uploads/2022/02/15.jpg"
+                                                        class="attachment-large size-large" alt="" loading="lazy"
+                                                        srcset="https://expertnaire.com/wp-content/uploads/2022/02/15.jpg 1016w, https://expertnaire.com/wp-content/uploads/2022/02/15-298x300.jpg 298w, https://expertnaire.com/wp-content/uploads/2022/02/15-150x150.jpg 150w, https://expertnaire.com/wp-content/uploads/2022/02/15-768x774.jpg 768w"
+                                                        sizes="(max-width: 825px) 100vw, 825px" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-1c51057e elementor-widget elementor-widget-text-editor"
+                                            data-id="1c51057e" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>My Upwork profile</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-315c707a elementor-widget elementor-widget-text-editor"
+                                            data-id="315c707a" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>I’ve made some really cool thousands of dollars for myself,
+                                                        clients, and students.</p>
+                                                    <p>But you see…</p>
+                                                    <p>It wasn’t always like this</p>
+                                                    <p>Back in 2018, I was just a broke university student</p>
+                                                    <p>At this time I was living on <s>N</s>4000/month (most times less)
+                                                    </p>
+                                                    <p>with this little amount, i found it difficult to focus in school
+                                                    </p>
+                                                    <p>Eventually, I had to drop out of school because of a lack of
+                                                        funds <em>(this is one reason I say anyone can succeed at
+                                                            this)</em></p>
+                                                    <p>During this time everyone thought<strong> I was going to be a
+                                                            failure and kept asking me what I plan to do with my
+                                                            life</strong></p>
+                                                    <p>So you can understand how desperately I wanted to succeed</p>
+                                                    <p>I started looking for what to do to make money online legally</p>
+                                                    <p>That’s when I came across copywriting and how you can use it as a
+                                                        freelance skill to earn thousand of dollars</p>
+                                                    <p>I dived in and got to work and soon I got my first 3 clients</p>
+                                                    <p>They were all Nigerians and were paying me 10,000 naira to write
+                                                        copy for their products and manage their social media accounts.
+                                                    </p>
+                                                    <p>It was hell!</p>
+                                                    <p>I was doing so much work for so little pay so I wasn’t surprised
+                                                        when I burnt out.</p>
+                                                    <p>After this knew I had to find something better</p>
+                                                    <p>This wasn’t the thousands of dollars I was told copywriters
+                                                        earned and 30,000naira monthly was barely enough to live a
+                                                        comfortable life</p>
+                                                    <p>This was when I decided to work with only foreigners</p>
+                                                    <p>I made a lot of mistakes down this path but I was finally able to
+                                                        land my first High paying client who paid me $1000 (360,000
+                                                        naira then)</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-5160ebd9 elementor-widget elementor-widget-text-editor"
+                                            data-id="5160ebd9" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p><strong>$1000 for a single project? that’s was my 1-year salary
+                                                            on a single project!!!</strong></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-5f30a04d elementor-widget elementor-widget-text-editor"
+                                            data-id="5f30a04d" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>After this, I knew there was no going back and since then it’s
+                                                        been an upward journey</p>
+                                                    <p>These days I work with just 1-3 clients at a time who pay me
+                                                        anywhere from $1000- $5000 each (this can be you too if you
+                                                        follow the steps I’m about to<em> show you)</em></p>
+                                                    <p>By now you might already be asking…</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-657b73f3 elementor-widget elementor-widget-text-editor"
+                                            data-id="657b73f3" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p><strong>What Is Freelancing And How Does It Work?</strong></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-3039f085 elementor-widget elementor-widget-text-editor"
+                                            data-id="3039f085" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>I’d like to assume you already know what freelancing is or at
+                                                        least you’ve heard of it.</p>
+                                                    <p>But if you haven’t, kindly permit me to explain it to you briefly
+                                                    </p>
+                                                    <p>So you can know<strong> How It Works &amp; How You Can Make Money
+                                                            From It</strong></p>
+                                                    <p> </p>
+                                                    <p>A freelancer is someone who doesn’t work for one specific company
+                                                        but a lot of them</p>
+                                                    <p>By doing this you are not limited to one company’s work and can
+                                                        set your price to <strong><em>how high or low you wish to be
+                                                                paid</em></strong></p>
+                                                    <p>Since you can choose who you work with.</p>
+                                                    <p>You can either be a Nigerian freelancer working for Nigerian
+                                                        clients and earning peanuts</p>
+                                                    <p>Or Be A Nigerian Freelancer who works with foreign
+                                                        clients/companies</p>
+                                                    <p>I’m talking about clients in first world countries like the USA,
+                                                        Canada, Australia, New Zealand, etc</p>
+                                                    <p>And don’t worry you won’t be scamming, spamming, or disturbing
+                                                        anyone.</p>
+                                                    <p>All you’ll be doing is offering skills and services that are high
+                                                        in demand to people who need them.</p>
+                                                    <p>Imagine getting paid just $1000 just to write</p>
+                                                    <p>That’s over <s>N</s>560,000 for a single project</p>
+                                                    <p>Most Nigerian clients won’t even pay you up to <s>N</s>50,000 for
+                                                        that</p>
+                                                    <p>This is the advantage you have as a High Paid Freelancer</p>
+                                                    <p>Knowing this you can decide to work with 3 clients at $1000 each
+                                                        month, that’s $3000/month</p>
+                                                    <p>Waay more money for doing less work</p>
+                                                    <p>And even if you don’t like the idea of working with multiple
+                                                        people you can find a company that will pay you between $1000
+                                                        -$10,000 monthly.</p>
+                                                    <p>Or maybe you are the laziest person on earth…</p>
+                                                    <p>you can still make $500/month and that’s over 270,000naira</p>
+                                                    <p>every month as a beginner.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-15d58412 elementor-widget elementor-widget-text-editor"
+                                            data-id="15d58412" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p><strong>The Best Part IS…</strong></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-724a49ea elementor-widget elementor-widget-text-editor"
+                                            data-id="724a49ea" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>You can do your work from anywhere…</p>
+                                                    <ul>
+                                                        <li>From your house</li>
+                                                    </ul>
+                                                    <ul>
+                                                        <li>From your hostel</li>
+                                                    </ul>
+                                                    <ul>
+                                                        <li>From your friends house</li>
+                                                    </ul>
+                                                    <ul>
+                                                        <li>From a restaurant</li>
+                                                    </ul>
+                                                    <p>And so on</p>
+                                                    <p>Where you are working from doesn’t matter./</p>
+                                                    <p>So long as you are providing value to your clients and helping
+                                                        their businesses solve a problem.</p>
+                                                    <p>That’s all that matters</p>
+                                                    <p><strong>Plus…</strong></p>
+                                                    <p>You don’t even have to work round the clock</p>
+                                                    <p>In most cases and depending on your client’s needs you can choose
+                                                        to work only in hours where you are free and feel most
+                                                        productive</p>
+                                                    <p>This can either be in the morning</p>
+                                                    <p>Evening</p>
+                                                    <p>or like a regular 9-5 from the comfort of your home</p>
+                                                    <p>But…</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-40d7e634 elementor-widget elementor-widget-text-editor"
+                                            data-id="40d7e634" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p class="has-text-align-center"><strong>Where Do I Find Foreign
+                                                            Clients To Work With</strong>?</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-76b75674 elementor-widget elementor-widget-text-editor"
+                                            data-id="76b75674" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>That won’t be a problem as there is always going to be an
+                                                        abundance of clients</p>
+                                                    <p>You can get them on freelance platforms like Upwork, Fiverr, etc
+                                                    </p>
+                                                    <p>or social media channels like LinkedIn, Facebook, Twitter, etc
+                                                    </p>
+                                                    <p><em>I will be showing you how to get clients on these platforms
+                                                            briefly</em></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-1d7e1731 elementor-widget elementor-widget-text-editor"
+                                            data-id="1d7e1731" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>But first I want you to know</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-57372109 elementor-widget elementor-widget-text-editor"
+                                            data-id="57372109" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>To become a high paid freelancer who earns upwards of $2,000
+                                                        monthly working from the comfort of their home</p>
+                                                    <p>Living comfortably and being able to take care of your needs and
+                                                        that of your loved ones</p>
+                                                    <p>You’ll need to be willing to put in the work.</p>
+                                                    <p><strong>Yes, you’ll have to work hard</strong></p>
+                                                    <p>If you can’t do that then I don’t want you in my program</p>
+                                                    <p>Even if you are a busy person so long as you can set aside 2
+                                                        hours each day</p>
+                                                    <p>You can achieve amazing results that you’ll be proud of.</p>
+                                                    <p>But you have to be willing to put in the work for these 2 hours
+                                                    </p>
+                                                    <p>Understand what I’m saying?</p>
+                                                    <p>Yeah?</p>
+                                                    <p>Great if you understand and wish to proceed</p>
+                                                    <p>Then I’d like to Invite you to</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-3e7af10d elementor-widget elementor-widget-text-editor"
+                                            data-id="3e7af10d" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p><strong>The High Paid Freelancer Premium Program</strong></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-5bd40312 elementor-widget elementor-widget-text-editor"
+                                            data-id="5bd40312" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>I started the HPF premium program originally in August 2021</p>
+                                                    <p>To help freelancers and complete newbies land more foreign
+                                                        clients and charge more for their work</p>
+                                                    <p>So they can make more money overall.</p>
+                                                    <p>Between August 2021 and December my students were able to close…
+                                                    </p>
+                                                    <p><strong>A total of $171,500 in gigs working for foreign</strong>
+                                                        <strong>clients (with results and proof)</strong></p>
+                                                    <p>Impressed with the results that this program was getting for
+                                                        everyday Nigerians</p>
+                                                    <p>I saw the need to make it even more valuable</p>
+                                                    <p>So that more people can benefit from this</p>
+                                                    <p>Which birthed <strong>The High Paid Freelancer Premium Program
+                                                            2022 edition</strong></p>
+                                                    <p>And so far it has been doing great</p>
+                                                    <p>As of January when I’m writing this to you they’ve closed over
+                                                        $40,000 collectively on gigs</p>
+                                                    <p>Working for foreign clients</p>
+                                                    <p>From the comfort of their home</p>
+                                                    <p>Through the phone or laptop</p>
+                                                    <p>You too can be part of them if pay attention to what I’m about to
+                                                        share with you</p>
+                                                    <p>To help you decide if this is for you…</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-49cff7bc elementor-widget elementor-widget-text-editor"
+                                            data-id="49cff7bc" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    Here’s what you’ll get as a new member of the High Paid Freelancer
+                                                    Premium Program </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-378fdfc elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="378fdfc" data-element_type="section"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3bda83d7"
+                                data-id="3bda83d7" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-5e068995 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="5e068995" data-element_type="section"
+                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1ddf216b"
+                                                        data-id="1ddf216b" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-38f73f20 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="38f73f20" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p
+                                                                                class="has-text-align-center has-huge-font-size">
+                                                                                <strong>Section Number #1</strong></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-5539baa5 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="5539baa5" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p class="has-text-align-center">
+                                                                                <strong>Beginner-friendly Upwork Mastery
+                                                                                    Course That’s designed to take you
+                                                                                    from 0- $6000 In 4 months</strong>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-2946689d elementor-widget elementor-widget-text-editor"
+                                                                    data-id="2946689d" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            Just as it has done for some of my students
+                                                                            Inside you’ll find Information broken down
+                                                                            to the simplest bits so that even a complete
+                                                                            beginner can understand how to go about it.
+                                                                            Here’s a glimpse of what you’ll learn:
+                                                                            <ul>
+                                                                                <li><strong>How To set up your Upwork
+                                                                                        account so you get approved
+                                                                                        Instantly</strong> ( upwork
+                                                                                    doesn’t just allow anyone on their
+                                                                                    platform and I will be showing you
+                                                                                    how to get through)</li>
+                                                                            </ul> <br>
+                                                                            <ul>
+                                                                                <li>The correct way to set up your
+                                                                                    upwork profile so that the
+                                                                                    <strong>Upwork algorithm notices it
+                                                                                        and your prospects are wowed
+                                                                                    </strong>(doing this properly will
+                                                                                    get you more job invites so you have
+                                                                                    to spend less time seeking out
+                                                                                    clients)</li>
+                                                                            </ul><br>
+                                                                            <ul>
+                                                                                <li><strong>Client Vetting
+                                                                                        Process</strong> How to spot a
+                                                                                    potential high paying client that
+                                                                                    pays you well for your services
+                                                                                    (admist all cheap on upwork) So you
+                                                                                    can be intentional about making more
+                                                                                    money in less time</li>
+                                                                            </ul> <br>
+                                                                            <ul>
+                                                                                <li><strong>The right way to write Job
+                                                                                        winning proposals so you can
+                                                                                        stand out from your
+                                                                                        competition</strong> (Avoid
+                                                                                    common mistakes that most
+                                                                                    freelancers make)</li>
+                                                                            </ul> <br>
+                                                                            <ul>
+                                                                                <li><strong>How to handle Interviews on
+                                                                                        Upwork without panicking or
+                                                                                        sabotaging yourself</strong>
+                                                                                    (This is key to negotiating better
+                                                                                    pay and making more money for your
+                                                                                    work)</li>
+                                                                            </ul> <br>
+                                                                            And so much more <br>
+                                                                            <br>You’ll be walked through the process
+                                                                            step by step so you can maximize what you
+                                                                            want out of Upwork
+                                                                            So you can close better jobs and more
+                                                                            retainers
+                                                                            What you’ll learn in this module can make
+                                                                            you $1000 every month if you act on it.
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-4c6efeed elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="4c6efeed" data-element_type="section"
+                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6c31f1ce"
+                                                        data-id="6c31f1ce" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-32e7d061 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="32e7d061" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p
+                                                                                class="has-text-align-center has-huge-font-size">
+                                                                                <strong>Section Number#2</strong></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-6505ec88 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="6505ec88" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p class="has-text-align-center"><span
+                                                                                    style="color: #e40101;"><strong>The
+                                                                                        Linkedin Outbound Client
+                                                                                        Acquisition Masterclass: How
+                                                                                        anyone can find and close high
+                                                                                        paying clients on LinkedIn
+                                                                                        without relying on
+                                                                                        luck</strong></span></p>
+                                                                            Linkedin is a goldmine of high paying
+                                                                            clients
+                                                                            This is because it is a business platform so
+                                                                            if you play your cards right you can make a
+                                                                            fortune every month
+                                                                            I will be showing you how to play your cards
+                                                                            right
+                                                                            In this section you’ll learn :
+                                                                            <ul>
+                                                                                <li><strong>Cold messaging
+                                                                                        techniques:</strong> How to
+                                                                                    properly reach out to Ceo’s,
+                                                                                    founders, recuiters or anyone in a
+                                                                                    place of authority. To get your foot
+                                                                                    in the door and work with them.</li>
+                                                                            </ul> <br>
+                                                                            <ul>
+                                                                                <li><strong>How to set up a Linkedin
+                                                                                        Profile that stands out:
+                                                                                    </strong>This module will teach you
+                                                                                    how to set up ypue linkedin profile
+                                                                                    so recuoiters can contact you and
+                                                                                    you can easily get your connection
+                                                                                    requests accepted because you have
+                                                                                    leverage</li>
+                                                                            </ul> <br>
+                                                                            <ul>
+                                                                                <li>How to scout, find and pitch
+                                                                                    companies in need of your work.
+                                                                                    <strong>(with a full template of
+                                                                                        conversation starters so you
+                                                                                        arent confused on what to
+                                                                                        say)</strong></li>
+                                                                            </ul> <br>
+                                                                            <ul>
+                                                                                <li>How to craft and submit responsive
+                                                                                    resumes’ t<strong>hat get your
+                                                                                        interviews and jobs</strong>
+                                                                                </li> <br>
+                                                                                <li>And more</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-1c933a6a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="1c933a6a" data-element_type="section"
+                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-eb704d0"
+                                                        data-id="eb704d0" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-2f5bc5c8 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="2f5bc5c8" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p
+                                                                                class="has-text-align-center has-huge-font-size">
+                                                                                <strong>Section Number #3</strong></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-1da057c0 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="1da057c0" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p class="has-text-align-center"><span
+                                                                                    style="color: #e40101;"><strong>The
+                                                                                        Facebook Client Acquisition
+                                                                                        System</strong></span></p>
+                                                                            <p class="has-text-align-center">How to find
+                                                                                more clients than you’ll ever need on
+                                                                                Facebook without spending a dime</p>
+                                                                            <p>In this section, you’ll learn very
+                                                                                beginner-friendly methods to acquiring
+                                                                                clients on Facebook</p>
+                                                                            <p>You’ll get stuffs like</p>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>A list of Highly profitable
+                                                                                            facebook groups that you can
+                                                                                            join and pitch( no need for
+                                                                                            you struggle all by yourself
+                                                                                            this will sort it out for
+                                                                                            you)</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>How to set up your facebook
+                                                                                            profile as freelancer</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>How to find Ready To Hire
+                                                                                            Clients On Facebook</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>How To Find Businesses To
+                                                                                            Offer your services on
+                                                                                            Facebook</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>How to use facebook groups
+                                                                                            to your advantage</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>How to attract prospects to
+                                                                                            your timeline and close them
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li><span
+                                                                                                style="color: #000000;"><strong>And
+                                                                                                    so much
+                                                                                                    more</strong></span>
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <p>With everything mentioned above, you can
+                                                                                already see your clear path to making at
+                                                                                least $2000 each month</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-21f37585 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="21f37585" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-40c80eb5"
+                                data-id="40c80eb5" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-30958caf elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="30958caf" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5c527fc9"
+                                                        data-id="5c527fc9" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-2b91c967 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="2b91c967" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>But…</p>
+                                                                            <p
+                                                                                class="has-text-align-center has-large-font-size">
+                                                                                <span style="color: #000000;">I don’t
+                                                                                    want you to get into this program
+                                                                                    and not implement because you don’t
+                                                                                    have a skill yet</span></p>
+                                                                            <p>So what I’ve done is I have put
+                                                                                together<strong> 5 High-Income
+                                                                                    Skills</strong> That makes it easier
+                                                                                for you to achieve your goals</p>
+                                                                            <p>These skills are in<strong> High Demand
+                                                                                    and they get paid thousands of
+                                                                                    dollars</strong></p>
+                                                                            <p>All you’ve to do is pick one dedicated
+                                                                                some time to learning them to a
+                                                                                competent level before you start
+                                                                                pitching clients</p>
+                                                                            <p>The first skill you’ll get is</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-171f73c4 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="171f73c4" data-element_type="section"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-13184390"
+                                data-id="13184390" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-6f72a47d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="6f72a47d" data-element_type="section"
+                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-60146a87"
+                                                        data-id="60146a87" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-28a44931 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="28a44931" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-large-font-size">
+                                                                                <span style="color: #e40101;"><strong>High-Income
+                                                                                        Skill Number #1</strong>:</span>
+                                                                            </p>
+                                                                            <p class="has-text-align-center"><strong>The
+                                                                                    Kickass Copywriting Course: How to
+                                                                                    write copy as a beginner that will
+                                                                                    get you more sales, clients, and
+                                                                                    money than you can ever
+                                                                                    imagine</strong></p>
+                                                                            <p>Here’s a glimpse of what you’ll get
+                                                                                inside The Kickass Copywriting Course :
+                                                                            </p>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>How to write clear and
+                                                                                            concise copy (The Basics)
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>My step by step process of
+                                                                                            deep market research before
+                                                                                            i write any piece of copy
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>The<strong> BIG IDEA
+                                                                                            </strong>copywriting process
+                                                                                            ( How to come up with a big
+                                                                                            idea for your copy)</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>4 Major formulas for
+                                                                                            creating great headlines
+                                                                                            (Plus 10,000 samples)</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>The 6 most profitable niches
+                                                                                            you can dive into as a
+                                                                                            newbie copywriter and start
+                                                                                            making a lot of money</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>A detailed breakdown of
+                                                                                            writing email copy, Facebook
+                                                                                            ads, Video sales letters
+                                                                                            &amp; Sales letters</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>A modern collection of
+                                                                                            winning direct response
+                                                                                            copywriting samples</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>A step by step guide to
+                                                                                            creating your a sales funnel
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>How to craft a sales letter
+                                                                                            so compelling your clients
+                                                                                            worship you</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>and more</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <p>When you combine this with the
+                                                                                high-paying clients’ acquisition secrets
+                                                                                I teach in the other sections,
+                                                                                <strong>you will become
+                                                                                    unstoppable!!!</strong></p>
+                                                                            <p>you will now be able to…</p>
+                                                                            <p><span style="color: #e40101;"><em><strong>
+                                                                                            <br /><br /><span
+                                                                                                style="color: #000000;">Unleash
+                                                                                                The Money Generating
+                                                                                                Power Trapped In Those
+                                                                                                Fingers Of Yours…… And
+                                                                                                Never Again Will You
+                                                                                                Have To Worry About Your
+                                                                                                Financial
+                                                                                                Future</span><br /><br /></strong></em></span>
+                                                                            </p>
+                                                                            <p>But that’s not all</p>
+                                                                            <p>The 2nd High-Income skill you’ll learn
+                                                                                from me is</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-64475c5b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="64475c5b" data-element_type="section"
+                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-40e30d1"
+                                                        data-id="40e30d1" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-7e1e9187 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="7e1e9187" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-large-font-size">
+                                                                                <span style="color: #e40101;"><strong>High-Income
+                                                                                        Skill Number #2</strong></span>
+                                                                            </p>
+                                                                            <p class="has-text-align-center"><strong>The
+                                                                                    Content writing And Content
+                                                                                    Marketing Crash Course Learn how to
+                                                                                    Create &amp; Write Simple content
+                                                                                    that goes Viral For
+                                                                                    Businesses</strong></p>
+                                                                            Writing is one skill that will always be in
+                                                                            high demand till the end of time
+                                                                            In this course, I teach you how to write
+                                                                            compelling Search Engine Optimized Content
+                                                                            For brands and businesses
+                                                                            Inside you’ll learn…
+                                                                            <ul>
+                                                                                <li>How to write engaging content that
+                                                                                    impress business owners</li> <br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>Basics of SEO and how to incorporate
+                                                                                    in your writing</li><br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>How to use write SEO optimized
+                                                                                    content</li><br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>How to structure a content calendar
+                                                                                    for businesses</li><br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>The Beginners guide to writing blog
+                                                                                    posts</li><br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>The Beginners guide to writing
+                                                                                    social media posts</li><br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>The Beginners guide to writing
+                                                                                    emails</li><br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>Common writing styles and how you
+                                                                                    can leverage them</li><br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>Bonus resources to set you on the
+                                                                                    right path and get certifications
+                                                                                </li><br>
+                                                                            </ul>
+                                                                            And more<br>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-4a71ed6 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="4a71ed6" data-element_type="section"
+                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-761c7aeb"
+                                                        data-id="761c7aeb" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-3b5e9c56 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="3b5e9c56" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-large-font-size">
+                                                                                <span style="color: #e40101;"><strong>High-Income
+                                                                                        Skill#3</strong></span></p>
+                                                                            <p class="has-text-align-center">
+                                                                                <strong>Full Stack Digital Marketing
+                                                                                    Course</strong></p>
+                                                                            One of the fastest ways to stay relevant in
+                                                                            today’s world is to have an Idea of what
+                                                                            digital marketing is and how it works
+                                                                            However, this course doesn’t just give you
+                                                                            an idea of what digital marketing is
+                                                                            It gives you Full Knowlege of every aspect
+                                                                            in regards to digital marketing
+                                                                            Keep your seatbelts tight because you’ll be
+                                                                            learning things like:
+                                                                            <ul>
+                                                                                <li>Brand identity and how to build it
+                                                                                </li> <br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>Email Marketing For Beginners and
+                                                                                    pros</li> <br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>Social media marketing</li> <br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>Twitter marketing</li>
+                                                                            </ul> <br>
+                                                                            <ul>
+                                                                                <li>Facebook marketing</li> <br>
+                                                                            </ul>
+                                                                            <ul>
+                                                                                <li>Youtube marketing</li>
+                                                                            </ul> <br>
+                                                                            <ul>
+                                                                                <li>Video marketing</li>
+                                                                            </ul> <br>
+                                                                            <ul>
+                                                                                <li>And more</li>
+                                                                            </ul><br>
+                                                                            All beginner-friendly and super In-depth you
+                                                                            can’t go wrong with this course.
+                                                                            <br><br>The 4th High-Income skill you’ll
+                                                                            learn is:
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-800ad8 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="800ad8" data-element_type="section"
+                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4257e795"
+                                                        data-id="4257e795" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-d5f14c0 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="d5f14c0" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-large-font-size">
+                                                                                <span style="color: #e40101;"><strong>High-Income
+                                                                                        Skill Number #4</strong></span>
+                                                                            </p>
+                                                                            <p class="has-text-align-center">
+                                                                                <strong>Social Media Marketing School:
+                                                                                    How anyone can use the power of
+                                                                                    social media marketing to get
+                                                                                    clients and build
+                                                                                    businesses</strong></p>
+                                                                            Inside you’ll learn
+                                                                            <ul><br>
+                                                                                <li>Introduction to social media
+                                                                                    marketing for beginners</li>
+                                                                            </ul><br>
+                                                                            <ul>
+                                                                                <li>How to get your first social media
+                                                                                    marketing client</li>
+                                                                            </ul><br>
+                                                                            <ul>
+                                                                                <li>How to get kickass results for your
+                                                                                    clients</li>
+                                                                            </ul><br>
+                                                                            <ul>
+                                                                                <li>How to get your first social media
+                                                                                    marketing client when you have no
+                                                                                    result yet</li>
+                                                                            </ul><br>
+                                                                            <ul>
+                                                                                <li>And more</li> <br>
+                                                                            </ul>
+                                                                            When you go through this and implement
+                                                                            Let’s just say <strong><em>finding clients
+                                                                                    for your social media marketing and
+                                                                                    getting results will not be a
+                                                                                    problem</em></strong>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-75a45c80 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="75a45c80" data-element_type="section"
+                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1cdb49b8"
+                                                        data-id="1cdb49b8" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-328fc140 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="328fc140" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-large-font-size">
+                                                                                <span style="color: #e40101;"><strong>High-Income
+                                                                                        Skill Number#5</strong></span>
+                                                                            </p>
+                                                                            <p class="has-text-align-center">
+                                                                                <strong>Ui/Ux Design Design for
+                                                                                    beginners</strong></p>
+                                                                            <p>If you are into a graphics design or web
+                                                                                design then this will interest you</p>
+                                                                            <p>I always recommend this course for
+                                                                                Graphics designers in the HPF premium
+                                                                                program who want to upskill</p>
+                                                                            <p>0r…</p>
+                                                                            <p>Maybe you are a complete newbie looking
+                                                                                to learn design</p>
+                                                                            <p>This will be of help to you</p>
+                                                                            <p>Here’s a glimpse of what you’ll learn
+                                                                                inside</p>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>How to design products from
+                                                                                            scratch</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>User interface Vs User
+                                                                                            experience</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>Quick keys for fast workflow
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>Figma organization</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>Color picking methods</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>Strutural vs Interactive
+                                                                                            colors</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li style="list-style-type: none;">
+                                                                                    <ul>
+                                                                                        <li>Pricing and getting work as
+                                                                                            Ui/Ix designer</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <p>And so much more inside <br /><br /></p>
+                                                                            <p>With all of this knowledge and skills at
+                                                                                your fingertips, you can now become</p>
+                                                                            <p>A modern Day Money Making Machine
+                                                                                Freelancer</p>
+                                                                            <p>Who earns upwards of $2000/ month from
+                                                                                the comfort of their home</p>
+                                                                            <p>But that’s not all yet I still have <span
+                                                                                    style="color: #ff0000;">some bonuses
+                                                                                    to give to you today when you join
+                                                                                    the High Paid Freelancer Premium
+                                                                                    Program Today </span></p>
+                                                                            <p><br />The first bonus you’ll be getting
+                                                                                is</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-54c9c490 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="54c9c490" data-element_type="section"
+                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2977c8cf"
+                                                        data-id="2977c8cf" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-4dcbd89b elementor-widget elementor-widget-text-editor"
+                                                                    data-id="4dcbd89b" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-huge-font-size">
+                                                                                <span style="color: #e40101;"><strong>Free
+                                                                                        Bonus Resource
+                                                                                        #1</strong></span></p>
+                                                                            <p class="has-text-align-center">
+                                                                                <strong>Full Access To The Members Area
+                                                                                    So You Can Ask Questions, Get In
+                                                                                    Touch With ME And Have Companions On
+                                                                                    your Journey</strong></p>
+                                                                            <p>One of the things that help people
+                                                                                accelerate their growth is having a
+                                                                                community of like-minded individuals.
+                                                                            </p>
+                                                                            <p>With this, you’ll never be stuck as
+                                                                                you’ll always have the information you
+                                                                                need.</p>
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-huge-font-size">
+                                                                                <span
+                                                                                    style="color: #e40101;"><strong><br />Free</strong>
+                                                                                    <strong>Bonus Resource
+                                                                                        #2</strong></span></p>
+                                                                            <p class="has-text-align-center"><strong>How
+                                                                                    To Get Your First Client In 2 weeks
+                                                                                    Or Less (Short Video)</strong></p>
+                                                                            <p>I put together a short video on what
+                                                                                exactly I would do if I needed to get my
+                                                                                first client in a maximum of 2 weeks.
+                                                                            </p>
+                                                                            <p>This works for both beginners and those
+                                                                                who have some experience</p>
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-huge-font-size">
+                                                                                <span style="color: #e40101;"><strong><br />Free
+                                                                                        Bonus Resource
+                                                                                        #3</strong></span></p>
+                                                                            <p class="has-text-align-center">
+                                                                                <strong>Access Periodic Meetings and
+                                                                                    Masterminds To help Find Your Feet
+                                                                                    Faster</strong></p>
+                                                                            <p>From time to time I host private meetings
+                                                                                exclusive to members of the High Paid
+                                                                                Freelancer Premium Program</p>
+                                                                            <p>You’ll get access to this and all
+                                                                                recordings even if you missed them or
+                                                                                you weren’t a member yet.</p>
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-huge-font-size">
+                                                                                <span style="color: #e40101;"><strong><br />Free
+                                                                                        Bonus Resource
+                                                                                        #4</strong></span></p>
+                                                                            <p class="has-text-align-center">
+                                                                                <strong>Closers Secrets</strong>
+                                                                                <strong>&amp; How To Close</strong>
+                                                                                <strong>More Deals By Asking The Right
+                                                                                    Questions</strong></p>
+                                                                            <p>Full Pdf on how you can learn to handle
+                                                                                sales calls, Interviews, and close
+                                                                                clients like an expert in any industry.
+                                                                            </p>
+                                                                            <p>These are secrets I wish I knew when I
+                                                                                was starting out.</p>
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-huge-font-size">
+                                                                                <span style="color: #e40101;"><strong><br />Free
+                                                                                        Bonus Resource
+                                                                                        #5</strong></span></p>
+                                                                            <p class="has-text-align-center"><strong>The
+                                                                                    Zero – $2000 Challenge</strong></p>
+                                                                            <p>This challenge was created to motivate my
+                                                                                students to reach $2000/month</p>
+                                                                            <p>Since its creation, lots of the HPF
+                                                                                premium program members have achieved
+                                                                                and passed these benchmarks thanks to
+                                                                                everything contained in it</p>
+                                                                            <p>When you get the HPF premium program
+                                                                                today..</p>
+                                                                            <p>You get full access to everything
+                                                                                Including the Benefits</p>
+                                                                            <p>For free</p>
+                                                                            <p>It’s yours to keep forever</p>
+                                                                            <p
+                                                                                class="has-text-align-center has-text-color has-huge-font-size">
+                                                                                <span style="color: #e40101;"><strong><br />Free
+                                                                                        Bonus Resource
+                                                                                        #6</strong></span></p>
+                                                                            <p class="has-text-align-center"><strong>3
+                                                                                    Payment Methods To Receive Your
+                                                                                    Money</strong></p>
+                                                                            <p>Once you start implementing what you’ve
+                                                                                learned from the program</p>
+                                                                            <p>You are going to start earning fast
+                                                                                (probably) and you’ll need a good
+                                                                                payment method to receive your money
+                                                                                from all over the world.</p>
+                                                                            <p>This method lets you receive your money
+                                                                                at a High Exchange Rate so not much is
+                                                                                lost in conversions</p>
+                                                                            <p>I have created A Pdf And Video That Will
+                                                                                Walk YouStep by Step Through It.</p>
+                                                                            <p>You get your money fast on the same day
+                                                                                (same hour sometimes)</p>
+                                                                            <p>Directly to your Nigerian Bank Account
+                                                                            </p>
+                                                                            <p>That’s it.</p>
+                                                                            <p>As you can see I’ve included everything
+                                                                                you need to take your first step on a
+                                                                                freelancer’s path to earning at least
+                                                                                $1000 per project.</p>
+                                                                            <p> </p>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li>Without needing much experience</li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li>Without needing a degree</li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li>Without needing to wait for years at
+                                                                                    a Nigerian job</li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li>Without you to be the most “gifted”
+                                                                                    in your industry</li>
+                                                                            </ul>
+                                                                            <p> </p>
+                                                                            <p> </p>
+                                                                            <ul>
+                                                                                <li>Without you relying on
+                                                                                    <strong>“LUCK”</strong></li>
+                                                                            </ul>
+                                                                            <p><br />These materials are in Video, Pdfs,
+                                                                                and Recording Formats</p>
+                                                                            <p><br />They are easy to digest and
+                                                                                understand by beginners so you don’t go
+                                                                                astray</p>
+                                                                            <p><br />There Is even A video guide showing
+                                                                                you how to study and implement all
+                                                                                you’ll learn.</p>
+                                                                            <p><br />To make it as easy as possible for
+                                                                                you</p>
+                                                                            <p><br />So you are not confused about where
+                                                                                to start or what to do next</p>
+                                                                            <p><br />And remember if you have any
+                                                                                questions all you have to do is reach
+                                                                                out in the members’ area and you’ll have
+                                                                                your questions answered</p>
+                                                                            <p><br />By me or one of my students</p>
+                                                                            <p><br />So that’s it…</p>
+                                                                            <p><br />Everything outlined above is what
+                                                                                you are getting when you join us today…
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-56df094f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="56df094f" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e38c7ff"
+                                data-id="3e38c7ff" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-1d157022 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="1d157022" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-16a755fe"
+                                                        data-id="16a755fe" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-1879c8cc elementor-widget elementor-widget-text-editor"
+                                                                    data-id="1879c8cc" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>Now to the question of…</p>
+                                                                            <p class="has-text-align-center has-large-font-size"
+                                                                                style="text-align: center;"><span
+                                                                                    style="color: #000000;"><strong>”
+                                                                                        How Much Does It Cost To Enroll
+                                                                                        For the HPF Premium
+                                                                                        Program?”</strong></span></p>
+                                                                            <p>Before we talk about the price</p>
+                                                                            <p>I’d love to know How much do you think
+                                                                                will be a great investment for this
+                                                                                program?</p>
+                                                                            <p>I mean…</p>
+                                                                            <p>If we are talking about a fair price it
+                                                                                shouldn’t;t be less than $500</p>
+                                                                            <p>After all, just your first job can make
+                                                                                you back that amount and even more to
+                                                                                spare.</p>
+                                                                            <p>Most newbies make that within their 1
+                                                                                month (with change remaining)</p>
+                                                                            <p>And even then it will still be a crazy
+                                                                                deal because you get to keep on the
+                                                                                knowledge, resources, and materials</p>
+                                                                            <p>And still, make more money from them</p>
+                                                                            <p>But I realize that not everyone
+                                                                                interested in joining the <strong>High
+                                                                                    Paid Freelancer Premium Program
+                                                                                    Today</strong></p>
+                                                                            <p>Will have $500 to invest right away…</p>
+                                                                            <p>Plus I want to make this easily
+                                                                                affordable for anyone who is interested
+                                                                                in taking control of their finances and
+                                                                                becoming a high paid freelancer</p>
+                                                                            <p>That’s why today (until we raise the
+                                                                                price)</p>
+                                                                            <p>I’m making this opportunity available to
+                                                                                you at $70 (<s>N</s>35,000) only</p>
+                                                                            <p>One time payment</p>
+                                                                            <p>You won’t have to pay anything else as it
+                                                                                requires no startup cost.</p>
+                                                                            <p>One client, gig, or project gotten by
+                                                                                implementing the program could easily
+                                                                                make you $1000 and above</p>
+                                                                            <p>You’d make your money back over 16times
+                                                                            </p>
+                                                                            <p>And that’s just one client</p>
+                                                                            <p>Think of how much more you’d make as you
+                                                                                advance and close better gigs.</p>
+                                                                            <p>If you want to sign up now you can do so
+                                                                                by clicking on the big red button below
+                                                                            </p>
+                                                                            <p>However, before you do that please note …
+                                                                            </p>
+                                                                            <p> </p>
+                                                                            <h2 class="has-text-align-center"
+                                                                                style="text-align: center;"><span
+                                                                                    style="color: #000000;"><strong>No
+                                                                                        Money-Back
+                                                                                        Guarantees</strong></span></h2>
+                                                                            <h3 class="has-text-align-center">
+                                                                                <strong>(For Any Reason.)</strong></h3>
+                                                                            <p> </p>
+                                                                            <p>I’ve put a lot of work into this program
+                                                                            </p>
+                                                                            <p>And as you can see from the testimonials
+                                                                                on this page The HPF Premium Program is
+                                                                                Extremely Valuable</p>
+                                                                            <p>But asides that…</p>
+                                                                            <p>Some time ago I used to offer Money-back
+                                                                                guarantees</p>
+                                                                            <p>But some people buy a course and never
+                                                                                open it</p>
+                                                                            <p>Talk more about Implementing and then…
+                                                                            </p>
+                                                                            <p>One day they wake up and ask for a
+                                                                                refund.</p>
+                                                                            <p>This is in place to repel those kinds of
+                                                                                people</p>
+                                                                            <p>Everything I’ve offered you today is
+                                                                                exactly what you’re getting….</p>
+                                                                            <p>I have rock-solid confidence in what I
+                                                                                teach</p>
+                                                                            <p>And if you consistently implement what
+                                                                                you learn, I’m confident you’ll love the
+                                                                                results.</p>
+                                                                            <p>But still…. no money-back guarantees.</p>
+                                                                            <p>You’re either ready to go all the way, or
+                                                                                you’re not.</p>
+                                                                            <p>If you don’t like it, feel free to pass
+                                                                                on this deal</p>
+                                                                            <p>There are other Freelance coaches who
+                                                                                offer money-back guarantees, you can
+                                                                                learn from them.</p>
+                                                                            <p>But if you’re okay with the no-refunds
+                                                                                policy…</p>
+                                                                            <p>And you’re ready to get started…</p>
+                                                                            <p>On your path to becoming a High-paid
+                                                                                Freelancer…</p>
+                                                                            <p>Working with High-paying clients…</p>
+                                                                            <p>And living just the kind of life you’ve
+                                                                                always wanted…</p>
+                                                                            <p>With enough money to take better care of
+                                                                                yourself and your loved ones…</p>
+                                                                            <p>Click the Red button below to get started
+                                                                                today</p>
+                                                                            <p>Best,</p>
+                                                                            <p>Walter Enyinnaya,<br />Creator, The High
+                                                                                Paid Freelancer Premium Program</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-2affe879 elementor-align-center elementor-widget elementor-widget-button"
+                                                                    data-id="2affe879" data-element_type="widget"
+                                                                    data-widget_type="button.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-button-wrapper">
+                                                                            <a href="https://expertnaire.com/manager/order/7183954369"
+                                                                                class="elementor-button-link elementor-button elementor-size-xl elementor-animation-pulse"
+                                                                                role="button">
+                                                                                <span
+                                                                                    class="elementor-button-content-wrapper">
+                                                                                    <span class="elementor-button-text">
+                                                                                        Access The High Paid Freelance
+                                                                                        Premium Now</span>
+                                                                                </span>
+                                                                            </a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-7643a297 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="7643a297" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2c521d32"
+                                data-id="2c521d32" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-31b318f6 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="31b318f6" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2da849dc"
+                                                        data-id="2da849dc" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-17154590 elementor-widget elementor-widget-image"
+                                                                    data-id="17154590" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="620" height="682"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/1m.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/1m.jpg 620w, https://expertnaire.com/wp-content/uploads/2022/02/1m-273x300.jpg 273w"
+                                                                                sizes="(max-width: 620px) 100vw, 620px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-2d692629 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="2d692629" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p><strong>$1500 For Writing Emails</strong>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-5b5b0557 elementor-widget elementor-widget-image"
+                                                                    data-id="5b5b0557" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="620" height="739"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/2m.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/2m.jpg 620w, https://expertnaire.com/wp-content/uploads/2022/02/2m-252x300.jpg 252w"
+                                                                                sizes="(max-width: 620px) 100vw, 620px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-273c004a elementor-widget elementor-widget-image"
+                                                                    data-id="273c004a" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="531" height="1023"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/3m.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/3m.jpg 531w, https://expertnaire.com/wp-content/uploads/2022/02/3m-156x300.jpg 156w"
+                                                                                sizes="(max-width: 531px) 100vw, 531px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-22e16a56 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="22e16a56" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p><strong>$700 Upfront for a simple
+                                                                                </strong><strong>sales letter</strong>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-508d334a elementor-widget elementor-widget-text-editor"
+                                                                    data-id="508d334a" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <h2 style="text-align: center;"><span
+                                                                                    style="font-weight: 400; color: #ff0000;">Frequently
+                                                                                    Asked Questions</span></h2>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>Can
+                                                                                    I do this with my phone?</strong>
+                                                                            </h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Yes you
+                                                                                    can it all depends on what skill you
+                                                                                    are offering, If it’s writing then
+                                                                                    you don’t need a laptop to
+                                                                                    begin</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>When
+                                                                                    Is This Program Starting Or Has It
+                                                                                    started Already?</strong></h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">It’s an
+                                                                                    online program that will always be
+                                                                                    available to you so long as this
+                                                                                    page is up.</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Anytime
+                                                                                    you join you’ll get access to all
+                                                                                    the materials, skills, and bonuses
+                                                                                    mentioned above.</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>What
+                                                                                    If I Have A Job Or I am A Busy
+                                                                                    Student Can I Do This On The
+                                                                                    Side?</strong></h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Yes you
+                                                                                    absolutely can</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">I already
+                                                                                    mentioned this but if you can
+                                                                                    dedicate at least 2 hours each day
+                                                                                    to this</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">You’ll be
+                                                                                    proud of the results.</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>What
+                                                                                    if don’t Have A Digital
+                                                                                    Skill?</strong></h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">That’s not
+                                                                                    a problem</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Currently,
+                                                                                    there are 5 High-Income skills you
+                                                                                    can learn in the program</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">We are
+                                                                                    working On Adding more so if you get
+                                                                                    in now you get all the updates for
+                                                                                    free when they go Live</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>Am I
+                                                                                    Going To Pay For Anything
+                                                                                    Else?</strong></h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">No.
+                                                                                </span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Absolutely
+                                                                                    not. </span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Upon
+                                                                                    payment, you won’t be asked to pay
+                                                                                    for anything else</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Neither
+                                                                                    will you need to as this requires no
+                                                                                    startup cost</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>How
+                                                                                    long Until I get My First Client An
+                                                                                    Start Making Money?</strong></h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">I could
+                                                                                    easily tell you in 2 weeks or less
+                                                                                    (and I have proof to back that
+                                                                                    up)</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">But here’s
+                                                                                    the thing</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Not
+                                                                                    everyone gets their first client
+                                                                                    that fast some take up to 1 month or
+                                                                                    more</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">The only
+                                                                                    thing I can guarantee you is
+                                                                                    that.</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">If you
+                                                                                    focus on implementing (ruthlessly
+                                                                                    and patiently) what I show
+                                                                                    you,</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">You will
+                                                                                    get paying clients (… upwards of
+                                                                                    $1,000 per project … and lots more …
+                                                                                    as demand for your work grows)
+                                                                                    Probably much sooner than you
+                                                                                    expect</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>Is
+                                                                                    This Program Only For
+                                                                                    Copywriters?</strong></h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">No.
+                                                                                </span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">As you can
+                                                                                    see from the testimonials different
+                                                                                    people with different skills have
+                                                                                    been landing jobs and making
+                                                                                    thousands of dollars</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">So it
+                                                                                    doesn’t matter if you are a graphics
+                                                                                    designer, website designer,
+                                                                                    programmer, content writer,
+                                                                                    etc</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">The steps
+                                                                                    shared in this program will help you
+                                                                                    achieve enviable results</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>How
+                                                                                    Long Will I Have Access to This
+                                                                                    program (And Everything Else you’ve
+                                                                                    Promised) … Once I Sign Up
+                                                                                    Today?</strong></h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">You’ll
+                                                                                    have lifetime access to
+                                                                                    everything</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">So you can
+                                                                                    relax and go through it at your own
+                                                                                    pace</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Not bad
+                                                                                    right?</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>How
+                                                                                    Long Will It Take Me To Go Through
+                                                                                    The Program and start
+                                                                                    Implementing?</strong></h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Usually,
+                                                                                    it depends on your hunger for
+                                                                                    success and how fast you can
+                                                                                    learn</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">It takes
+                                                                                    most of my students 15 days</span>
+                                                                            </p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">But like I
+                                                                                    said earlier, you set your own
+                                                                                    pace.</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">So it’s
+                                                                                    entirely up to you</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>Do I
+                                                                                    Need To Go Through Every Section Of
+                                                                                    The Program Before I Get My First
+                                                                                    Client…. Or I Start Making
+                                                                                    Money?</strong></h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">No, you
+                                                                                    don’t</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">You can
+                                                                                    choose just the Upwork section of
+                                                                                    the course watch and implement and
+                                                                                    get your first</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Or you can
+                                                                                    choose the Linkedin section</span>
+                                                                            </p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">All that
+                                                                                    matters is you take what you learn
+                                                                                    from each section and act on
+                                                                                    it</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Most of my
+                                                                                    students get their first client
+                                                                                    without having finished the entire
+                                                                                    course</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>Are
+                                                                                    You Going To Be The One Teaching All
+                                                                                    the High-Income Skills?</strong>
+                                                                            </h3>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Asides
+                                                                                    from the kickass copywriting course
+                                                                                    &amp; content writing/marketing
+                                                                                    crash course</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">I won’t be
+                                                                                    the one teaching the other
+                                                                                    high-income skills</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">However,
+                                                                                    they are all beginner-friendly and
+                                                                                    easily understandable</span></p>
+                                                                            <h3> </h3>
+                                                                            <h3 style="text-align: center;"><strong>Will
+                                                                                    the Price Of This Program Increase
+                                                                                    Anytime Soon?</strong></h3>
+                                                                            <p><span style="font-weight: 400;">Well yes
+                                                                                    it will</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">But that
+                                                                                    will be on my own terms and when I
+                                                                                    decide to increase it.</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Hopefully,
+                                                                                    I’ve been able to answer all your
+                                                                                    questions with this.</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Whatever
+                                                                                    you decide it is entirely up to
+                                                                                    you.</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">If you
+                                                                                    wish to join us…</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">Simply
+                                                                                    click on the button below</span></p>
+                                                                            <p style="text-align: left;"><span
+                                                                                    style="font-weight: 400;">See you
+                                                                                    Inside</span></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <div class="elementor-element elementor-element-7f543b22 elementor-align-center elementor-widget elementor-widget-button"
+                                            data-id="7f543b22" data-element_type="widget"
+                                            data-widget_type="button.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-button-wrapper">
+                                                    <a href="https://expertnaire.com/manager/order/7183954369"
+                                                        class="elementor-button-link elementor-button elementor-size-xl elementor-animation-pulse"
+                                                        role="button">
+                                                        <span class="elementor-button-content-wrapper">
+                                                            <span class="elementor-button-text"> Yes I want to start
+                                                                earning at least $1000 monthly as a freelancer</span>
+                                                        </span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-7854770a elementor-widget elementor-widget-text-editor"
+                                            data-id="7854770a" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>Here’s what other people are saying about the <strong>High Paid
+                                                            Freelancer Program</strong></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-362864 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="362864" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4da35794"
+                                                        data-id="4da35794" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-239eb23f elementor-aspect-ratio-169 elementor-widget elementor-widget-video"
+                                                                    data-id="239eb23f" data-element_type="widget"
+                                                                    data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/AmLE-05mjiw&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}"
+                                                                    data-widget_type="video.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+                                                                            <div class="elementor-video"></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-98b07f3"
+                                                        data-id="98b07f3" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-30ad1139 elementor-aspect-ratio-169 elementor-widget elementor-widget-video"
+                                                                    data-id="30ad1139" data-element_type="widget"
+                                                                    data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/YlcJBdQ_8LQ&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}"
+                                                                    data-widget_type="video.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+                                                                            <div class="elementor-video"></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-57bb66e1"
+                                                        data-id="57bb66e1" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-1dc7d1ee elementor-aspect-ratio-169 elementor-widget elementor-widget-video"
+                                                                    data-id="1dc7d1ee" data-element_type="widget"
+                                                                    data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/_CFXx3ZrgGM&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}"
+                                                                    data-widget_type="video.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+                                                                            <div class="elementor-video"></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-59a166da elementor-widget elementor-widget-text-editor"
+                                                                    data-id="59a166da" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>From $2/hour to getting high paying
+                                                                                clients as a copywriter</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section
+                                            class="elementor-section elementor-inner-section elementor-element elementor-element-2019077c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                            data-id="2019077c" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-default">
+                                                <div class="elementor-row">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-62ff9708"
+                                                        data-id="62ff9708" data-element_type="column">
+                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-widget-wrap">
+                                                                <div class="elementor-element elementor-element-7c4fcec4 elementor-widget elementor-widget-image"
+                                                                    data-id="7c4fcec4" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="590" height="322"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/3L.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/3L.jpg 590w, https://expertnaire.com/wp-content/uploads/2022/02/3L-300x164.jpg 300w"
+                                                                                sizes="(max-width: 590px) 100vw, 590px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-6b1a0351 elementor-widget elementor-widget-text-editor"
+                                                                    data-id="6b1a0351" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$1300 for a single sales letter</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-2308ba80 elementor-widget elementor-widget-image"
+                                                                    data-id="2308ba80" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="490" height="1023"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/2L.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/2L.jpg 490w, https://expertnaire.com/wp-content/uploads/2022/02/2L-144x300.jpg 144w"
+                                                                                sizes="(max-width: 490px) 100vw, 490px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-7b22861f elementor-widget elementor-widget-text-editor"
+                                                                    data-id="7b22861f" data-element_type="widget"
+                                                                    data-widget_type="text-editor.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div
+                                                                            class="elementor-text-editor elementor-clearfix">
+                                                                            <p>$15/hour X 40hours a week equals $600
+                                                                                weekly and $2400/month</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-element elementor-element-69d837f0 elementor-widget elementor-widget-image"
+                                                                    data-id="69d837f0" data-element_type="widget"
+                                                                    data-widget_type="image.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image">
+                                                                            <img width="590" height="939"
+                                                                                src="https://expertnaire.com/wp-content/uploads/2022/02/1L.jpg"
+                                                                                class="attachment-large size-large"
+                                                                                alt="" loading="lazy"
+                                                                                srcset="https://expertnaire.com/wp-content/uploads/2022/02/1L.jpg 590w, https://expertnaire.com/wp-content/uploads/2022/02/1L-188x300.jpg 188w"
+                                                                                sizes="(max-width: 590px) 100vw, 590px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <div class="elementor-element elementor-element-11cefdc0 elementor-align-center elementor-widget elementor-widget-button"
+                                            data-id="11cefdc0" data-element_type="widget"
+                                            data-widget_type="button.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-button-wrapper">
+                                                    <a href="https://expertnaire.com/manager/order/7183954369"
+                                                        class="elementor-button-link elementor-button elementor-size-xl elementor-animation-pulse"
+                                                        role="button">
+                                                        <span class="elementor-button-content-wrapper">
+                                                            <span class="elementor-button-text"> Take Control Of Your
+                                                                Finances Today</span>
+                                                        </span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-10f72dc1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="10f72dc1" data-element_type="section"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-669b6f50"
+                                data-id="669b6f50" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <div class="elementor-element elementor-element-1ce3ab0 elementor-widget elementor-widget-text-editor"
+                                            data-id="1ce3ab0" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p style="text-align: center;"><strong>IMPORTANT: Earnings And Legal
+                                                            Disclaimers</strong></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-1d28adcb elementor-widget elementor-widget-text-editor"
+                                            data-id="1d28adcb" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p>Expertnaire is an online marketplace for promoting very useful
+                                                        digital products and is registered as a trademark of 7Star
+                                                        Systems Nig. Ltd.</p>
+                                                    <p>Expertnaire is not the owner of this program. Expertnaire only
+                                                        represents the creator of the program</p>
+                                                    <p>This product is created and sold by Mr Enyinnaya Walter, the
+                                                        product&#8217;s vendor.</p>
+                                                    <p>The product promoted on this page is a DIGITAL product. It is not
+                                                        a service or a physical product. Nothing whatsoever will be
+                                                        shipped.</p>
+                                                    <p>Expertnaire is NOT a marketing agency, bank, Forex broker or any
+                                                        type of financial establishment.</p>
+                                                    <p>This product is <span
+                                                            style="text-decoration: underline;"><strong>NOT
+                                                                protected</strong></span> by Expertnaire&#8217;s 30 days
+                                                        refund policy.</p>
+                                                    <p>Information submitted in conjunction with this order is handled
+                                                        within the constraints of our privacy policy.</p>
+                                                    <p>All support requests regarding this product must be directed to
+                                                        the product vendor, not Expertnaire (The vendor&#8217;s contact
+                                                        details will be provided upon product purchase)</p>
+                                                    <p>All information submitted here is subject to our terms and
+                                                        conditions.</p>
+                                                    <p>Your information will be provided to the product&#8217;s vendor
+                                                        upon successful completion of this sale.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-396c30cd elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="396c30cd" data-element_type="section"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-484289c8"
+                                data-id="484289c8" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <div class="elementor-element elementor-element-2824c602 elementor-widget elementor-widget-text-editor"
+                                            data-id="2824c602" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p style="text-align: center;"><em>Powered by:</em></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-43cff2f3 elementor-widget elementor-widget-image"
+                                            data-id="43cff2f3" data-element_type="widget"
+                                            data-widget_type="image.default">
+                                            <div class="elementor-widget-container">
+                                                <h1> TylahDighits </h1>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-41596128 elementor-widget elementor-widget-text-editor"
+                                            data-id="41596128" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">
+                                                    <p style="text-align: center;"><a
+                                                            href="" target="_blank"
+                                                            rel="noopener">Terms</a> | <a
+                                                            href="" target="_blank"
+                                                            rel="noopener">Disclaimer</a> | <a
+                                                            href="">Contact Us</a></p>
+                                                    <p style="text-align: center;">Copyright
+                                                        <strong>tylahdigitalhub.com</strong> 2022 All rights reserved.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+    <script type='text/javascript'>($ => {
+            /**
+             * Displays toast message from storage, it is used when the user is redirected after login
+             */
+            if (window.sessionStorage) {
+                $(window).on('tcb_after_dom_ready', () => {
+                    let message = sessionStorage.getItem('tcb_toast_message');
+
+                    if (message) {
+                        tcbToast(sessionStorage.getItem('tcb_toast_message'), false);
+                        sessionStorage.removeItem('tcb_toast_message');
+                    }
+                });
+            }
+
+            /**
+             * Displays toast message
+             */
+            function tcbToast(message, error, callback) {
+                /* Also allow "message" objects */
+                if (typeof message !== 'string') {
+                    message = message.message || message.error || message.success;
+                }
+                if (!error) {
+                    error = false;
+                }
+                TCB_Front.notificationElement.toggle(message, error ? 'error' : 'success', callback);
+            }
+        })(typeof ThriveGlobal === 'undefined' ? jQuery : ThriveGlobal.$j);
+    </script>
+    <style type="text/css" id="tcb-style-base-tve_notifications-9817"
+        onLoad="typeof window.lightspeedOptimizeStylesheet === 'function' && window.lightspeedOptimizeStylesheet()"
+        class="tcb-lightspeed-style"></style>
+    <style type="text/css" id="tve_notification_styles"></style>
+    <div class="tvd-toast tve-fe-message" style="display: none">
+        <div class="tve-toast-message tve-success-message">
+            <div class="tve-toast-icon-container">
+                <span class="tve_tick thrv-svg-icon"></span>
+            </div>
+            <div class="tve-toast-message-container"></div>
+        </div>
+    </div>
+    <link rel='stylesheet' id='e-animations-css'
+        href='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.3'
+        media='all' />
+    <!--[if lte IE 11]>
+<script src='https://expertnaire.com/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.0.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-main-js-extra'>
+        var generatepressMenu = { "toggleOpenedSubMenus": "1", "openSubMenuLabel": "Open Sub-Menu", "closeSubMenuLabel": "Close Sub-Menu" };
+    </script>
+    <script src='https://expertnaire.com/wp-content/themes/generatepress/assets/js/main.min.js?ver=3.0.4'
+        id='generate-main-js'></script>
+    <script id='tve-dash-frontend-js-extra'>
+        var tve_dash_front = { "ajaxurl": "https:\/\/expertnaire.com\/wp-admin\/admin-ajax.php", "force_ajax_send": "", "is_crawler": "", "recaptcha": [], "post_id": "10342" };
+    </script>
+    <script
+        src='https://expertnaire.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=3.3'
+        id='tve-dash-frontend-js'></script>
+    <script src='https://expertnaire.com/wp-includes/js/wp-embed.min.js?ver=5.5.9' id='wp-embed-js'></script>
+    <script
+        src='https://expertnaire.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.4.1'
+        id='elementor-pro-webpack-runtime-js'></script>
+    <script src='https://expertnaire.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.3'
+        id='elementor-webpack-runtime-js'></script>
+    <script src='https://expertnaire.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.3'
+        id='elementor-frontend-modules-js'></script>
+    <script id='elementor-pro-frontend-js-before'>
+        var ElementorProFrontendConfig = {
+            "ajaxurl": "https:\/\/expertnaire.com\/wp-admin\/admin-ajax.php", "nonce": "6e0f581c64", "urls": { "assets": "https:\/\/expertnaire.com\/wp-content\/plugins\/elementor-pro\/assets\/", "rest": "https:\/\/expertnaire.com\/wp-json\/" }, "i18n": { "toc_no_headings_found": "No headings were found on this page." }, "shareButtonsNetworks": { "facebook": { "title": "Facebook", "has_counter": true }, "twitter": { "title": "Twitter" }, "google": { "title": "Google+", "has_counter": true }, "linkedin": { "title": "LinkedIn", "has_counter": true }, "pinterest": { "title": "Pinterest", "has_counter": true }, "reddit": { "title": "Reddit", "has_counter": true }, "vk": { "title": "VK", "has_counter": true }, "odnoklassniki": { "title": "OK", "has_counter": true }, "tumblr": { "title": "Tumblr" }, "digg": { "title": "Digg" }, "skype": { "title": "Skype" }, "stumbleupon": { "title": "StumbleUpon", "has_counter": true }, "mix": { "title": "Mix" }, "telegram": { "title": "Telegram" }, "pocket": { "title": "Pocket", "has_counter": true }, "xing": { "title": "XING", "has_counter": true }, "whatsapp": { "title": "WhatsApp" }, "email": { "title": "Email" }, "print": { "title": "Print" } },
+            "facebook_sdk": { "lang": "en_US", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/expertnaire.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" }
+        };
+    </script>
+    <script src='https://expertnaire.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.4.1'
+        id='elementor-pro-frontend-js'></script>
+    <script src='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'
+        id='elementor-waypoints-js'></script>
+    <script src='https://expertnaire.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'
+        id='jquery-ui-position-js'></script>
+    <script src='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'
+        id='swiper-js'></script>
+    <script src='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.5.3'
+        id='share-link-js'></script>
+    <script src='https://expertnaire.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0'
+        id='elementor-dialog-js'></script>
+    <script id='elementor-frontend-js-before'>
+        var elementorFrontendConfig = {
+            "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Extra", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Extra", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } } },
+            "version": "3.5.3", "is_static": false, "experimentalFeatures": { "e_import_export": true, "e_hidden_wordpress_widgets": true, "landing-pages": true, "elements-color-picker": true, "favorite-widgets": true, "admin-top-bar": true, "form-submissions": true }, "urls": { "assets": "https:\/\/expertnaire.com\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 10342, "title": "High%20Paid%20Freelancer%20Premium%20Program%20-%20Expertnaire", "excerpt": "", "featuredImage": false }
+        };
+    </script>
+    <script src='https://expertnaire.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.3'
+        id='elementor-frontend-js'></script>
+    <script
+        src='https://expertnaire.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.4.1'
+        id='pro-preloaded-elements-handlers-js'></script>
+    <script src='https://expertnaire.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.5.3'
+        id='preloaded-modules-js'></script>
+    <script
+        src='https://expertnaire.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.4.1'
+        id='e-sticky-js'></script>
+    <script type="text/javascript">var tcb_post_lists = JSON.parse('[]');</script>
+    <script>
+        jQuery(document).ready(function () {
+
+        });
+    </script>
+</body>
+
 </html>
-
-<!-- Page generated by LiteSpeed Cache 4.3 on 2022-04-11 10:47:58 -->
