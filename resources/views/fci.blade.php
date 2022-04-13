@@ -3990,39 +3990,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="elementor-element elementor-element-1d28adcb elementor-widget elementor-widget-text-editor"
-                                            data-id="1d28adcb" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-text-editor elementor-clearfix">
-                                                    <p>Expertnaire is an online marketplace for promoting very useful
-                                                        digital products and is registered as a trademark of 7Star
-                                                        Systems Nig. Ltd.</p>
-                                                    <p>Expertnaire is not the owner of this program. Expertnaire only
-                                                        represents the creator of the program</p>
-                                                    <p>This product is created and sold by Mr Enyinnaya Walter, the
-                                                        product&#8217;s vendor.</p>
-                                                    <p>The product promoted on this page is a DIGITAL product. It is not
-                                                        a service or a physical product. Nothing whatsoever will be
-                                                        shipped.</p>
-                                                    <p>Expertnaire is NOT a marketing agency, bank, Forex broker or any
-                                                        type of financial establishment.</p>
-                                                    <p>This product is <span
-                                                            style="text-decoration: underline;"><strong>NOT
-                                                                protected</strong></span> by Expertnaire&#8217;s 30 days
-                                                        refund policy.</p>
-                                                    <p>Information submitted in conjunction with this order is handled
-                                                        within the constraints of our privacy policy.</p>
-                                                    <p>All support requests regarding this product must be directed to
-                                                        the product vendor, not Expertnaire (The vendor&#8217;s contact
-                                                        details will be provided upon product purchase)</p>
-                                                    <p>All information submitted here is subject to our terms and
-                                                        conditions.</p>
-                                                    <p>Your information will be provided to the product&#8217;s vendor
-                                                        upon successful completion of this sale.</p>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
