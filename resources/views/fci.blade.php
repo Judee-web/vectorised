@@ -4052,7 +4052,7 @@
                                             data-id="43cff2f3" data-element_type="widget"
                                             data-widget_type="image.default">
                                             <div class="elementor-widget-container">
-                                                <h1> TylahDighits </h1>
+                                                <h1> TylahDighitals </h1>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-41596128 elementor-widget elementor-widget-text-editor"
