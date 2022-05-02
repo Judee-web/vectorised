@@ -1422,7 +1422,7 @@
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
                                                 loading="lazy"
-        										src="{{url('/images/usertimer.gif')}}" alt="Image"
+        										src="{{ asset ('/images/usertimer.gif')}}" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span></div>
 												<div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
@@ -1434,7 +1434,7 @@
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
                                                 loading="lazy"
-                          						src="{{url('/images/image3.jpeg')}}" alt="Image"
+                          						src="{{ asset ('/images/image3.jpeg')}}" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span></div>
                                     <div class="thrv_wrapper thrv_text_element">
