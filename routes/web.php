@@ -29,7 +29,3 @@ Route::get('/affiliate-marketing', function () {
     return view('affiliate');
 });
 
-Route::get('/create-symlink', function (){
-    symlink(storage_path('/app/public'), public_path('storage'));
-    echo "Symlink Created. Thanks";
-});
