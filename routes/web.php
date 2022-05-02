@@ -21,6 +21,10 @@ Route::get('/fci-2022', function () {
     return view('fci');
 });
 
+Route::get('/fci2-2022', function () {
+    return view('fci2');
+});
+
 Route::get('/affiliate-marketing', function () {
     return view('affiliate');
 });
