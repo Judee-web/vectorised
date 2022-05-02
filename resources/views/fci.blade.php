@@ -1181,7 +1181,7 @@
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
                                                 loading="lazy"
-                                                src="./image5.jpeg"
+                                                src="{{url('/images/image5.jpeg')}}" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span></div>
 												<div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
@@ -1189,7 +1189,7 @@
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
                                                 loading="lazy"
-                                                src="./usertimer.gif"
+                                              	src="{{url('/images/usertimer.gif')}}" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span></div>
                                     <!-- <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
@@ -1370,7 +1370,7 @@
                                         <span class="tve_image_frame"><img class="tve_image wp-image-63" alt=""
                                                 data-id="63" width="189" data-init-width="1920" height="251"
                                                 data-init-height="2560" title="IMG_4249" loading="lazy"
-                                                src="./image1.jpeg"
+                                                src="{{url('/images/image1.jpeg')}}" alt="Image"
                                                 data-width="189" data-height="251" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e876afc02" mt-m="0"></span></div>
                                     <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
@@ -1382,7 +1382,7 @@
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
                                                 loading="lazy"
-                                                src="./image2.jpeg"
+												src="{{url('/images/image2.jpeg')}}" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span></div>
                                     <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
@@ -1422,7 +1422,7 @@
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
                                                 loading="lazy"
-                                                src="./usertimer.gif"
+        										src="{{url('/images/usertimer.gif')}}" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span></div>
 												<div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
@@ -1434,7 +1434,7 @@
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
                                                 loading="lazy"
-                                                src="./image3.jpeg"
+                          						src="{{url('/images/image3.jpeg')}}" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span></div>
                                     <div class="thrv_wrapper thrv_text_element">
