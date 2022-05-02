@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <!--[if IE 7]>
 <html class="ie ie7" lang="en-US">
@@ -18,7 +19,7 @@
     <meta name='robots' content='max-image-preview:large' />
 
     <!-- Facebook Pixel Code -->
-    
+
     <!-- DO NOT MODIFY -->
     <!-- End Facebook Pixel Code -->
 
@@ -1158,7 +1159,8 @@
                                 <div class="tve-cb">
                                     <div class="thrv_wrapper thrv_text_element">
                                         <h2 data-css="tve-u-17e81fd8b75" style="text-align: center;" class="">
-                                            <strong>EXPOSED! FREE MASTERCLASS REAVEALS</strong></h2>
+                                            <strong>EXPOSED! FREE MASTERCLASS REAVEALS</strong>
+                                        </h2>
                                     </div>
                                 </div>
                             </div>
@@ -1167,31 +1169,34 @@
                                 <div class="tve-content-box-background"></div>
                                 <div class="tve-cb">
                                     <div class="thrv_wrapper thrv_text_element">
-                                        <p data-css="tve-u-17e8200a32b" style="text-align: center;"><strong>How to become a well-paid writer ...
-											working <span data-css="tve-u-17e821759c9">with Ecommerce brands & publishers who routinely pay between</span>
-                                            <span data-css="tve-u-17e82023b7d">$1,000 - $5,000+ per project or per month . </span></strong></p>
+                                        <p data-css="tve-u-17e8200a32b" style="text-align: center;"><strong>How to
+                                                become a well-paid writer ...
+                                                working <span data-css="tve-u-17e821759c9">with Ecommerce brands &
+                                                    publishers who routinely pay between</span>
+                                                <span data-css="tve-u-17e82023b7d">$1,000 - $5,000+ per project or per
+                                                    month . </span></strong></p>
                                     </div>
                                     <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82054e0d">
                                         <p data-css="tve-u-17e87642d27" style="text-align: center;"><em>Even if you have
                                                 no experience, no laptops, or any product to sell.</em><strong><span
                                                     data-css="tve-u-17e87642d34"> </span></strong></p>
                                     </div>
-									<div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy"
-                                                src="{{url('/images/image5.jpeg')}}" alt="Image"
+                                                loading="lazy" src="./images/image5.jpeg" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e8208df3d"></span></div>
-												<div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
+                                                data-css="tve-u-17e8208df3d"></span>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy"
-                                              	src="{{url('/images/usertimer.gif')}}" alt="Image"
+                                                loading="lazy" src="./images/usertimer.gif" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e8208df3d"></span></div>
+                                                data-css="tve-u-17e8208df3d"></span>
+                                    </div>
                                     <!-- <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
                                                 data-id="51" width="375" data-init-width="1080" height="375"
@@ -1298,10 +1303,11 @@
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                     data-css="tve-u-17e821c70a2" style="">
-                                                    <div><strong>You have little or no experience about Writing .</strong></div>
+                                                    <div><strong>You have little or no experience about Writing
+                                                            .</strong></div>
                                                 </span>
                                             </li>
-											<br>
+                                            <br>
                                             <li class="thrv-styled-list-item">
                                                 <div class="tcb-styled-list-icon">
                                                     <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
@@ -1318,7 +1324,7 @@
                                                     data-css="tve-u-17e821c70a2" style=""><strong>You don't have a
                                                         laptop (your smartphone is enough)</strong></span>
                                             </li>
-											<br>
+                                            <br>
                                             <li class="thrv-styled-list-item">
                                                 <div class="tcb-styled-list-icon">
                                                     <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
@@ -1359,36 +1365,42 @@
 
                                             <span class="tcb-button-texts"><span
                                                     class="tcb-button-text thrv-inline-text" style=""
-                                                    data-css="tve-u-17e82297579"><strong>CLICK HERE TO GET ACCESS</strong></span></span>
+                                                    data-css="tve-u-17e82297579"><strong>CLICK HERE TO GET
+                                                        ACCESS</strong></span></span>
                                         </a>
                                     </div>
                                     <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
-                                        <p dir="ltr">I know you must be wondering why I am sure about this business model anyone
+                                        <p dir="ltr">I know you must be wondering why I am sure about this business
+                                            model anyone
                                             can start online in Nigeria, Here's my picture down below...</p>
                                     </div>
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876acde2" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-63" alt=""
                                                 data-id="63" width="189" data-init-width="1920" height="251"
                                                 data-init-height="2560" title="IMG_4249" loading="lazy"
-                                                src="{{ asset ('/images/image1.jpeg')}}" alt="Image"
-                                                data-width="189" data-height="251" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e876afc02" mt-m="0"></span></div>
+                                                src="./images/image1.jpeg" alt="Image" data-width="189"
+                                                data-height="251" ml-d="0" mt-d="0" style=""
+                                                data-css="tve-u-17e876afc02" mt-m="0"></span>
+                                    </div>
                                     <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
-                                        <p dir="ltr">My neme is  <strong>Tylah Ikechukwu Opara.</strong> I have made a lot of profit from this
-                                            business model I am sharing with you.<strong> I have also passed down this same model to my students. </strong> Here is what Ifaenyi said;</p>
+                                        <p dir="ltr">My neme is <strong>Tylah Ikechukwu Opara.</strong> I have made a
+                                            lot of profit from this
+                                            business model I am sharing with you.<strong> I have also passed down this
+                                                same model to my students. </strong> Here is what Ifaenyi said;</p>
                                     </div>
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy"
-												src="{{ asset ('/images/image2.jpeg')}}" alt="Image"
+                                                loading="lazy" src="./images/image2.jpeg" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e8208df3d"></span></div>
+                                                data-css="tve-u-17e8208df3d"></span>
+                                    </div>
                                     <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
                                         <p dir="ltr">And that is why I want to show you how this is done too, and
                                             <strong><span style="text-decoration: underline;">how you can claim this
-                                                    online wealth for yourself in 2022</span></strong> too.</p>
+                                                    online wealth for yourself in 2022</span></strong> too.
+                                        </p>
                                         <p dir="ltr"><br></p>
                                         <p dir="ltr">To get started, <strong>Click the BUTTON
                                                 below</strong><strong>;</strong></p>
@@ -1414,103 +1426,111 @@
 
                                             <span class="tcb-button-texts"><span
                                                     class="tcb-button-text thrv-inline-text" style=""
-                                                    data-css="tve-u-17e8769713c"><strong>CLICK HERE TO GET ACCESS</strong></span></span>
+                                                    data-css="tve-u-17e8769713c"><strong>CLICK HERE TO GET
+                                                        ACCESS</strong></span></span>
                                         </a>
                                     </div>
-									<div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy"
-        										src="{{ asset ('/images/usertimer.gif')}}" alt="Image"
+                                                loading="lazy" src="./images/usertimer.gif" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e8208df3d"></span></div>
-												<div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
+                                                data-css="tve-u-17e8208df3d"></span>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
                                         <p dir="ltr"><strong>Here is what Cynthia said about this model.</strong>
                                             she was so happy to be part of it.</p>
                                     </div>
-									<div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy"
-                          						src="{{ asset ('/images/image3.jpeg')}}" alt="Image"
+                                                loading="lazy" src="./images/image3.jpeg" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e8208df3d"></span></div>
+                                                data-css="tve-u-17e8208df3d"></span>
+                                    </div>
                                     <div class="thrv_wrapper thrv_text_element">
                                         <p dir="ltr">And If you are wondering how this simple System
-                                            works, I will show you because You’ll have something that makes you the envy of most people;</p>
+                                            works, I will show you because You’ll have something that makes you the envy
+                                            of most people;</p>
                                         <p dir="ltr"><br></p>
                                         <p dir="ltr"><br></p>
                                         <p><strong>Absolute control of your time.</strong></p>
                                         <p dir="ltr"><br></p>
 
-										<div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check" style=""
-                                        data-css="tve-u-17e821c66ae">
-                                        <ul class="tcb-styled-list">
-                                            <li class="thrv-styled-list-item">
-                                                <div class="tcb-styled-list-icon">
-                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                        data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                            viewBox="0 0 512 512"
-                                                            data-id="icon-arrow-circle-right-solid" data-name=""
-                                                            style="">
-                                                            <path
-                                                                d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                            </path>
-                                                        </svg></div>
-                                                </div><span
-                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-17e821c70a2" style="">
-                                                    <div><strong>To afford the lifestyle you want.</strong></div>
-                                                </span>
-                                            </li>
-                                            <li class="thrv-styled-list-item">
-                                                <div class="tcb-styled-list-icon">
-                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                        data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                            viewBox="0 0 512 512"
-                                                            data-id="icon-arrow-circle-right-solid" data-name=""
-                                                            style="">
-                                                            <path
-                                                                d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                            </path>
-                                                        </svg></div>
-                                                </div><span
-                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-17e821c70a2" style=""><strong>To Take good care of your families and friends</strong></span>
-                                            </li>
-											<br>
-                                            <li class="thrv-styled-list-item">
-                                                <div class="tcb-styled-list-icon">
-                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                        data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                            viewBox="0 0 512 512"
-                                                            data-id="icon-arrow-circle-right-solid" data-name=""
-                                                            style="">
-                                                            <path
-                                                                d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                            </path>
-                                                        </svg></div>
-                                                </div><span
-                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-17e821c70a2" style=""><strong>Get that dream car that you want to use to “pepper” that your ex that thought you won’t ever make it.</strong></span>
-                                            </li>
-											
-                                        </ul>
-                                    </div>
-									<p><strong>You can do your work from anywhere;</strong></p>
+                                        <div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check" style=""
+                                            data-css="tve-u-17e821c66ae">
+                                            <ul class="tcb-styled-list">
+                                                <li class="thrv-styled-list-item">
+                                                    <div class="tcb-styled-list-icon">
+                                                        <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                            data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
+                                                                viewBox="0 0 512 512"
+                                                                data-id="icon-arrow-circle-right-solid" data-name=""
+                                                                style="">
+                                                                <path
+                                                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
+                                                                </path>
+                                                            </svg></div>
+                                                    </div><span
+                                                        class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                        data-css="tve-u-17e821c70a2" style="">
+                                                        <div><strong>To afford the lifestyle you want.</strong></div>
+                                                    </span>
+                                                </li>
+                                                <li class="thrv-styled-list-item">
+                                                    <div class="tcb-styled-list-icon">
+                                                        <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                            data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
+                                                                viewBox="0 0 512 512"
+                                                                data-id="icon-arrow-circle-right-solid" data-name=""
+                                                                style="">
+                                                                <path
+                                                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
+                                                                </path>
+                                                            </svg></div>
+                                                    </div><span
+                                                        class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                        data-css="tve-u-17e821c70a2" style=""><strong>To Take good care
+                                                            of your families and friends</strong></span>
+                                                </li>
+                                                <br>
+                                                <li class="thrv-styled-list-item">
+                                                    <div class="tcb-styled-list-icon">
+                                                        <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                            data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
+                                                                viewBox="0 0 512 512"
+                                                                data-id="icon-arrow-circle-right-solid" data-name=""
+                                                                style="">
+                                                                <path
+                                                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
+                                                                </path>
+                                                            </svg></div>
+                                                    </div><span
+                                                        class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                        data-css="tve-u-17e821c70a2" style=""><strong>Get that dream car
+                                                            that you want to use to “pepper” that your ex that thought
+                                                            you won’t ever make it.</strong></span>
+                                                </li>
+
+                                            </ul>
+                                        </div>
+                                        <p><strong>You can do your work from anywhere;</strong></p>
                                         <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong><span data-css="tve-u-17e8223d27a">1.</span></strong> From your house...</p>
+                                        <p dir="ltr"><strong><span data-css="tve-u-17e8223d27a">1.</span></strong> From
+                                            your house...</p>
                                         <p dir="ltr"><br></p>
                                         <p dir="ltr"><strong><span data-css="tve-u-17e822403cc">2.</span></strong>
-										From a nearby cafe...</p>
+                                            From a nearby cafe...</p>
                                         <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong><span data-css="tve-u-17e82244231">3.</span></strong>From a friend's place...</p>
+                                        <p dir="ltr"><strong><span data-css="tve-u-17e82244231">3.</span></strong>From a
+                                            friend's place...</p>
                                         <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong>And so on. Doesn't matter where you're working from.</strong></p>
-										<br>
-										<br>
+                                        <p dir="ltr"><strong>And so on. Doesn't matter where you're working
+                                                from.</strong></p>
+                                        <br>
+                                        <br>
                                         <p dir="ltr">But first, maybe you’re thinking…</p>
                                         <p dir="ltr"><br></p>
                                         <p dir="ltr"><strong>“How will I get clients?”</strong></p>
@@ -1519,16 +1539,21 @@
                                         <p dir="ltr"><br></p>
                                         <p dir="ltr">It doesn’t matter if you’ve never been paid to write before</p>
                                         <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong>As long as you're willing to put in the work...</strong></p>
+                                        <p dir="ltr"><strong>As long as you're willing to put in the work...</strong>
+                                        </p>
                                         <p dir="ltr"><br></p>
-                                        <p dir="ltr"> Just like the 100s of folks I've helped who didn't have any writing experience when they started.<span data-css="tve-u-17e82286010"> But today, they're earning $1,000 for their work </span>. And same is possible for you, if you're 100% commited.</p>
+                                        <p dir="ltr"> Just like the 100s of folks I've helped who didn't have any
+                                            writing experience when they started.<span data-css="tve-u-17e82286010"> But
+                                                today, they're earning $1,000 for their work </span>. And same is
+                                            possible for you, if you're 100% commited.</p>
                                         <p dir="ltr"><br></p>
                                         <p dir="ltr"><strong><span data-css="tve-u-17e82286011">P.S;</span></strong>
                                             When you click this link, you will be sent to my personal WhatsApp line and
                                             you will be given instructions to follow.</p>
                                         <p dir="ltr"><br></p>
                                         <p dir="ltr" style="text-align: center;"><strong><span
-                                                    style="text-decoration: underline;">Join the class now before it gets filled up.</span></strong></p>
+                                                    style="text-decoration: underline;">Join the class now before it
+                                                    gets filled up.</span></strong></p>
                                     </div>
                                     <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
                                         data-button-style="btn-tpl-58405" data-css="tve-u-17e820a4536" style="">
@@ -1551,10 +1576,11 @@
 
                                             <span class="tcb-button-texts"><span
                                                     class="tcb-button-text thrv-inline-text" style=""
-                                                    data-css="tve-u-17e820dae85"><strong>CLICK HERE TO GET ACCESS</strong></span></span>
+                                                    data-css="tve-u-17e820dae85"><strong>CLICK HERE TO GET
+                                                        ACCESS</strong></span></span>
                                         </a>
                                     </div>
-									
+
                                 </div>
                             </div>
                         </div>
@@ -1580,7 +1606,8 @@
                                                 data-css="tve-u-17e822aedef"><strong><span
                                                         data-css="tve-u-17e822aedf0">Copyright
                                                         ©2022&nbsp;&nbsp;<strong><span
-                                                                data-css="tve-u-17e822aedf4">—&nbsp;</span></strong>TylahDigitalHub —&nbsp;</span></strong></span><strong><span
+                                                                data-css="tve-u-17e822aedf4">—&nbsp;</span></strong>TylahDigitalHub
+                                                        —&nbsp;</span></strong></span><strong><span
                                                     data-css="tve-u-17e822aedf6">All Rights Reserved.</span></strong>
                                         </p>
                                     </div>
@@ -1595,12 +1622,12 @@
         <div class="fr-dropdown-holder tcb-style-wrap"></div>
     </div>
     <!-- Facebook Pixel Event Code -->
-    
+
     <!-- End Facebook Pixel Event Code -->
-	
+
     <script type="text/javascript">var TVE_Event_Manager_Registered_Callbacks = TVE_Event_Manager_Registered_Callbacks || {}; TVE_Event_Manager_Registered_Callbacks.thrive_animation = function (trigger, action, config) {
             var $element = jQuery(this),
-            $at = $element.closest('.tcb-col, .thrv_wrapper');
+                $at = $element.closest('.tcb-col, .thrv_wrapper');
             if ($at.length === 0) {
                 $at = $element;
             }
@@ -1666,29 +1693,29 @@
     <script src='https://www.calebismarketing.com/wp-content/plugins/facebook-conversion-pixel/video.js?ver=5.9.3'
         id='fca_pc_video_js-js'></script>
     <script type="text/javascript">var tcb_post_lists = JSON.parse('[]');</script>
-	<script src="https://getchat.app/assets/js/min/getchatapp.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var gcaMain = new GetChatApp({
-    'mobileNumber' : '+234 816 126 8823',
-    'titleMessage' : '👋 Get in touch on WhatsApp!',
-    'welcomeMessage': 'Hey there!🙌<br /> <br /> Get in touch with me by typing a message here. It will go straight to my phone! 🔥<br /> <br /> ~Your Name',
-    'position' : 'right'
-    'platforms' : {
-        'whatsapp' : true,
-        'facebook' : false,
-        'email' : false,
-        'instagram' : false,
-        'telegram' : false,
-    },
-    'facebookPageId' : '',
-    'gcaEmailAddress' : '',
-    'gcaEmailSubject' : '',
-    'gcaInstagramUsername' : '',
-    'gcaTelegramUsername' : '',
-  });
-});
-</script>
+    <script src="https://getchat.app/assets/js/min/getchatapp.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var gcaMain = new GetChatApp({
+                'mobileNumber': '+234 816 126 8823',
+                'titleMessage': '👋 Get in touch on WhatsApp!',
+                'welcomeMessage': 'Hey there!🙌<br /> <br /> Get in touch with me by typing a message here. It will go straight to my phone! 🔥<br /> <br /> ~Your Name',
+                'position': 'right'
+    'platforms': {
+                    'whatsapp': true,
+                    'facebook': false,
+                    'email': false,
+                    'instagram': false,
+                    'telegram': false,
+                },
+                'facebookPageId': '',
+                'gcaEmailAddress': '',
+                'gcaEmailSubject': '',
+                'gcaInstagramUsername': '',
+                'gcaTelegramUsername': '',
+            });
+        });
+    </script>
 </body>
 
 </html>
