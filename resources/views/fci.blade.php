@@ -1185,7 +1185,7 @@
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy" src="./images/image5.jpeg" alt="Image"
+                                                loading="lazy" src="https://playful-salamander-f3594d.netlify.app/images/image5.jpeg" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span>
                                     </div>
@@ -1193,7 +1193,7 @@
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy" src="./images/usertimer.gif" alt="Image"
+                                                loading="lazy" src="https://playful-salamander-f3594d.netlify.app/images/usertimer.gif" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span>
                                     </div>
@@ -1378,7 +1378,7 @@
                                         <span class="tve_image_frame"><img class="tve_image wp-image-63" alt=""
                                                 data-id="63" width="189" data-init-width="1920" height="251"
                                                 data-init-height="2560" title="IMG_4249" loading="lazy"
-                                                src="./images/image1.jpeg" alt="Image" data-width="189"
+                                                src="https://playful-salamander-f3594d.netlify.app/images/image1.jpeg" alt="Image" data-width="189"
                                                 data-height="251" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e876afc02" mt-m="0"></span>
                                     </div>
@@ -1392,7 +1392,7 @@
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy" src="./images/image2.jpeg" alt="Image"
+                                                loading="lazy" src="https://playful-salamander-f3594d.netlify.app/images/image2.jpeg" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span>
                                     </div>
@@ -1434,7 +1434,7 @@
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy" src="./images/usertimer.gif" alt="Image"
+                                                loading="lazy" src="https://playful-salamander-f3594d.netlify.app/images/usertimer.gif" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span>
                                     </div>
@@ -1446,7 +1446,7 @@
                                         <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
                                                 data-id="10" width="375" data-init-width="1080" height="287"
                                                 data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy" src="./images/image3.jpeg" alt="Image"
+                                                loading="lazy" src="https://playful-salamander-f3594d.netlify.app/images/image3.jpeg" alt="Image"
                                                 data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
                                                 data-css="tve-u-17e8208df3d"></span>
                                     </div>
