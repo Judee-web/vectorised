@@ -1,0 +1,2534 @@
+@font-face {
+  font-family: Glacial Indifference;
+  src: url(https://nxmcdn.com/fonts/RRA/vo-assets/GlacialIndifference-Regular.otf);
+}
+
+@font-face {
+  font-family: Thundersign Helgeria;
+  src: url(https://nxmcdn.com/fonts/RRA/vo-assets/ThundersignHelgeria.otf);
+}
+
+@font-face {
+  font-family: Agency FB;
+  src: url(https://nxmcdn.com/fonts/RRA/vo-assets/Agency-Regular.TTF);
+}
+
+#rra-main * {
+  margin: 0;
+  padding: 0;
+}
+
+#rra-main h1, #rra-main h2, #rra-main h3, #rra-main h4, #rra-main h5, #rra-main h6 {
+  font-family: Agency FB;
+  color: #ffffff;
+}
+
+#rra-main ul, #rra-main li, #rra-main a {
+  list-style: none;
+  color: #000;
+}
+
+#rra-main a {
+  color: #000;
+  text-decoration: none;
+}
+
+#rra-main a:hover, #rra-main a:focus, #rra-main a:active {
+  text-decoration: none;
+}
+
+#rra-main img {
+  height: auto;
+  width: 100%;
+}
+
+#rra-main .rra-btn {
+  font-family: Agency FB;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 1.2em;
+  text-align: center;
+  color: #ffffff;
+  width: 313px;
+  height: 61px;
+  background: #e92c28;
+  -webkit-box-shadow: 0px 0px 12px #f6f6f6;
+  box-shadow: 0px 0px 12px #f6f6f6;
+  border-radius: 4px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+#rra-banner {
+  position: relative;
+  z-index: 9;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-banner {
+    margin-top: 112px;
+  }
+}
+
+#rra-banner .banner-body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+#rra-banner .banner-text {
+  text-align: center;
+  margin-bottom: 85px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text {
+    margin-bottom: 45px;
+    margin-top: 60px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-banner .banner-text {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-banner .banner-text {
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+}
+
+#rra-banner .banner-text h1 {
+  font-family: Glacial Indifference;
+  font-size: 100px;
+  line-height: 1.2em;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text h1 {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-banner .banner-text h1 {
+    font-size: 40px;
+  }
+}
+
+#rra-banner .banner-text h3 {
+  font-family: Thundersign Helgeria;
+  font-size: 80px;
+  line-height: 1.2em;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text h3 {
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-banner .banner-text h3 {
+    font-size: 30px;
+  }
+}
+
+#rra-banner .banner-text h3:first-child {
+  margin-left: -300px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text h3:first-child {
+    margin-left: -150px;
+  }
+}
+
+#rra-banner .banner-text h3:last-child {
+  margin-right: -300px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text h3:last-child {
+    margin-right: -150px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-banner .rra-btn {
+    height: 40px;
+    width: 200px;
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-banner .rra-btn {
+    height: 30px;
+    width: 150px;
+    font-size: 16px;
+  }
+}
+
+#rra-video {
+  position: relative;
+}
+
+#rra-video .video-bg {
+  position: absolute;
+  top: -350px;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-video .video-bg {
+    top: -200px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-video .video-bg {
+    top: -65px;
+  }
+}
+
+#rra-video .video-content {
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  z-index: 9;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-video .video-content {
+    margin-top: 10px;
+  }
+}
+
+#rra-video .video-content h1 {
+  color: #ffffff;
+  font-family: 'Agency FB';
+  font-size: 42px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-video .video-content h1 {
+    font-size: 20px;
+  }
+}
+
+#rra-video .video-content span {
+  color: #E31C1C;
+}
+
+#rra-video .video-content p {
+  color: #ffffff;
+  font-family: Glacial Indifference;
+  font-size: 16px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+#rra-video .main-video {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0 30px;
+}
+
+#rra-video .main-video #wistia-4pd2bii7mo-1 {
+  cursor: pointer;
+}
+
+#rra-features {
+  margin-top: 60px;
+  padding: 0 5% 200px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-features {
+    padding: 0 0 200px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features {
+    padding: 0 0 100px;
+  }
+}
+
+#rra-features .feature-heading {
+  position: relative;
+  text-align: center;
+  margin: 0 15px;
+}
+
+#rra-features .feature-heading h1 {
+  color: #000;
+  font-size: 42px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features .feature-heading h1 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-features .feature-heading h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-features .feature-heading span {
+  color: #E31C1C;
+}
+
+#rra-features .feature-heading .line-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  top: 40px;
+  left: 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features .feature-heading .line-img {
+    top: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-features .feature-heading .line-img {
+    top: 25px;
+  }
+}
+
+#rra-features .features-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 60px;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#rra-features .features-wrapper .feature-card {
+  max-width: 33.33%;
+  padding: 0 15px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-features .features-wrapper .feature-card {
+    max-width: 100%;
+  }
+}
+
+#rra-features .features-wrapper .feature-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 175px;
+}
+
+#rra-features .features-wrapper .feature-img img {
+  width: auto;
+}
+
+#rra-features .features-wrapper .feature-title {
+  text-align: center;
+  margin-top: 15px;
+}
+
+#rra-features .features-wrapper .feature-title h1 {
+  color: #000;
+  font-family: 'Agency FB';
+  font-size: 42px;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features .features-wrapper .feature-title h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-features .features-wrapper .feature-title span {
+  color: #E31C1C;
+}
+
+#rra-features .features-wrapper .feature-desc {
+  margin-top: 30px;
+  text-align: center;
+  padding: 0 45px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features .features-wrapper .feature-desc {
+    padding: 0;
+  }
+}
+
+#rra-features .features-wrapper .feature-desc p {
+  font-family: Glacial Indifference;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.6em;
+}
+
+#rra-trading {
+  position: relative;
+}
+
+#rra-trading .trading-badge {
+  position: absolute;
+  top: -120px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-trading .trading-badge {
+    top: -60px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-trading .trading-badge {
+    top: -5px;
+  }
+}
+
+#rra-trading .trading-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-trading .trading-content {
+    position: relative;
+    top: unset;
+    left: unset;
+    padding: 120px 0;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-trading .trading-content {
+    padding: 90px 0;
+  }
+}
+
+#rra-trading .content-wrap {
+  max-width: 1370px;
+  padding: 0 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#rra-trading .content-left {
+  width: 50%;
+  padding: 0 30px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-trading .content-left {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+}
+
+#rra-trading .content-left h1 {
+  font-family: Glacial Indifference;
+  font-size: 42px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-trading .content-left h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-trading .content-left p {
+  color: #ffffff;
+  font-family: Glacial Indifference;
+  font-size: 28px;
+  font-weight: 400;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-trading .content-left p {
+    font-size: 14px;
+  }
+}
+
+#rra-trading .content-right {
+  width: 50%;
+  padding: 0 30px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-trading .content-right {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-trading .trading-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+  #rra-trading .trading-bg .bg-img {
+    height: 100%;
+  }
+  #rra-trading .trading-bg .bg-img img {
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+}
+
+#rra-access {
+  scroll-margin-top: 120px;
+  padding: 30px 5% 100px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-access {
+    padding: 30px 0 100px;
+  }
+}
+
+#rra-access .access-heading {
+  position: relative;
+  text-align: center;
+  margin: 0 15px;
+}
+
+#rra-access .access-heading h1 {
+  color: #000;
+  font-size: 42px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-heading h1 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-access .access-heading h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-access .access-heading span {
+  color: #E31C1C;
+}
+
+#rra-access .access-heading .line-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  top: 40px;
+  left: 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-heading .line-img {
+    top: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-access .access-heading .line-img {
+    top: 25px;
+  }
+}
+
+#rra-access .access-card-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 60px;
+}
+
+#rra-access .access-card {
+  border: 1px solid #DF2B29;
+  border-radius: 10px;
+  padding: 25px 15px;
+  margin: 0 15px;
+  text-align: center;
+  position: relative;
+  width: 300px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-access .access-card {
+    margin: 15px 0;
+  }
+}
+
+#rra-access .access-card h1 {
+  color: #E31C1C;
+  font-family: Glacial Indifference;
+  font-size: 42px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-card h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-access .access-card h2 {
+  color: #000;
+  font-family: Glacial Indifference;
+  font-size: 42px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-card h2 {
+    font-size: 24px;
+  }
+}
+
+#rra-access .access-card .check-icon {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 25px;
+  width: 25px;
+  background: #DF2B29;
+  border-radius: 50%;
+}
+
+#rra-access .access-card .check-icon i {
+  color: #ffffff;
+}
+
+#rra-access .recom {
+  background: -webkit-gradient(linear, left top, right top, from(#df1a1a), to(#f65757));
+  background: linear-gradient(90deg, #df1a1a 0%, #f65757 100%);
+  border-color: #df1a1a;
+}
+
+#rra-access .recom h1 {
+  color: #fff;
+}
+
+#rra-access .recom h2 {
+  color: #fff;
+}
+
+#rra-access .recom .check-icon {
+  background: #000;
+}
+
+#rra-access .access-desc {
+  padding: 0 60px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+#rra-access .access-desc p {
+  font-family: Glacial Indifference;
+  font-size: 24px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-desc p {
+    font-size: 14px;
+  }
+}
+
+#rra-access .access-desc span {
+  color: #E31C1C;
+  font-weight: 800;
+}
+
+#rra-app {
+  position: relative;
+}
+
+#rra-app .app-bg {
+  border-top: 2px solid #E31C1C;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+  #rra-app .app-bg .bg-img {
+    height: 100%;
+  }
+  #rra-app .app-bg .bg-img img {
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+}
+
+#rra-app .app-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-content {
+    position: relative;
+    top: unset;
+    left: unset;
+    padding: 30px 15px;
+  }
+}
+
+#rra-app .app-blank {
+  width: 50%;
+}
+
+#rra-app .app-right {
+  width: 40%;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-right {
+    width: 100%;
+  }
+}
+
+#rra-app .app-desc {
+  margin: 30px 0;
+}
+
+#rra-app .app-desc p {
+  font-family: Glacial Indifference;
+  font-size: 20px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-app .app-desc p {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-desc p {
+    background: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+    border-radius: 3px;
+  }
+}
+
+#rra-app .app-desc span {
+  color: #E31C1C;
+  font-weight: 800;
+}
+
+#rra-app .app-download {
+  background: #DF2B29;
+  position: relative;
+  height: 50px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0 30px;
+  border-radius: 20px;
+}
+
+#rra-app .app-download h4 {
+  font-family: 'Agency FB';
+  font-size: 24px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-app .app-download h4 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-download h4 {
+    font-size: 20px;
+  }
+}
+
+#rra-app .app-download .store-img {
+  margin-top: 20px;
+  width: 200px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-app .app-download .store-img {
+    margin-top: 15px;
+    width: 150px;
+  }
+}
+
+#rra-freedom {
+  position: relative;
+  margin-top: 0;
+  z-index: 9;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom {
+    margin-top: -35px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-freedom {
+    margin-top: 0;
+  }
+}
+
+#rra-freedom .freedom-bg {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+#rra-freedom .freedom-bg .bg-img {
+  height: 100%;
+}
+
+#rra-freedom .freedom-bg .bg-img img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-bg {
+    top: -30px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-bg {
+    top: 0;
+  }
+}
+
+#rra-freedom .freedom-badge {
+  position: absolute;
+  top: 0;
+  right: 60px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-badge {
+    top: -30px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-badge {
+    position: relative;
+    top: unset;
+    right: unset;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
+#rra-freedom .freedom-badge .badge-img {
+  width: 800px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-badge .badge-img {
+    width: 450px;
+  }
+}
+
+#rra-freedom .freedom-slider {
+  margin-top: -100px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-slider {
+    margin-top: 0;
+  }
+}
+
+#rra-freedom .freedom-slider .freedom-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#rra-freedom .freedom-slider .slide-img {
+  padding: 0 15px;
+  max-width: 50%;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-freedom .freedom-slider .slide-img {
+    max-width: 100%;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-content {
+  padding: 0 15px;
+  max-width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-freedom .freedom-slider .slide-content {
+    max-width: 100%;
+    margin-top: 30px;
+    padding: 30px;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-comment {
+  margin-right: 200px;
+  position: relative;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-slider .slide-comment {
+    margin-right: 0;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-comment::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -45px;
+  left: 0;
+  margin: 15px 0;
+  height: 1px;
+  width: 100%;
+  background: #da1b1b;
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #da1b1b), to(rgba(255, 255, 255, 0)));
+  background: linear-gradient(90deg, #da1b1b 50%, rgba(255, 255, 255, 0) 100%);
+}
+
+#rra-freedom .freedom-slider .slide-comment::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -45px;
+  left: 0;
+  margin: 15px 0;
+  height: 1px;
+  width: 100%;
+  background: #da1b1b;
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #da1b1b), to(rgba(255, 255, 255, 0)));
+  background: linear-gradient(90deg, #da1b1b 50%, rgba(255, 255, 255, 0) 100%);
+}
+
+#rra-freedom .freedom-slider .slide-comment p {
+  color: #fff;
+  font-family: Glacial Indifference;
+  font-size: 24px;
+  font-style: italic;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-slider .slide-comment p {
+    font-size: 14px;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-comment span {
+  color: #E31C1C;
+  font-weight: 800;
+}
+
+#rra-freedom .freedom-slider .slide-author {
+  margin-top: 60px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-freedom .freedom-slider .slide-author {
+    text-align: center;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-author h4 {
+  font-family: Glacial Indifference;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-slider .slide-author h4 {
+    font-size: 14px;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-author h5 {
+  font-family: Glacial Indifference;
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-slider .slide-author h5 {
+    font-size: 14px;
+  }
+}
+
+#rra-freedom .freedom-slider .splide__arrow {
+  background: #232323;
+  height: 3em;
+  width: 3em;
+}
+
+#rra-freedom .freedom-slider .splide__arrow:hover svg {
+  fill: #fff;
+}
+
+#rra-freedom .freedom-slider .splide__arrow svg {
+  fill: #878787;
+}
+
+#rra-community {
+  margin-top: -35px;
+  position: relative;
+  z-index: 99;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-community {
+    margin-top: 0;
+  }
+}
+
+#rra-community .community-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#rra-community .community-bg .bg-img {
+  height: 100%;
+}
+
+#rra-community .community-bg .bg-img img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#rra-community .community-content {
+  padding: 100px 0;
+}
+
+#rra-community .community-badge {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  z-index: 99;
+}
+
+#rra-community .community-badge .badge-img {
+  padding: 0 15px;
+}
+
+#rra-community .community-badge .badge-img img {
+  width: auto;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-community .community-badge .badge-img img {
+    width: 100%;
+  }
+}
+
+#rra-community .community-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  margin-top: 60px;
+  z-index: 99;
+}
+
+#rra-community .community-logo .logo-img {
+  padding: 0 15px;
+}
+
+#rra-community .community-logo .logo-img img {
+  width: auto;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-community .community-logo .logo-img img {
+    width: 100%;
+  }
+}
+
+#rra-community .community-text {
+  position: relative;
+  z-index: 99;
+  text-align: center;
+  width: 50%;
+  margin: 60px auto 30px;
+  padding: 0 15px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-community .community-text {
+    width: 100%;
+  }
+}
+
+#rra-community .community-text h1 {
+  color: #000;
+  font-family: Glacial Indifference;
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 60px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-community .community-text h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-community .community-text p {
+  font-family: Glacial Indifference;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-community .community-text p {
+    font-size: 14px;
+  }
+}
+
+#rra-community .community-sig {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  z-index: 99;
+}
+
+#rra-community .community-sig .sig-img {
+  padding: 0 15px;
+}
+
+#rra-community .community-sig .sig-img img {
+  width: auto;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-community .community-sig .sig-img img {
+    width: 100%;
+  }
+}
+
+#rra-main * {
+  margin: 0;
+  padding: 0;
+}
+
+#rra-main h1,
+#rra-main h2,
+#rra-main h3,
+#rra-main h4,
+#rra-main h5,
+#rra-main h6 {
+  font-family: Agency FB;
+  color: #ffffff;
+}
+
+#rra-main ul,
+#rra-main li,
+#rra-main a {
+  list-style: none;
+  color: #000;
+}
+
+#rra-main a {
+  color: #000;
+  text-decoration: none;
+}
+
+#rra-main a:hover, #rra-main a:focus, #rra-main a:active {
+  text-decoration: none;
+}
+
+#rra-main img {
+  height: auto;
+  width: 100%;
+}
+
+#rra-main .rra-btn {
+  font-family: Agency FB;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 1.2em;
+  text-align: center;
+  color: #ffffff;
+  width: 313px;
+  height: 61px;
+  background: #e92c28;
+  -webkit-box-shadow: 0px 0px 12px #f6f6f6;
+  box-shadow: 0px 0px 12px #f6f6f6;
+  border-radius: 4px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+#rra-banner {
+  position: relative;
+  z-index: 9;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-banner {
+    margin-top: 112px;
+  }
+}
+
+#rra-banner .banner-body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+#rra-banner .banner-text {
+  text-align: center;
+  margin-bottom: 85px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text {
+    margin-bottom: 45px;
+    margin-top: 60px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-banner .banner-text {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-banner .banner-text {
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+}
+
+#rra-banner .banner-text h1 {
+  font-family: Glacial Indifference;
+  font-size: 100px;
+  line-height: 1.2em;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text h1 {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-banner .banner-text h1 {
+    font-size: 40px;
+  }
+}
+
+#rra-banner .banner-text h3 {
+  font-family: Thundersign Helgeria;
+  font-size: 80px;
+  line-height: 1.2em;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text h3 {
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-banner .banner-text h3 {
+    font-size: 30px;
+  }
+}
+
+#rra-banner .banner-text h3:first-child {
+  margin-left: -300px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text h3:first-child {
+    margin-left: -150px;
+  }
+}
+
+#rra-banner .banner-text h3:last-child {
+  margin-right: -300px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-banner .banner-text h3:last-child {
+    margin-right: -150px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-banner .rra-btn {
+    height: 40px;
+    width: 200px;
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-banner .rra-btn {
+    height: 30px;
+    width: 150px;
+    font-size: 16px;
+  }
+}
+
+#rra-video {
+  position: relative;
+}
+
+#rra-video .video-bg {
+  position: absolute;
+  top: -350px;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-video .video-bg {
+    top: -200px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-video .video-bg {
+    top: -65px;
+  }
+}
+
+#rra-video .video-content {
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  z-index: 9;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-video .video-content {
+    margin-top: 10px;
+  }
+}
+
+#rra-video .video-content h1 {
+  color: #ffffff;
+  font-family: 'Agency FB';
+  font-size: 42px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-video .video-content h1 {
+    font-size: 20px;
+  }
+}
+
+#rra-video .video-content span {
+  color: #E31C1C;
+}
+
+#rra-video .video-content p {
+  color: #ffffff;
+  font-family: Glacial Indifference;
+  font-size: 16px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+#rra-video .main-video {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0 30px;
+}
+
+#rra-video .main-video #wistia-4pd2bii7mo-1 {
+  cursor: pointer;
+}
+
+#rra-features {
+  scroll-margin-top: 120px;
+  margin-top: 60px;
+  padding: 0 5% 200px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-features {
+    padding: 0 0 200px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features {
+    padding: 0 0 100px;
+  }
+}
+
+#rra-features .feature-heading {
+  position: relative;
+  text-align: center;
+  margin: 0 15px;
+}
+
+#rra-features .feature-heading h1 {
+  color: #000;
+  font-size: 42px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features .feature-heading h1 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-features .feature-heading h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-features .feature-heading span {
+  color: #E31C1C;
+}
+
+#rra-features .feature-heading .line-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  top: 40px;
+  left: 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features .feature-heading .line-img {
+    top: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-features .feature-heading .line-img {
+    top: 25px;
+  }
+}
+
+#rra-features .features-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 60px;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#rra-features .features-wrapper .feature-card {
+  max-width: 33.33%;
+  padding: 0 15px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-features .features-wrapper .feature-card {
+    max-width: 100%;
+  }
+}
+
+#rra-features .features-wrapper .feature-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 175px;
+}
+
+#rra-features .features-wrapper .feature-img img {
+  width: auto;
+}
+
+#rra-features .features-wrapper .feature-title {
+  text-align: center;
+  margin-top: 15px;
+}
+
+#rra-features .features-wrapper .feature-title h1 {
+  color: #000;
+  font-family: 'Agency FB';
+  font-size: 42px;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features .features-wrapper .feature-title h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-features .features-wrapper .feature-title span {
+  color: #E31C1C;
+}
+
+#rra-features .features-wrapper .feature-desc {
+  margin-top: 30px;
+  text-align: center;
+  padding: 0 45px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-features .features-wrapper .feature-desc {
+    padding: 0;
+  }
+}
+
+#rra-features .features-wrapper .feature-desc p {
+  font-family: Glacial Indifference;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.6em;
+}
+
+#rra-trading {
+  position: relative;
+}
+
+#rra-trading .trading-badge {
+  position: absolute;
+  top: -120px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-trading .trading-badge {
+    top: -60px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-trading .trading-badge {
+    top: -5px;
+  }
+}
+
+#rra-trading .trading-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-trading .trading-content {
+    position: relative;
+    top: unset;
+    left: unset;
+    padding: 120px 0;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-trading .trading-content {
+    padding: 90px 0;
+  }
+}
+
+#rra-trading .content-wrap {
+  max-width: 1370px;
+  padding: 0 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#rra-trading .content-left {
+  width: 50%;
+  padding: 0 30px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-trading .content-left {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+}
+
+#rra-trading .content-left h1 {
+  font-family: Glacial Indifference;
+  font-size: 42px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-trading .content-left h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-trading .content-left p {
+  color: #ffffff;
+  font-family: Glacial Indifference;
+  font-size: 28px;
+  font-weight: 400;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-trading .content-left p {
+    font-size: 14px;
+  }
+}
+
+#rra-trading .content-right {
+  width: 50%;
+  padding: 0 30px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-trading .content-right {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-trading .trading-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+  #rra-trading .trading-bg .bg-img {
+    height: 100%;
+  }
+  #rra-trading .trading-bg .bg-img img {
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+}
+
+#rra-access {
+  padding: 30px 5% 100px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-access {
+    padding: 30px 0 100px;
+  }
+}
+
+#rra-access .access-heading {
+  position: relative;
+  text-align: center;
+  margin: 0 15px;
+}
+
+#rra-access .access-heading h1 {
+  color: #000;
+  font-size: 42px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-heading h1 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-access .access-heading h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-access .access-heading span {
+  color: #E31C1C;
+}
+
+#rra-access .access-heading .line-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  top: 40px;
+  left: 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-heading .line-img {
+    top: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-access .access-heading .line-img {
+    top: 25px;
+  }
+}
+
+#rra-access .access-card-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 60px;
+}
+
+#rra-access .access-card {
+  border: 1px solid #DF2B29;
+  border-radius: 10px;
+  padding: 25px 15px;
+  margin: 0 15px;
+  text-align: center;
+  position: relative;
+  width: 300px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-access .access-card {
+    margin: 15px 0;
+  }
+}
+
+#rra-access .access-card h1 {
+  color: #E31C1C;
+  font-family: Glacial Indifference;
+  font-size: 42px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-card h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-access .access-card h2 {
+  color: #000;
+  font-family: Glacial Indifference;
+  font-size: 42px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-card h2 {
+    font-size: 24px;
+  }
+}
+
+#rra-access .access-card .check-icon {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 25px;
+  width: 25px;
+  background: #DF2B29;
+  border-radius: 50%;
+}
+
+#rra-access .access-card .check-icon i {
+  color: #ffffff;
+}
+
+#rra-access .recom {
+  background: -webkit-gradient(linear, left top, right top, from(#df1a1a), to(#f65757));
+  background: linear-gradient(90deg, #df1a1a 0%, #f65757 100%);
+  border-color: #df1a1a;
+}
+
+#rra-access .recom h1 {
+  color: #fff;
+}
+
+#rra-access .recom h2 {
+  color: #fff;
+}
+
+#rra-access .recom .check-icon {
+  background: #000;
+}
+
+#rra-access .access-desc {
+  padding: 0 60px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+#rra-access .access-desc p {
+  font-family: Glacial Indifference;
+  font-size: 24px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-access .access-desc p {
+    font-size: 14px;
+  }
+}
+
+#rra-access .access-desc span {
+  color: #E31C1C;
+  font-weight: 800;
+}
+
+#rra-app {
+  position: relative;
+}
+
+#rra-app .app-bg {
+  border-top: 2px solid #E31C1C;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+  #rra-app .app-bg .bg-img {
+    height: 100%;
+  }
+  #rra-app .app-bg .bg-img img {
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+}
+
+#rra-app .app-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-content {
+    position: relative;
+    top: unset;
+    left: unset;
+    padding: 30px 15px;
+  }
+}
+
+#rra-app .app-blank {
+  width: 50%;
+}
+
+#rra-app .app-right {
+  width: 40%;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-right {
+    width: 100%;
+  }
+}
+
+#rra-app .app-desc {
+  margin: 30px 0;
+}
+
+#rra-app .app-desc p {
+  font-family: Glacial Indifference;
+  font-size: 20px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-app .app-desc p {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-desc p {
+    background: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+    border-radius: 3px;
+  }
+}
+
+#rra-app .app-desc span {
+  color: #E31C1C;
+  font-weight: 800;
+}
+
+#rra-app .app-download {
+  background: #DF2B29;
+  position: relative;
+  height: 50px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0 30px;
+  border-radius: 20px;
+}
+
+#rra-app .app-download h4 {
+  font-family: 'Agency FB';
+  font-size: 24px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-app .app-download h4 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-app .app-download h4 {
+    font-size: 20px;
+  }
+}
+
+#rra-app .app-download .store-img {
+  margin-top: 20px;
+  width: 200px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-app .app-download .store-img {
+    margin-top: 15px;
+    width: 150px;
+  }
+}
+
+#rra-freedom {
+  position: relative;
+  margin-top: 0;
+  z-index: 9;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom {
+    margin-top: -35px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #rra-freedom {
+    margin-top: 0;
+  }
+}
+
+#rra-freedom .freedom-bg {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+#rra-freedom .freedom-bg .bg-img {
+  height: 100%;
+}
+
+#rra-freedom .freedom-bg .bg-img img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-bg {
+    top: -30px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-bg {
+    top: 0;
+  }
+}
+
+#rra-freedom .freedom-badge {
+  position: absolute;
+  top: 0;
+  right: 60px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-badge {
+    top: -30px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-badge {
+    position: relative;
+    top: unset;
+    right: unset;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
+#rra-freedom .freedom-badge .badge-img {
+  width: 800px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-badge .badge-img {
+    width: 450px;
+  }
+}
+
+#rra-freedom .freedom-slider {
+  margin-top: -100px;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-slider {
+    margin-top: 0;
+  }
+}
+
+#rra-freedom .freedom-slider .freedom-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#rra-freedom .freedom-slider .slide-img {
+  padding: 0 15px;
+  max-width: 50%;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-freedom .freedom-slider .slide-img {
+    max-width: 100%;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-content {
+  padding: 0 15px;
+  max-width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-freedom .freedom-slider .slide-content {
+    max-width: 100%;
+    margin-top: 30px;
+    padding: 30px;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-comment {
+  margin-right: 200px;
+  position: relative;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-freedom .freedom-slider .slide-comment {
+    margin-right: 0;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-comment::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -45px;
+  left: 0;
+  margin: 15px 0;
+  height: 1px;
+  width: 100%;
+  background: #da1b1b;
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #da1b1b), to(rgba(255, 255, 255, 0)));
+  background: linear-gradient(90deg, #da1b1b 50%, rgba(255, 255, 255, 0) 100%);
+}
+
+#rra-freedom .freedom-slider .slide-comment::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -45px;
+  left: 0;
+  margin: 15px 0;
+  height: 1px;
+  width: 100%;
+  background: #da1b1b;
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #da1b1b), to(rgba(255, 255, 255, 0)));
+  background: linear-gradient(90deg, #da1b1b 50%, rgba(255, 255, 255, 0) 100%);
+}
+
+#rra-freedom .freedom-slider .slide-comment p {
+  color: #fff;
+  font-family: Glacial Indifference;
+  font-size: 24px;
+  font-style: italic;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-slider .slide-comment p {
+    font-size: 14px;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-comment span {
+  color: #E31C1C;
+  font-weight: 800;
+}
+
+#rra-freedom .freedom-slider .slide-author {
+  margin-top: 60px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-freedom .freedom-slider .slide-author {
+    text-align: center;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-author h4 {
+  font-family: Glacial Indifference;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-slider .slide-author h4 {
+    font-size: 14px;
+  }
+}
+
+#rra-freedom .freedom-slider .slide-author h5 {
+  font-family: Glacial Indifference;
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-freedom .freedom-slider .slide-author h5 {
+    font-size: 14px;
+  }
+}
+
+#rra-freedom .freedom-slider .splide__arrow {
+  background: #232323;
+  height: 3em;
+  width: 3em;
+}
+
+#rra-freedom .freedom-slider .splide__arrow:hover svg {
+  fill: #fff;
+}
+
+#rra-freedom .freedom-slider .splide__arrow svg {
+  fill: #878787;
+}
+
+#rra-community {
+  margin-top: -35px;
+  position: relative;
+  z-index: 99;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-community {
+    margin-top: 0;
+  }
+}
+
+#rra-community .community-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#rra-community .community-bg .bg-img {
+  height: 100%;
+}
+
+#rra-community .community-bg .bg-img img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#rra-community .community-content {
+  padding: 100px 0;
+}
+
+#rra-community .community-badge {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  z-index: 99;
+}
+
+#rra-community .community-badge .badge-img {
+  padding: 0 15px;
+}
+
+#rra-community .community-badge .badge-img img {
+  width: auto;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-community .community-badge .badge-img img {
+    width: 100%;
+  }
+}
+
+#rra-community .community-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  margin-top: 60px;
+  z-index: 99;
+}
+
+#rra-community .community-logo .logo-img {
+  padding: 0 15px;
+}
+
+#rra-community .community-logo .logo-img img {
+  width: auto;
+}
+
+@media screen and (max-width: 1199px) {
+  #rra-community .community-logo .logo-img img {
+    width: 100%;
+  }
+}
+
+#rra-community .community-text {
+  position: relative;
+  z-index: 99;
+  text-align: center;
+  width: 50%;
+  margin: 60px auto 30px;
+  padding: 0 15px;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-community .community-text {
+    width: 100%;
+  }
+}
+
+#rra-community .community-text h1 {
+  color: #000;
+  font-family: Glacial Indifference;
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 60px;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-community .community-text h1 {
+    font-size: 24px;
+  }
+}
+
+#rra-community .community-text p {
+  font-family: Glacial Indifference;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 991px) {
+  #rra-community .community-text p {
+    font-size: 14px;
+  }
+}
+
+#rra-community .community-sig {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  z-index: 99;
+}
+
+#rra-community .community-sig .sig-img {
+  padding: 0 15px;
+}
+
+#rra-community .community-sig .sig-img img {
+  width: auto;
+}
+
+@media screen and (max-width: 767px) {
+  #rra-community .community-sig .sig-img img {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=main_v2.css.map */
