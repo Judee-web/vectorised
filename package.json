@@ -1,5 +1,6 @@
 {
     "private": true,
+    "svelte": "./swiper.esm.js",
     "scripts": {
         "dev": "npm run development",
         "development": "mix",
@@ -13,7 +14,6 @@
         "axios": "^0.21",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14",
-        "svelte": "./swiper.esm.js"
+        "postcss": "^8.1.14"
     }
 }
